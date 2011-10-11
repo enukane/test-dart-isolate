@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_ArrayBufferViewWrappingImplementation.dart",
+"lineCount":140,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iH;AAAA,0F;AAAA,yF;AAAA,kF;AAAA,iF;AAAA,2E;AACEC,wDAAA,GAAA,UAAmD;AAAR,6CAAQ;;A;AAAnDA,wDAAA,GAAA;;;A;AAAAA,2FAAA,GAAA;MAAAC,uDAAA;;;;;;A;AAEAC,gGAAA,GAAA,UAAuD;AACrD,SAAO,6FAD8C;;A;AAAvDC,+F;;;;;;;;AAAAC,sGAAA;SAAAF,gGAAA;;A;AAAA,mGAAAA;;;A;AAIAG,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAyB;AAAE,SAAON,2CAAA,uCAA6B,IAA7B,CAAT;;A;AACzBO,iFAAA,GAAA,SAAgDC,KAAhD,CAA2D;;;A;AAA3DC,gF;;;;;;;;AAAA,oFAAAF;;;A;AAEAG,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAqB;AAAE,SAAOV,2CAAA,2CAAiC,IAAjC,CAAT;;A;AACrBW,qFAAA,GAAA,SAA4CH,KAA5C,CAAuD;;;A;AAAvDI,oF;;;;;;;;AAAA,wFAAAD;;;A;AAEAE,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAqB;AAAE,SAAOb,2CAAA,2CAAiC,IAAjC,CAAT;;A;AACrBc,qFAAA,GAAA,SAA4CN,KAA5C,CAAuD;;;A;AAAvDO,oF;;;;;;;;AAAA,wFAAAD;;;A;AAEAE,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAAsB;AAAE,SAAO,iBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_ArrayBufferViewWrappingImplementation.dart"],
+"names":["_ArrayBufferViewWrappingImplementation","","tmp$0","create__ArrayBufferViewWrappingImplementation","create__ArrayBufferViewWrappingImplementation$named","native__ArrayBufferViewWrappingImplementation_create__ArrayBufferViewWrappingImplementation","buffer","_get__ArrayBufferView_buffer","_this","_get__ArrayBufferView_buffer$$named_","byteLength","_get__ArrayBufferView_byteLength","_get__ArrayBufferView_byteLength$$named_","byteOffset","_get__ArrayBufferView_byteOffset","_get__ArrayBufferView_byteOffset$$named_","typeName"]
+}

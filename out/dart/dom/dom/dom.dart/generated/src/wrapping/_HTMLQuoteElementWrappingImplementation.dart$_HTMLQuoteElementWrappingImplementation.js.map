@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_HTMLQuoteElementWrappingImplementation.dart",
+"lineCount":121,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,4F;AAAA,uF;AAAA,mF;AAAA,gF;AAAA,uF;AAAA,wF;AAAA,4F;AAAA,8G;AAAA,0G;AAAA,uG;AAAA,0F;AAAA,mF;AAAA,kF;AAAA,gG;AACEC,yDAAA,GAAA,UAAoD;AAAR,iEAAQ;;A;AAApDA,yDAAA,GAAA;;;A;AAAAA,6FAAA,GAAA;MAAAC,wDAAA;;;;;;A;AAEAC,kGAAA,GAAA,UAAwD;AACtD,SAAO,+FAD+C;;A;AAAxDC,iG;;;;;;;;AAAAC,wGAAA;SAAAF,kGAAA;;A;AAAA,qGAAAA;;;A;AAIAG,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAkB;AAAE,SAAON,4CAAA,sCAA4B,IAA5B,CAAT;;A;AAGlBM,kEAAA,GAAA,SAAcC,KAAd,CAA4B;AAAEP,8CAAA,sCAA4B,IAA5B,EAAkCO,KAAlC,CAAF;;A;AAF5BC,iFAAA,GAAA,SAA0CC,KAA1C,CAAqD;;;A;AAArDC,gF;;;;;;;;AAAA,oFAAAF;;;A;AAGAG,iFAAA,GAAA,SAAwCF,KAAxC,EAAmDF,KAAnD,CAAiE;;;A;AAAjEK,gF;;;;;;;;AAAA,oFAAAD;;;A;AAEAE,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAsB;AAAE,SAAO,kBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_HTMLQuoteElementWrappingImplementation.dart"],
+"names":["_HTMLQuoteElementWrappingImplementation","","tmp$0","create__HTMLQuoteElementWrappingImplementation","create__HTMLQuoteElementWrappingImplementation$named","native__HTMLQuoteElementWrappingImplementation_create__HTMLQuoteElementWrappingImplementation","cite","value","_get__HTMLQuoteElement_cite","_this","_get__HTMLQuoteElement_cite$$named_","_set__HTMLQuoteElement_cite","_set__HTMLQuoteElement_cite$$named_","typeName"]
+}

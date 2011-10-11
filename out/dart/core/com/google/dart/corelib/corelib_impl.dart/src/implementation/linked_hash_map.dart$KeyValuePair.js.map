@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/src/implementation/linked_hash_map.dart",
+"lineCount":52,
+"mappings":"AASCA;;A;;;;;;;;;;AAAA,6D;AAAA,uD;AACEC,8BAAA,GAAA,SAAaC,GAAb,EAAuBC,KAAvB,CAAmC;;;A;AAAnCF,8BAAA,GAAA;;AAAa,mBAAAC,GAAb;AAAuB,qBAAAC,KAAvB;;A;AAAAF,uCAAA,GAAA,eAAaC,GAAb,EAAuBC,KAAvB;MAAAC,6BAAA;;;;;;A;AAEQF,qCAAA;;;A;AAAAA,sCAAA;;;A;AACNC,uCAAA;;;A;AAAAA,wCAAA;;;A;AAAAA,wCAAA;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/src/implementation/linked_hash_map.dart"],
+"names":["KeyValuePair","","key","value","tmp$0"]
+}

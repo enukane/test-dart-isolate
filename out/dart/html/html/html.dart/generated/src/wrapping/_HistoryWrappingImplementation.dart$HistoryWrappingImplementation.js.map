@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_HistoryWrappingImplementation.dart",
+"lineCount":152,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qH;AAAA,+F;AAAA,sG;AAAA,mF;AAAA,wF;AACEC,4EAAA,GAAA,SAAoCC,GAApC,CAA4D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA5DD,4EAAA,GAAA;2EAAuDC,GAAvD;;A;AAAAD,yGAAA,GAAA,SAAoCC,GAApC;MAAAC,yDAAA;;;;;;A;AAEAC,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,mEAAA,GAAA,UAAY;AACV,iCAAA,uBADU;AAEV,QAFU;;A;AAAZC,kE;;;;;;;;AAAA,sEAAAD;;;A;AAKAE,sEAAA,GAAA,UAAe;AACb,iCAAA,0BADa;AAEb,QAFa;;A;AAAfC,qE;;;;;;;;AAAA,yEAAAD;;;A;AAKAE,iEAAA,GAAA,SAAQC,QAAR,CAAsB;AACpB,iCAAA,sBAAQA,QAAR,CADoB;AAEpB,QAFoB;;A;AAAtBC,gE;;;;;;;;AAAA,oEAAAF;;;A;AAKAG,wEAAA,GAAA,SAAeC,IAAf,EAA4BC,KAA5B,EAA2CC,GAA3C,CAA+D;AAC7D,MAAIA,GAAA,QAAJ,EAAkB;AAChB,mCAAA,6BAAeC,wBAAA,6BAA8BH,IAA9B,CAAf,EAAoDC,KAApD,CADgB;AAEhB,UAFgB;;AAAlB,QAGO;AACL,mCAAA,6BAAeE,wBAAA,6BAA8BH,IAA9B,CAAf,EAAoDC,KAApD,EAA2DC,GAA3D,CADK;AAEL,UAFK;;AAJsD;A;AAA/DE,uE;;;;;;;;;;;;AAAA,2EAAAL;;;A;AAUAM,2EAAA,GAAA,SAAkBL,IAAlB,EAA+BC,KAA/B,EAA8CC,GAA9C,CAAkE;AAChE,MAAIA,GAAA,QAAJ,EAAkB;AAChB,mCAAA,gCAAkBC,wBAAA,6BAA8BH,IAA9B,CAAlB,EAAuDC,KAAvD,CADgB;AAEhB,UAFgB;;AAAlB,QAGO;AACL,mCAAA,gCAAkBE,wBAAA,6BAA8BH,IAA9B,CAAlB,EAAuDC,KAAvD,EAA8DC,GAA9D,CADK;AAEL,UAFK;;AAJyD;A;AAAlEI,0E;;;;;;;;;;;;AAAA,8EAAAD;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_HistoryWrappingImplementation.dart"],
+"names":["HistoryWrappingImplementation","_wrap","ptr","tmp$0","length","back","back$named","forward","forward$named","go","distance","go$named","pushState","data","title","url","LevelDom","pushState$named","replaceState","replaceState$named"]
+}

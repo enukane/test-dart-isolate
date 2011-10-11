@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_LIElementWrappingImplementation.dart",
+"lineCount":71,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yH;AAAA,mG;AAAA,iG;AAAA,8F;AAAA,qG;AAAA,uH;AAAA,oH;AAAA,2H;AAAA,wG;AAAA,qF;AAAA,yG;AACEC,8EAAA,GAAA,SAAsCC,GAAtC,CAA8D;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAA9DD,8EAAA,GAAA;0FAAyDC,GAAzD;;A;AAAAD,6GAAA,GAAA,SAAsCC,GAAtC;MAAAC,2DAAA;;;;;;A;AAEAC,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBA,qEAAA,GAAA,SAAcC,KAAd,CAA4B;;AAAE,iCAAA,qBAAYA,KAAZ,SAAF;;A;AAE5BA,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;A;AAEhBA,sEAAA,GAAA,SAAeA,KAAf,CAA0B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_LIElementWrappingImplementation.dart"],
+"names":["LIElementWrappingImplementation","_wrap","ptr","tmp$0","type","value"]
+}

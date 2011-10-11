@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib.dart/src/regexp.dart",
+"lineCount":3,
+"mappings":"AA4FCA;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib.dart/src/regexp.dart"],
+"names":["RegExp"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_StyleElementWrappingImplementation.dart",
+"lineCount":92,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+H;AAAA,yG;AAAA,oG;AAAA,iG;AAAA,wG;AAAA,0H;AAAA,uH;AAAA,8H;AAAA,2G;AAAA,wF;AAAA,4G;AACEC,iFAAA,GAAA,SAAyCC,GAAzC,CAAiE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAjED,iFAAA,GAAA;0FAA4DC,GAA5D;;A;AAAAD,mHAAA,GAAA,SAAyCC,GAAzC;MAAAC,8DAAA;;;;;;A;AAEAC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEpBA,4EAAA,GAAA,SAAkBC,KAAlB,CAA8B;;AAAE,iCAAA,yBAAgBA,KAAhB,SAAF;;A;AAE9BC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,eAAT;;A;AAEnBA,yEAAA,GAAA,SAAeD,KAAf,CAA6B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;A;AAE7BE,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAuB;AAAE,SAAOC,wBAAA,uBAAwB,+BAAA,eAAxB,CAAT;;A;AAEvBC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBA,wEAAA,GAAA,SAAcJ,KAAd,CAA4B;;AAAE,iCAAA,qBAAYA,KAAZ,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_StyleElementWrappingImplementation.dart"],
+"names":["StyleElementWrappingImplementation","_wrap","ptr","tmp$0","disabled","value","media","sheet","LevelDom","type"]
+}

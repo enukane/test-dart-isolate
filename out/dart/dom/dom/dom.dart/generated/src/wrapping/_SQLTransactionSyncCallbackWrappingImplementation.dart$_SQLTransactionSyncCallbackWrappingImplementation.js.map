@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_SQLTransactionSyncCallbackWrappingImplementation.dart",
+"lineCount":100,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uI;AAAA,gH;AAAA,oG;AAAA,6F;AAAA,4F;AAAA,sF;AACEC,mEAAA,GAAA,UAA8D;AAAR,6CAAQ;;A;AAA9DA,mEAAA,GAAA;;;A;AAAAA,iHAAA,GAAA;MAAAC,kEAAA;;;;;;A;AAEAC,sHAAA,GAAA,UAAkE;AAChE,SAAO,mHADyD;;A;AAAlEC,qH;;;;;;;;AAAAC,4HAAA;SAAAF,sHAAA;;A;AAAA,yHAAAA;;;A;AAIAG,mFAAA,GAAA,SAAiBC,WAAjB,CAAiD;AAC/C,SAAOP,sDAAA,uBAAa,IAAb,EAAmBO,WAAnB,CADwC;;A;AAAjDC,kF;;;;;;;;AAAA,sFAAAF;;;A;AAGAG,4EAAA,GAAA,SAAyBC,QAAzB,EAAmCH,WAAnC,CAAgD;;;A;AAAhDI,2E;;;;;;;;AAAA,+EAAAF;;;A;AAEAG,+EAAA;;;A;AAAAA,gFAAA,GAAA,UAAsB;AAAE,SAAO,4BAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_SQLTransactionSyncCallbackWrappingImplementation.dart"],
+"names":["_SQLTransactionSyncCallbackWrappingImplementation","","tmp$0","create__SQLTransactionSyncCallbackWrappingImplementation","create__SQLTransactionSyncCallbackWrappingImplementation$named","native__SQLTransactionSyncCallbackWrappingImplementation_create__SQLTransactionSyncCallbackWrappingImplementation","handleEvent","transaction","handleEvent$named","_handleEvent","receiver","_handleEvent$$named_","typeName"]
+}

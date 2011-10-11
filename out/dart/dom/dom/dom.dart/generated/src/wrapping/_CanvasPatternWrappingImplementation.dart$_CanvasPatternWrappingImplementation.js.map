@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_CanvasPatternWrappingImplementation.dart",
+"lineCount":68,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6G;AAAA,sF;AAAA,uF;AAAA,gF;AAAA,+E;AAAA,yE;AACEC,sDAAA,GAAA,UAAiD;AAAR,6CAAQ;;A;AAAjDA,sDAAA,GAAA;;;A;AAAAA,uFAAA,GAAA;MAAAC,qDAAA;;;;;;A;AAEAC,4FAAA,GAAA,UAAqD;AACnD,SAAO,yFAD4C;;A;AAArDC,2F;;;;;;;;AAAAC,kGAAA;SAAAF,4FAAA;;A;AAAA,+FAAAA;;;A;AAIAG,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAsB;AAAE,SAAO,eAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_CanvasPatternWrappingImplementation.dart"],
+"names":["_CanvasPatternWrappingImplementation","","tmp$0","create__CanvasPatternWrappingImplementation","create__CanvasPatternWrappingImplementation$named","native__CanvasPatternWrappingImplementation_create__CanvasPatternWrappingImplementation","typeName"]
+}

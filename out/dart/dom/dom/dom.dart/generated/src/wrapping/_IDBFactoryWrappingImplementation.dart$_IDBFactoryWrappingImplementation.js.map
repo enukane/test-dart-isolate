@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_IDBFactoryWrappingImplementation.dart",
+"lineCount":132,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uG;AAAA,gF;AAAA,oF;AAAA,6E;AAAA,4E;AAAA,sE;AACEC,mDAAA,GAAA,UAA8C;AAAR,6CAAQ;;A;AAA9CA,mDAAA,GAAA;;;A;AAAAA,iFAAA,GAAA;MAAAC,kDAAA;;;;;;A;AAEAC,sFAAA,GAAA,UAAkD;AAChD,SAAO,mFADyC;;A;AAAlDC,qF;;;;;;;;AAAAC,4FAAA;SAAAF,sFAAA;;A;AAAA,yFAAAA;;;A;AAIAG,wEAAA,GAAA,UAA8B;AAC5B,SAAON,sCAAA,4BAAkB,IAAlB,CADqB;;A;AAA9BO,uE;;;;;;;;AAAA,2EAAAD;;;A;AAGAE,iEAAA,GAAA,SAAoCC,QAApC,CAA8C;;;A;AAA9CC,gE;;;;;;;;AAAA,oEAAAF;;;A;AAEAG,4DAAA,GAAA,SAAgBC,MAAhB,CAA6B;AAC3B,SAAOZ,sCAAA,gBAAM,IAAN,EAAYY,MAAZ,CADoB;;A;AAA7BC,2D;;;;;;;;AAAA,+DAAAF;;;A;AAGAG,qDAAA,GAAA,SAAwBL,QAAxB,EAAkCG,MAAlC,CAAwC;;;A;AAAxCG,oD;;;;;;;;AAAA,wDAAAD;;;A;AAEAE,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAsB;AAAE,SAAO,YAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_IDBFactoryWrappingImplementation.dart"],
+"names":["_IDBFactoryWrappingImplementation","","tmp$0","create__IDBFactoryWrappingImplementation","create__IDBFactoryWrappingImplementation$named","native__IDBFactoryWrappingImplementation_create__IDBFactoryWrappingImplementation","getDatabaseNames","getDatabaseNames$named","_getDatabaseNames","receiver","_getDatabaseNames$$named_","open","name","open$named","_open","_open$$named_","typeName"]
+}

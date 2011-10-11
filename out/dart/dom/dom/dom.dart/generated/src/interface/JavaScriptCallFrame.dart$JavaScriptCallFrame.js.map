@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/interface/JavaScriptCallFrame.dart",
+"lineCount":52,
+"mappings":"AAOCA;;A;;;;;;;;;;AAEmBC,0CAAA;;;A;AAAAA,2CAAA;;;A;AAEAC,4CAAA;;;A;AAAAA,6CAAA;;;A;AAEAC,2CAAA;;;A;AAAAA,4CAAA;;;A;AAEAC,0CAAA;;;A;AAAAA,2CAAA;;;A;AAEAC,yCAAA;;;A;AAAAA,0CAAA;;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/interface/JavaScriptCallFrame.dart"],
+"names":["JavaScriptCallFrame","CATCH_SCOPE","CLOSURE_SCOPE","GLOBAL_SCOPE","LOCAL_SCOPE","WITH_SCOPE"]
+}

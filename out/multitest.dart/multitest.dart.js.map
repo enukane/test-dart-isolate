@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"multitest.dart/multitest.dart",
+"lineCount":55,
+"mappings":"AAwB+B,yDAACA,IAAD,CAAgB;;AAC5C,MAAIC,mBAAU,oHAAVA,GAAW,4BAAA,IAAA,EAAM,MAAN,CAAXA,GAAyB,4BAAA,MAAA,EAAO,gBAAA,CAAC,OAAD,CAAA,qBAAP,CAAzBA,SADwC;AAE5CD,MAAA,wBAAUC,OAAV,CAF4C;;A;;;;;;;;;AAD9CC,8CAAmBC,MAAnBD,CAAgC;AAC/B,qDAAA,wBAAA,wBAA6B,wEAA7B,CAD+B;;A;;;;;;;;;AAQhCE,sCAAY;AACX,uCAAc,OAAd,CADW;AAEX,uCAAc,SAAd,CAFW;;A;;;;;;;;;AAMEC,oDAAS;AAAE,+BAAF;;A;;;;;;;;;AADvBC,sCAAO;AACNC,cAAA,aAAa,4DAAb,CADM;;;",
+"sources":["multitest.dart/multitest.dart"],
+"names":["port","message","createIsolate","name","doIt","_","main","Isolate"]
+}

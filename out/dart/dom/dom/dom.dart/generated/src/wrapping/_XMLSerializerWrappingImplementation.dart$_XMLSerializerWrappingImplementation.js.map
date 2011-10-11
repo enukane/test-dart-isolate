@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_XMLSerializerWrappingImplementation.dart",
+"lineCount":100,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6G;AAAA,sF;AAAA,uF;AAAA,gF;AAAA,+E;AAAA,yE;AACEC,sDAAA,GAAA,UAAiD;AAAR,6CAAQ;;A;AAAjDA,sDAAA,GAAA;;;A;AAAAA,uFAAA,GAAA;MAAAC,qDAAA;;;;;;A;AAEAC,4FAAA,GAAA,UAAqD;AACnD,SAAO,yFAD4C;;A;AAArDC,2F;;;;;;;;AAAAC,kGAAA;SAAAF,4FAAA;;A;AAAA,+FAAAA;;;A;AAIAG,4EAAA,GAAA,SAAyBC,IAAzB,CAAoC;AAClC,SAAOP,yCAAA,6BAAmB,IAAnB,EAAyBO,IAAzB,CAD2B;;A;AAApCC,2E;;;;;;;;AAAA,+EAAAF;;;A;AAGAG,qEAAA,GAAA,SAAiCC,QAAjC,EAA2CH,IAA3C,CAAiD;;;A;AAAjDI,oE;;;;;;;;AAAA,wEAAAF;;;A;AAEAG,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAsB;AAAE,SAAO,eAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_XMLSerializerWrappingImplementation.dart"],
+"names":["_XMLSerializerWrappingImplementation","","tmp$0","create__XMLSerializerWrappingImplementation","create__XMLSerializerWrappingImplementation$named","native__XMLSerializerWrappingImplementation_create__XMLSerializerWrappingImplementation","serializeToString","node","serializeToString$named","_serializeToString","receiver","_serializeToString$$named_","typeName"]
+}

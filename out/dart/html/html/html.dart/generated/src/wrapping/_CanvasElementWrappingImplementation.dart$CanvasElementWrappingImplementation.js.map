@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CanvasElementWrappingImplementation.dart",
+"lineCount":112,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,qG;AAAA,kG;AAAA,yG;AAAA,2H;AAAA,wH;AAAA,+H;AAAA,4G;AAAA,yF;AAAA,6G;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;0FAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBA,2EAAA,GAAA,SAAgBC,KAAhB,CAA2B;;AAAE,iCAAA,uBAAcA,KAAd,SAAF;;A;AAE3BC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;A;AAEhBA,0EAAA,GAAA,SAAeD,KAAf,CAA0B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;A;AAE1BE,+EAAA,GAAA,SAAmCC,SAAnC,CAA6D;AAC3D,MAAIA,SAAA,QAAJ,EAAwB;AACtB,WAAOC,wBAAA,mCAAoC,+BAAA,6BAApC,CADe;;AAAxB,QAEO;AACL,WAAOA,wBAAA,mCAAoC,+BAAA,8BAAgBD,SAAhB,CAApC,CADF;;AAHoD;A;AAA7DE,8E;;;;;;;;;;;;AAAA,kFAAAH;;;A;AAQAI,8EAAA,GAAA,SAAiBC,IAAjB,CAA8B;AAC5B,SAAO,+BAAA,6BAAeA,IAAf,CADqB;;A;AAA9BC,6E;;;;;;;;AAAA,iFAAAF;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CanvasElementWrappingImplementation.dart"],
+"names":["CanvasElementWrappingImplementation","_wrap","ptr","tmp$0","height","value","width","getContext","contextId","LevelDom","getContext$named","toDataURL","type","toDataURL$named"]
+}

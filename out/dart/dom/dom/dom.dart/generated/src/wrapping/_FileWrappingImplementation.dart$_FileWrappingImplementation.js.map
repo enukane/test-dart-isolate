@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_FileWrappingImplementation.dart",
+"lineCount":166,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2F;AAAA,oE;AAAA,oE;AAAA,2F;AAAA,8E;AAAA,uE;AAAA,sE;AAAA,6E;AACEC,6CAAA,GAAA,UAAwC;AAAR,0DAAQ;;A;AAAxCA,6CAAA,GAAA;;;A;AAAAA,qEAAA,GAAA;MAAAC,4CAAA;;;;;;A;AAEAC,0EAAA,GAAA,UAA4C;AAC1C,SAAO,uEADmC;;A;AAA5CC,yE;;;;;;;;AAAAC,gFAAA;SAAAF,0EAAA;;A;AAAA,6EAAAA;;;A;AAIAG,yDAAA;;;A;AAAAA,0DAAA,GAAA,UAAsB;AAAE,SAAON,gCAAA,8BAAoB,IAApB,CAAT;;A;AACtBO,6DAAA,GAAA,SAAkCC,KAAlC,CAA6C;;;A;AAA7CC,4D;;;;;;;;AAAA,gEAAAF;;;A;AAEAG,yDAAA;;;A;AAAAA,0DAAA,GAAA,UAAmB;AAAE,SAAOV,gCAAA,8BAAoB,IAApB,CAAT;;A;AACnBW,6DAAA,GAAA,SAA+BH,KAA/B,CAA0C;;;A;AAA1CI,4D;;;;;;;;AAAA,gEAAAD;;;A;AAEAE,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAA4B;AAAE,SAAOb,gCAAA,sCAA4B,IAA5B,CAAT;;A;AAC5Bc,qEAAA,GAAA,SAAwCN,KAAxC,CAAmD;;;A;AAAnDO,oE;;;;;;;;AAAA,wEAAAD;;;A;AAEAE,qDAAA;;;A;AAAAA,sDAAA,GAAA,UAAkB;AAAE,SAAOhB,gCAAA,0BAAgB,IAAhB,CAAT;;A;AAClBiB,yDAAA,GAAA,SAA8BT,KAA9B,CAAyC;;;A;AAAzCU,wD;;;;;;;;AAAA,4DAAAD;;;A;AAEAE,yDAAA;;;A;AAAAA,0DAAA,GAAA,UAAsB;AAAE,SAAO,MAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_FileWrappingImplementation.dart"],
+"names":["_FileWrappingImplementation","","tmp$0","create__FileWrappingImplementation","create__FileWrappingImplementation$named","native__FileWrappingImplementation_create__FileWrappingImplementation","fileName","_get__File_fileName","_this","_get__File_fileName$$named_","fileSize","_get__File_fileSize","_get__File_fileSize$$named_","lastModifiedDate","_get__File_lastModifiedDate","_get__File_lastModifiedDate$$named_","name","_get__File_name","_get__File_name$$named_","typeName"]
+}

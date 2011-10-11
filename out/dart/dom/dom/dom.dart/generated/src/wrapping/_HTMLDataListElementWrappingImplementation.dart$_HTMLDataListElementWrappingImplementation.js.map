@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_HTMLDataListElementWrappingImplementation.dart",
+"lineCount":101,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yH;AAAA,kG;AAAA,0F;AAAA,sF;AAAA,mF;AAAA,0F;AAAA,2F;AAAA,+F;AAAA,iH;AAAA,6G;AAAA,0G;AAAA,6F;AAAA,sF;AAAA,qF;AAAA,mG;AACEC,4DAAA,GAAA,UAAuD;AAAR,iEAAQ;;A;AAAvDA,4DAAA,GAAA;;;A;AAAAA,mGAAA,GAAA;MAAAC,2DAAA;;;;;;A;AAEAC,wGAAA,GAAA,UAA2D;AACzD,SAAO,qGADkD;;A;AAA3DC,uG;;;;;;;;AAAAC,8GAAA;SAAAF,wGAAA;;A;AAAA,2GAAAA;;;A;AAIAG,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAA6B;AAAE,SAAON,+CAAA,4CAAkC,IAAlC,CAAT;;A;AAC7BO,0FAAA,GAAA,SAAwDC,KAAxD,CAAmE;;;A;AAAnEC,yF;;;;;;;;AAAA,6FAAAF;;;A;AAEAG,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAsB;AAAE,SAAO,qBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_HTMLDataListElementWrappingImplementation.dart"],
+"names":["_HTMLDataListElementWrappingImplementation","","tmp$0","create__HTMLDataListElementWrappingImplementation","create__HTMLDataListElementWrappingImplementation$named","native__HTMLDataListElementWrappingImplementation_create__HTMLDataListElementWrappingImplementation","options","_get__HTMLDataListElement_options","_this","_get__HTMLDataListElement_options$$named_","typeName"]
+}

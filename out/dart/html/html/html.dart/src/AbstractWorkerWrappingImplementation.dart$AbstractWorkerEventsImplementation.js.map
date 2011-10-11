@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/AbstractWorkerWrappingImplementation.dart",
+"lineCount":48,
+"mappings":"AAKCA;;A;;;;;;;;;;;;;;;;AAAA,+H;AAAA,iH;AAAA,mG;AAAA,iH;AAAA,wF;AAAA,mG;AACEC,iFAAA,GAAA,SAAyCC,IAAzC;AAAiD,iFAAYA,IAAZ,CAAjD;;A;AAAAD,iFAAA,GAAA;iFAA6DC,IAA7D;;A;AAAAD,mHAAA,GAAA,SAAyCC,IAAzC;MAAAC,8DAAA;;;;;;A;AAEAC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAA8B;SAAG,8BAAK,OAAL,CAAH;;;",
+"sources":["dart://html/html/html.dart/src/AbstractWorkerWrappingImplementation.dart"],
+"names":["AbstractWorkerEventsImplementation","_wrap","_ptr","tmp$0","error"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"multitest.dart/multitest.dart",
+"lineCount":90,
+"mappings":"AAKCA;;A;;;;;;;;;;;;;;;AAAA,uF;AAAA,qE;AAAA,oE;;;;;;;;;AAAA,uD;AACQC,0DAAA;;;A;AAAAA,2DAAA;;;A;AAAAA,2DAAA;;;A;AACPC,oDAAA,GAAA,UAAY;AACX,MAAIC,KADO;AAEX,eAAa;AACZ,kBAAA,aAAM,IAAA,qBAAN,CADY;;AAFF;A;AAAZC,mD;;;;;;;;AAAA,uDAAAF;;;A;AAWcG,kEAAS;AAAE,oBAAF;;A;;;;;;;;;AAHvBC,oDAAA,GAAA,SAAUL,WAAV,CAA8B;;AAC7B,MAAA,4BAAmBA,WAAnB,SAD6B;AAG7BM,cAAA,aAAa,0EAAb,CAH6B;;A;AAA9BC,mD;;;;;;;;AAAA,uDAAAF;;;;",
+"sources":["multitest.dart/multitest.dart"],
+"names":["MyIsolate","isolateName","main","i","main$named","_","init","Isolate","init$named"]
+}

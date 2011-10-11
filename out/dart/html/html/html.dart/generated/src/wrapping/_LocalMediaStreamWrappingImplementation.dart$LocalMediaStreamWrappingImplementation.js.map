@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_LocalMediaStreamWrappingImplementation.dart",
+"lineCount":58,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uI;AAAA,iH;AAAA,4G;AAAA,kI;AAAA,+G;AAAA,4F;AAAA,oH;AACEC,qFAAA,GAAA,SAA6CC,GAA7C,CAAqE;AAAjB,8FAAYA,GAAZ,CAAiB;;A;AAArED,qFAAA,GAAA;8FAAgEC,GAAhE;;A;AAAAD,2HAAA,GAAA,SAA6CC,GAA7C;MAAAC,kEAAA;;;;;;A;AAEAC,4EAAA,GAAA,UAAY;AACV,iCAAA,uBADU;AAEV,QAFU;;A;AAAZC,2E;;;;;;;;AAAA,+EAAAD;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_LocalMediaStreamWrappingImplementation.dart"],
+"names":["LocalMediaStreamWrappingImplementation","_wrap","ptr","tmp$0","stop","stop$named"]
+}

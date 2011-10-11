@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CompositionEventWrappingImplementation.dart",
+"lineCount":68,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uI;AAAA,iH;AAAA,wG;AAAA,sG;AAAA,8H;AAAA,4H;AAAA,+G;AAAA,4F;AAAA,gH;AACEC,qFAAA,GAAA,SAA6CC,GAA7C,CAAqE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAArED,qFAAA,GAAA;0FAAgEC,GAAhE;;A;AAAAD,2HAAA,GAAA,SAA6CC,GAA7C;MAAAC,kEAAA;;;;;;A;AAEAC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBC,4FAAA,GAAA,SAA0BC,OAA1B,EAA0CC,YAA1C,EAA6DC,aAA7D,EAAiFC,OAAjF,EAAiGC,OAAjG,CAAiH;AAC/G,iCAAA,wCAA0BJ,OAA1B,EAAmCC,YAAnC,EAAiDC,aAAjD,EAAgEG,wBAAA,eAAgBF,OAAhB,CAAhE,EAA0FC,OAA1F,CAD+G;AAE/G,QAF+G;;A;AAAjHE,2F;;;;;;;;AAAA,+FAAAP;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CompositionEventWrappingImplementation.dart"],
+"names":["CompositionEventWrappingImplementation","_wrap","ptr","tmp$0","data","initCompositionEvent","typeArg","canBubbleArg","cancelableArg","viewArg","dataArg","LevelDom","initCompositionEvent$named"]
+}

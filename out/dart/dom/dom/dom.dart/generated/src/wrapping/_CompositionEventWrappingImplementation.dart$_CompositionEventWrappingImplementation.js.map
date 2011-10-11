@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_CompositionEventWrappingImplementation.dart",
+"lineCount":129,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,4F;AAAA,mF;AAAA,iF;AAAA,0G;AAAA,wG;AAAA,0F;AAAA,mF;AAAA,kF;AAAA,4F;AACEC,yDAAA,GAAA,UAAoD;AAAR,6DAAQ;;A;AAApDA,yDAAA,GAAA;;;A;AAAAA,6FAAA,GAAA;MAAAC,wDAAA;;;;;;A;AAEAC,kGAAA,GAAA,UAAwD;AACtD,SAAO,+FAD+C;;A;AAAxDC,iG;;;;;;;;AAAAC,wGAAA;SAAAF,kGAAA;;A;AAAA,qGAAAA;;;A;AAIAG,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAkB;AAAE,SAAON,4CAAA,sCAA4B,IAA5B,CAAT;;A;AAClBO,iFAAA,GAAA,SAA0CC,KAA1C,CAAqD;;;A;AAArDC,gF;;;;;;;;AAAA,oFAAAF;;;A;AAEAG,kFAAA,GAAA,SAA0BC,OAA1B,EAA0CC,YAA1C,EAA6DC,aAA7D,EAAiFC,OAAjF,EAAoGC,OAApG,CAAoH;AAClHf,8CAAA,gCAAsB,IAAtB,EAA4BW,OAA5B,EAAqCC,YAArC,EAAmDC,aAAnD,EAAkEC,OAAlE,EAA2EC,OAA3E,CADkH;AAElH,QAFkH;;A;AAApHC,iF;;;;;;;;AAAA,qFAAAN;;;A;AAIAO,2EAAA,GAAA,SAAkCC,QAAlC,EAA4CP,OAA5C,EAAqDC,YAArD,EAAmEC,aAAnE,EAAkFC,OAAlF,EAA2FC,OAA3F,CAAoG;;;A;AAApGI,0E;;;;;;;;AAAA,8EAAAF;;;A;AAEAG,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAsB;AAAE,SAAO,kBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_CompositionEventWrappingImplementation.dart"],
+"names":["_CompositionEventWrappingImplementation","","tmp$0","create__CompositionEventWrappingImplementation","create__CompositionEventWrappingImplementation$named","native__CompositionEventWrappingImplementation_create__CompositionEventWrappingImplementation","data","_get__CompositionEvent_data","_this","_get__CompositionEvent_data$$named_","initCompositionEvent","typeArg","canBubbleArg","cancelableArg","viewArg","dataArg","initCompositionEvent$named","_initCompositionEvent","receiver","_initCompositionEvent$$named_","typeName"]
+}

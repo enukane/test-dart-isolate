@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_IDBAnyWrappingImplementation.dart",
+"lineCount":39,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,6F;AAAA,qG;AAAA,kF;AAAA,uF;AACEC,2EAAA,GAAA,SAAmCC,GAAnC,CAA2D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA3DD,2EAAA,GAAA;2EAAsDC,GAAtD;;A;AAAAD,uGAAA,GAAA,SAAmCC,GAAnC;MAAAC,wDAAA;;;;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_IDBAnyWrappingImplementation.dart"],
+"names":["IDBAnyWrappingImplementation","_wrap","ptr","tmp$0"]
+}

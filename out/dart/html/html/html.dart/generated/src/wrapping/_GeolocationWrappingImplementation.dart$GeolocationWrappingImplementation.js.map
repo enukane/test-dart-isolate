@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_GeolocationWrappingImplementation.dart",
+"lineCount":108,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,0G;AAAA,uF;AAAA,4F;AACEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;2EAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;A;AAEAC,6EAAA,GAAA,SAAgBC,OAAhB,CAA6B;AAC3B,iCAAA,8BAAgBA,OAAhB,CAD2B;AAE3B,QAF2B;;A;AAA7BC,4E;;;;;;;;AAAA,gFAAAF;;;A;AAKAG,qFAAA,GAAA,SAAwBC,eAAxB,EAA2DC,aAA3D,CAAwG;AACtG,MAAIA,aAAA,QAAJ,EAA4B;AAC1B,mCAAA,sCAAwBC,wBAAA,eAAgBF,eAAhB,CAAxB,CAD0B;AAE1B,UAF0B;;AAA5B,QAGO;AACL,mCAAA,sCAAwBE,wBAAA,eAAgBF,eAAhB,CAAxB,EAA0DE,wBAAA,eAAgBD,aAAhB,CAA1D,CADK;AAEL,UAFK;;AAJ+F;A;AAAxGE,oF;;;;;;;;;;;;AAAA,wFAAAJ;;;A;AAUAK,gFAAA,GAAA,SAAkBJ,eAAlB,EAAqDC,aAArD,CAAkG;AAChG,MAAIA,aAAA,QAAJ,EAA4B;AAC1B,WAAO,+BAAA,iCAAmBC,wBAAA,eAAgBF,eAAhB,CAAnB,CADmB;;AAA5B,QAEO;AACL,WAAO,+BAAA,iCAAmBE,wBAAA,eAAgBF,eAAhB,CAAnB,EAAqDE,wBAAA,eAAgBD,aAAhB,CAArD,CADF;;AAHyF;A;AAAlGI,+E;;;;;;;;;;;;AAAA,mFAAAD;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_GeolocationWrappingImplementation.dart"],
+"names":["GeolocationWrappingImplementation","_wrap","ptr","tmp$0","clearWatch","watchId","clearWatch$named","getCurrentPosition","successCallback","errorCallback","LevelDom","getCurrentPosition$named","watchPosition","watchPosition$named"]
+}

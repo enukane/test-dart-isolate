@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/DOMApplicationCacheWrappingImplementation.dart",
+"lineCount":104,
+"mappings":"AAKCA;;A;;;;;;;;;;;;;;;;AAAA,yI;AAAA,2H;AAAA,wG;AAAA,sH;AAAA,6F;AAAA,wG;AAEEC,sFAAA,GAAA,SAA8CC,GAA9C;AAAqD,iFAAYA,GAAZ,CAArD;;A;AAAAD,sFAAA,GAAA;iFAAiEC,GAAjE;;A;AAAAD,6HAAA,GAAA,SAA8CC,GAA9C;MAAAC,mEAAA;;;;;;A;AAEAC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAA+B;SAAG,8BAAK,QAAL,CAAH;;A;AAC/BC,gFAAA;;;A;AAAAA,iFAAA,GAAA,UAAiC;SAAG,8BAAK,UAAL,CAAH;;A;AACjCC,mFAAA;;;A;AAAAA,oFAAA,GAAA,UAAoC;SAAG,8BAAK,aAAL,CAAH;;A;AACpCC,6EAAA;;;A;AAAAA,8EAAA,GAAA,UAA8B;SAAG,8BAAK,OAAL,CAAH;;A;AAC9BC,gFAAA;;;A;AAAAA,iFAAA,GAAA,UAAiC;SAAG,8BAAK,UAAL,CAAH;;A;AACjCC,gFAAA;;;A;AAAAA,iFAAA,GAAA,UAAiC;SAAG,8BAAK,UAAL,CAAH;;A;AACjCC,gFAAA;;;A;AAAAA,iFAAA,GAAA,UAAiC;SAAG,8BAAK,UAAL,CAAH;;A;AACjCC,mFAAA;;;A;AAAAA,oFAAA,GAAA,UAAoC;SAAG,8BAAK,aAAL,CAAH;;;",
+"sources":["dart://html/html/html.dart/src/DOMApplicationCacheWrappingImplementation.dart"],
+"names":["DOMApplicationCacheEventsImplementation","_wrap","ptr","tmp$0","cached","checking","downloading","error","noUpdate","obsolete","progress","updateReady"]
+}

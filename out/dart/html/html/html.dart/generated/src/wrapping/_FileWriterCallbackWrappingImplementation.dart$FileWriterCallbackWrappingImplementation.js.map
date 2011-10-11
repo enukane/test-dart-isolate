@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_FileWriterCallbackWrappingImplementation.dart",
+"lineCount":55,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2I;AAAA,qH;AAAA,iH;AAAA,8F;AAAA,mG;AACEC,uFAAA,GAAA,SAA+CC,GAA/C,CAAuE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAvED,uFAAA,GAAA;2EAAkEC,GAAlE;;A;AAAAD,+HAAA,GAAA,SAA+CC,GAA/C;MAAAC,oEAAA;;;;;;A;AAEAC,qFAAA,GAAA,SAAiBC,UAAjB,CAAwC;AACtC,SAAO,+BAAA,+BAAiBC,wBAAA,eAAgBD,UAAhB,CAAjB,CAD+B;;A;AAAxCE,oF;;;;;;;;AAAA,wFAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_FileWriterCallbackWrappingImplementation.dart"],
+"names":["FileWriterCallbackWrappingImplementation","_wrap","ptr","tmp$0","handleEvent","fileWriter","LevelDom","handleEvent$named"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/src/implementation/promise_implementation.dart",
+"lineCount":129,
+"mappings":"AA0WCA;;A;;;;;;;;;;AAAA,6D;AAAA,uD;AAYIC,iFAAoBC,OAApBD,CAA6B;;AAC3B,SAAO,YAAA,sBAAA,IAAP,CAD2B;AAE3B,UAAA,sBAAA,IAAA,sBAAA,kCAF2B;;A;;;;;;;;;AAWd,gEAAG;AAChB,MAAI,YAAA,sBAAA,IAAJ;AAAoB,gBAApB;;AAKA,oBAAA,uCANgB;AAOhB,aAPgB;;A;;;;;;;;;AAlBpBE,gCAAA,GAAA,SAAuBC,YAAvB,CAAmD;;;AACjD,MAAI,mCAAA,QAAJ,EAAqB;AACnB,8CAAS,kHAAT,SADmB;;AAKjB,2BAAaA,YAAA,gBANgC;AAOjD,MAAKH,iHAP4C;;aAazBG,YAbyB;;;AAaX;AACpCC,eAAA,wBAAaJ,cAAb,CADoC;;AAbW;;AAiBnC,uBAAS,oEAjB0B;AAkBjD,qCAAA,2BAAe,gFAAf,CAlBiD;AA8BjDD,mBAAA,iBA9BiD;AA+BjD,SAAO,kBA/B0C;;;A;AAAnDM,+B;;;;;;;;AAAA,mCAAAH;;;A;AAkCAI,gCAAA,GAAA,UAAsB;AACpB,SAAQ,mCAAA,QAAD,MAA2B,mCAAA,0BADd;;A;AAAtBC,+B;;;;;;;;AAAA,mCAAAD;;;A;AAIAE,gCAAA,GAAA,UAAsB;AACpB,MAAI,mCAAA,QAAJ,EAAqB;AACnB,UADmB;;AAGrB,SAAO,CAAC,mCAAA,0BAAD,IAAsB,mCAAA,wBAAD,YAA5B,EAAgD;AAC9C,uCAAA,8BAD8C;;AAJ5B;A;AAAtBC,+B;;;;;;;;AAAA,mCAAAD;;;A;AASuBE,gCAAA;;;A;AAAAA,iCAAA;;;A;AAAAA,iCAAA;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/src/implementation/promise_implementation.dart"],
+"names":["PromiseQueue","notifyResolved","ignored","enqueue","dependencies","promise","enqueue$named","isEmpty","isEmpty$named","process","process$named","_queue"]
+}

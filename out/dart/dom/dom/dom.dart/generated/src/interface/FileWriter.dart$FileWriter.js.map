@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/interface/FileWriter.dart",
+"lineCount":36,
+"mappings":"AAOCA;;A;;;;;;;;;;AAEmBC,0BAAA;;;A;AAAAA,2BAAA;;;A;AAEAC,0BAAA;;;A;AAAAA,2BAAA;;;A;AAEAC,6BAAA;;;A;AAAAA,8BAAA;;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/interface/FileWriter.dart"],
+"names":["FileWriter","DONE","INIT","WRITING"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/interface/IDBCursor.dart",
+"lineCount":44,
+"mappings":"AAOCA;;A;;;;;;;;;;AAEmBC,yBAAA;;;A;AAAAA,0BAAA;;;A;AAEAC,sCAAA;;;A;AAAAA,uCAAA;;;A;AAEAC,yBAAA;;;A;AAAAA,0BAAA;;;A;AAEAC,sCAAA;;;A;AAAAA,uCAAA;;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/interface/IDBCursor.dart"],
+"names":["IDBCursor","NEXT","NEXT_NO_DUPLICATE","PREV","PREV_NO_DUPLICATE"]
+}

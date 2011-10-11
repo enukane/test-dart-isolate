@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib.dart/src/isolate.dart",
+"lineCount":3,
+"mappings":"AAcCA;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib.dart/src/isolate.dart"],
+"names":["SendPort"]
+}

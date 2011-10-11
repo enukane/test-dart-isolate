@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_OptGroupElementWrappingImplementation.dart",
+"lineCount":71,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qI;AAAA,+G;AAAA,uG;AAAA,oG;AAAA,2G;AAAA,6H;AAAA,0H;AAAA,iI;AAAA,8G;AAAA,2F;AAAA,+G;AACEC,oFAAA,GAAA,SAA4CC,GAA5C,CAAoE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAApED,oFAAA,GAAA;0FAA+DC,GAA/D;;A;AAAAD,yHAAA,GAAA,SAA4CC,GAA5C;MAAAC,iEAAA;;;;;;A;AAEAC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEpBA,+EAAA,GAAA,SAAkBC,KAAlB,CAA8B;;AAAE,iCAAA,yBAAgBA,KAAhB,SAAF;;A;AAE9BC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,eAAT;;A;AAEnBA,4EAAA,GAAA,SAAeD,KAAf,CAA6B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_OptGroupElementWrappingImplementation.dart"],
+"names":["OptGroupElementWrappingImplementation","_wrap","ptr","tmp$0","disabled","value","label"]
+}

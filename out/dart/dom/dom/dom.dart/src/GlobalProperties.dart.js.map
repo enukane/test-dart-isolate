@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/src/GlobalProperties.dart",
+"lineCount":28,
+"mappings":"AAKCA,wBAAoB;AAClB,SAAOC,+BAAA,mBADW;;A;;;;;;;;;AAKpBC,4BAAwB;AACtB,SAAOD,+BAAA,mBADe;;A;;;;;;;;;AAIxBE,0BAAwB;AACtB,SAAOF,+BAAA,qBADe;;;",
+"sources":["dart://dom/dom/dom.dart/src/GlobalProperties.dart"],
+"names":["window","_NativeDomGlobalProperties","dom_window","document"]
+}

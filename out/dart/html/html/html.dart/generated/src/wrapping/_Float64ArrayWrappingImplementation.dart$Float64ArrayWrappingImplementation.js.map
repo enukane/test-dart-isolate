@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_Float64ArrayWrappingImplementation.dart",
+"lineCount":74,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+H;AAAA,yG;AAAA,4G;AAAA,kI;AAAA,2G;AAAA,wF;AAAA,oH;AACEC,iFAAA,GAAA,SAAyCC,GAAzC,CAAiE;AAAjB,kGAAYA,GAAZ,CAAiB;;A;AAAjED,iFAAA,GAAA;kGAA4DC,GAA5D;;A;AAAAD,mHAAA,GAAA,SAAyCC,GAAzC;MAAAC,8DAAA;;;;;;A;AAEAC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,4EAAA,GAAA,SAAsBC,KAAtB,EAAkCC,GAAlC,CAAmD;AACjD,MAAIA,GAAA,QAAJ,EAAkB;AAChB,WAAOC,wBAAA,yBAA0B,+BAAA,4BAAcF,KAAd,CAA1B,CADS;;AAAlB,QAEO;AACL,WAAOE,wBAAA,yBAA0B,+BAAA,4BAAcF,KAAd,EAAqBC,GAArB,CAA1B,CADF;;AAH0C;A;AAAnDE,2E;;;;;;;;;;;;AAAA,+EAAAJ;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_Float64ArrayWrappingImplementation.dart"],
+"names":["Float64ArrayWrappingImplementation","_wrap","ptr","tmp$0","length","subarray","start","end","LevelDom","subarray$named"]
+}

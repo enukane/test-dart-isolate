@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_RGBColorWrappingImplementation.dart",
+"lineCount":71,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uH;AAAA,iG;AAAA,uG;AAAA,oF;AAAA,yF;AACEC,6EAAA,GAAA,SAAqCC,GAArC,CAA6D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA7DD,6EAAA,GAAA;2EAAwDC,GAAxD;;A;AAAAD,2GAAA,GAAA,SAAqCC,GAArC;MAAAC,0DAAA;;;;;;A;AAEAC,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAA8B;AAAE,SAAOC,wBAAA,8BAA+B,+BAAA,eAA/B,CAAT;;A;AAE9BC,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAA6B;AAAE,SAAOD,wBAAA,8BAA+B,+BAAA,cAA/B,CAAT;;A;AAE7BE,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAA8B;AAAE,SAAOF,wBAAA,8BAA+B,+BAAA,eAA/B,CAAT;;A;AAE9BG,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAA4B;AAAE,SAAOH,wBAAA,8BAA+B,+BAAA,aAA/B,CAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_RGBColorWrappingImplementation.dart"],
+"names":["RGBColorWrappingImplementation","_wrap","ptr","tmp$0","alpha","LevelDom","blue","green","red"]
+}

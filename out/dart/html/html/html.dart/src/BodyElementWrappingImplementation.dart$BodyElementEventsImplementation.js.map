@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/BodyElementWrappingImplementation.dart",
+"lineCount":122,
+"mappings":"AAKCA;;A;;;;;;;;;;;;;;;;AAAA,yH;AAAA,2G;AAAA,uG;AAAA,gG;AAAA,qH;AAAA,8G;AAAA,qF;AAAA,uG;AAGEC,8EAAA,GAAA,SAAsCC,IAAtC;AAA8C,wFAAYA,IAAZ,CAA9C;;A;AAAAD,8EAAA,GAAA;wFAA0DC,IAA1D;;A;AAAAD,6GAAA,GAAA,SAAsCC,IAAtC;MAAAC,2DAAA;;;;;;A;AAEAC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAqC;SAAG,8BAAK,cAAL,CAAH;;A;AACrCC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAmC;SAAG,8BAAK,YAAL,CAAH;;A;AACnCC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAgC;SAAG,8BAAK,SAAL,CAAH;;A;AAChCC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAgC;SAAG,8BAAK,SAAL,CAAH;;A;AAChCC,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAA+B;SAAG,8BAAK,QAAL,CAAH;;A;AAC/BC,iFAAA;;;A;AAAAA,kFAAA,GAAA,UAA0C;SAAG,8BAAK,mBAAL,CAAH;;A;AAC1CC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAiC;SAAG,8BAAK,UAAL,CAAH;;A;AACjCC,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAA+B;SAAG,8BAAK,QAAL,CAAH;;A;AAC/BC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAgC;SAAG,8BAAK,SAAL,CAAH;;A;AAChCC,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAA+B;SAAG,8BAAK,QAAL,CAAH;;;",
+"sources":["dart://html/html/html.dart/src/BodyElementWrappingImplementation.dart"],
+"names":["BodyElementEventsImplementation","_wrap","_ptr","tmp$0","beforeUnload","hashChange","message","offline","online","orientationChange","popState","resize","storage","unLoad"]
+}

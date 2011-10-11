@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_ProgressEventWrappingImplementation.dart",
+"lineCount":82,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,mG;AAAA,yH;AAAA,4G;AAAA,yF;AAAA,2G;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;wFAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,oFAAA;;;A;AAAAA,qFAAA,GAAA,UAA4B;AAAE,SAAO,+BAAA,0BAAT;;A;AAE5BC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;A;AAEhBC,sFAAA,GAAA,SAAuBC,OAAvB,EAAuCC,YAAvC,EAA0DC,aAA1D,EAA8EC,mBAA9E,EAAwGC,SAAxG,EAAuHC,QAAvH,CAAqI;AACnI,iCAAA,qCAAuBL,OAAvB,EAAgCC,YAAhC,EAA8CC,aAA9C,EAA6DC,mBAA7D,EAAkFC,SAAlF,EAA6FC,QAA7F,CADmI;AAEnI,QAFmI;;A;AAArIC,qF;;;;;;;;AAAA,yFAAAP;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_ProgressEventWrappingImplementation.dart"],
+"names":["ProgressEventWrappingImplementation","_wrap","ptr","tmp$0","lengthComputable","loaded","total","initProgressEvent","typeArg","canBubbleArg","cancelableArg","lengthComputableArg","loadedArg","totalArg","initProgressEvent$named"]
+}

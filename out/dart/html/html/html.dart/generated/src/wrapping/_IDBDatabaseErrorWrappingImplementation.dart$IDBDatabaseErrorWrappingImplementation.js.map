@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_IDBDatabaseErrorWrappingImplementation.dart",
+"lineCount":65,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uI;AAAA,iH;AAAA,+G;AAAA,4F;AAAA,iG;AACEC,qFAAA,GAAA,SAA6CC,GAA7C,CAAqE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAArED,qFAAA,GAAA;2EAAgEC,GAAhE;;A;AAAAD,2HAAA,GAAA,SAA6CC,GAA7C;MAAAC,kEAAA;;;;;;A;AAEAC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;A;AAEfA,4EAAA,GAAA,SAAcC,KAAd,CAAyB;;AAAE,iCAAA,qBAAYA,KAAZ,SAAF;;A;AAEzBC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,iBAAT;;A;AAErBA,+EAAA,GAAA,SAAiBD,KAAjB,CAA+B;;AAAE,iCAAA,wBAAeA,KAAf,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_IDBDatabaseErrorWrappingImplementation.dart"],
+"names":["IDBDatabaseErrorWrappingImplementation","_wrap","ptr","tmp$0","code","value","message"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_MediaQueryListListenerWrappingImplementation.dart",
+"lineCount":56,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mJ;AAAA,6H;AAAA,qH;AAAA,kG;AAAA,uG;AACEC,2FAAA,GAAA,SAAmDC,GAAnD,CAA2E;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA3ED,2FAAA,GAAA;2EAAsEC,GAAtE;;A;AAAAD,uIAAA,GAAA,SAAmDC,GAAnD;MAAAC,wEAAA;;;;;;A;AAEAC,0FAAA,GAAA,SAAkBC,IAAlB,CAAuC;AACrC,iCAAA,gCAAkBC,wBAAA,eAAgBD,IAAhB,CAAlB,CADqC;AAErC,QAFqC;;A;AAAvCE,yF;;;;;;;;AAAA,6FAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_MediaQueryListListenerWrappingImplementation.dart"],
+"names":["MediaQueryListListenerWrappingImplementation","_wrap","ptr","tmp$0","queryChanged","list","LevelDom","queryChanged$named"]
+}

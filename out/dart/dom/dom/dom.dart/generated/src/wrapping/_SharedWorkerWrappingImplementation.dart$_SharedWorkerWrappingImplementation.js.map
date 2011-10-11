@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_SharedWorkerWrappingImplementation.dart",
+"lineCount":95,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2G;AAAA,oF;AAAA,sF;AAAA,mF;AAAA,6G;AAAA,sF;AAAA,+E;AAAA,8E;AAAA,+F;AACEC,qDAAA,GAAA,UAAgD;AAAR,oEAAQ;;A;AAAhDA,qDAAA,GAAA;;;A;AAAAA,qFAAA,GAAA;MAAAC,oDAAA;;;;;;A;AAEAC,0FAAA,GAAA,UAAoD;AAClD,SAAO,uFAD2C;;A;AAApDC,yF;;;;;;;;AAAAC,gGAAA;SAAAF,0FAAA;;A;AAAA,6FAAAA;;;A;AAIAG,6DAAA;;;A;AAAAA,8DAAA,GAAA,UAAuB;AAAE,SAAON,wCAAA,kCAAwB,IAAxB,CAAT;;A;AACvBO,yEAAA,GAAA,SAA2CC,KAA3C,CAAsD;;;A;AAAtDC,wE;;;;;;;;AAAA,4EAAAF;;;A;AAEAG,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAsB;AAAE,SAAO,cAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_SharedWorkerWrappingImplementation.dart"],
+"names":["_SharedWorkerWrappingImplementation","","tmp$0","create__SharedWorkerWrappingImplementation","create__SharedWorkerWrappingImplementation$named","native__SharedWorkerWrappingImplementation_create__SharedWorkerWrappingImplementation","port","_get__SharedWorker_port","_this","_get__SharedWorker_port$$named_","typeName"]
+}

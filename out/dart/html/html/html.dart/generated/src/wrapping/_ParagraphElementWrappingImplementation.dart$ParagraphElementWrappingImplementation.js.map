@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_ParagraphElementWrappingImplementation.dart",
+"lineCount":58,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uI;AAAA,iH;AAAA,wG;AAAA,qG;AAAA,4G;AAAA,8H;AAAA,2H;AAAA,kI;AAAA,+G;AAAA,4F;AAAA,gH;AACEC,qFAAA,GAAA,SAA6CC,GAA7C,CAAqE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAArED,qFAAA,GAAA;0FAAgEC,GAAhE;;A;AAAAD,2HAAA,GAAA,SAA6CC,GAA7C;MAAAC,kEAAA;;;;;;A;AAEAC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,eAAT;;A;AAEnBA,6EAAA,GAAA,SAAeC,KAAf,CAA6B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_ParagraphElementWrappingImplementation.dart"],
+"names":["ParagraphElementWrappingImplementation","_wrap","ptr","tmp$0","align","value"]
+}

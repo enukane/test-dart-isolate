@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_SQLResultSetWrappingImplementation.dart",
+"lineCount":140,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2G;AAAA,oF;AAAA,sF;AAAA,+E;AAAA,8E;AAAA,wE;AACEC,qDAAA,GAAA,UAAgD;AAAR,6CAAQ;;A;AAAhDA,qDAAA,GAAA;;;A;AAAAA,qFAAA,GAAA;MAAAC,oDAAA;;;;;;A;AAEAC,0FAAA,GAAA,UAAoD;AAClD,SAAO,uFAD2C;;A;AAApDC,yF;;;;;;;;AAAAC,gGAAA;SAAAF,0FAAA;;A;AAAA,6FAAAA;;;A;AAIAG,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAmB;AAAE,SAAON,wCAAA,sCAA4B,IAA5B,CAAT;;A;AACnBO,6EAAA,GAAA,SAAuCC,KAAvC,CAAkD;;;A;AAAlDC,4E;;;;;;;;AAAA,gFAAAF;;;A;AAEAG,6DAAA;;;A;AAAAA,8DAAA,GAAA,UAA+B;AAAE,SAAOV,wCAAA,kCAAwB,IAAxB,CAAT;;A;AAC/BW,yEAAA,GAAA,SAAmDH,KAAnD,CAA8D;;;A;AAA9DI,wE;;;;;;;;AAAA,4EAAAD;;;A;AAEAE,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAuB;AAAE,SAAOb,wCAAA,0CAAgC,IAAhC,CAAT;;A;AACvBc,iFAAA,GAAA,SAA2CN,KAA3C,CAAsD;;;A;AAAtDO,gF;;;;;;;;AAAA,oFAAAD;;;A;AAEAE,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAsB;AAAE,SAAO,cAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_SQLResultSetWrappingImplementation.dart"],
+"names":["_SQLResultSetWrappingImplementation","","tmp$0","create__SQLResultSetWrappingImplementation","create__SQLResultSetWrappingImplementation$named","native__SQLResultSetWrappingImplementation_create__SQLResultSetWrappingImplementation","insertId","_get__SQLResultSet_insertId","_this","_get__SQLResultSet_insertId$$named_","rows","_get__SQLResultSet_rows","_get__SQLResultSet_rows$$named_","rowsAffected","_get__SQLResultSet_rowsAffected","_get__SQLResultSet_rowsAffected$$named_","typeName"]
+}

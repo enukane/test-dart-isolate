@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_NavigatorUserMediaErrorWrappingImplementation.dart",
+"lineCount":47,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qJ;AAAA,+H;AAAA,sH;AAAA,mG;AAAA,wG;AACEC,4FAAA,GAAA,SAAoDC,GAApD,CAA4E;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA5ED,4FAAA,GAAA;2EAAuEC,GAAvE;;A;AAAAD,yIAAA,GAAA,SAAoDC,GAApD;MAAAC,yEAAA;;;;;;A;AAEAC,kFAAA;;;A;AAAAA,mFAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_NavigatorUserMediaErrorWrappingImplementation.dart"],
+"names":["NavigatorUserMediaErrorWrappingImplementation","_wrap","ptr","tmp$0","code"]
+}

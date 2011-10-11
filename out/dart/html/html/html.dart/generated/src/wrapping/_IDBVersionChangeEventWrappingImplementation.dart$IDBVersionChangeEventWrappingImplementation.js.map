@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_IDBVersionChangeEventWrappingImplementation.dart",
+"lineCount":49,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iJ;AAAA,2H;AAAA,2G;AAAA,iI;AAAA,oH;AAAA,iG;AAAA,mH;AACEC,0FAAA,GAAA,SAAkDC,GAAlD,CAA0E;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAA1ED,0FAAA,GAAA;wFAAqEC,GAArE;;A;AAAAD,qIAAA,GAAA,SAAkDC,GAAlD;MAAAC,uEAAA;;;;;;A;AAEAC,mFAAA;;;A;AAAAA,oFAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,iBAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_IDBVersionChangeEventWrappingImplementation.dart"],
+"names":["IDBVersionChangeEventWrappingImplementation","_wrap","ptr","tmp$0","version"]
+}

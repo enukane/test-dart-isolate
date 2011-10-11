@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_DOMFormDataWrappingImplementation.dart",
+"lineCount":56,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,0G;AAAA,uF;AAAA,4F;AACEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;2EAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;A;AAEAC,yEAAA,GAAA,SAAYC,MAAZ,EAAyBC,KAAzB,CAAuC;AACrC,iCAAA,0BAAYD,MAAZ,EAAkBC,KAAlB,CADqC;AAErC,QAFqC;;A;AAAvCC,wE;;;;;;;;AAAA,4EAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_DOMFormDataWrappingImplementation.dart"],
+"names":["DOMFormDataWrappingImplementation","_wrap","ptr","tmp$0","append","name","value","append$named"]
+}

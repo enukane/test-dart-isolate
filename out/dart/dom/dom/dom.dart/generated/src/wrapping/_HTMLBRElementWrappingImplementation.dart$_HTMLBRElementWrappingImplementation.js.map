@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_HTMLBRElementWrappingImplementation.dart",
+"lineCount":121,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6G;AAAA,sF;AAAA,oF;AAAA,gF;AAAA,6E;AAAA,oF;AAAA,qF;AAAA,yF;AAAA,2G;AAAA,uG;AAAA,oG;AAAA,uF;AAAA,gF;AAAA,+E;AAAA,6F;AACEC,sDAAA,GAAA,UAAiD;AAAR,iEAAQ;;A;AAAjDA,sDAAA,GAAA;;;A;AAAAA,uFAAA,GAAA;MAAAC,qDAAA;;;;;;A;AAEAC,4FAAA,GAAA,UAAqD;AACnD,SAAO,yFAD4C;;A;AAArDC,2F;;;;;;;;AAAAC,kGAAA;SAAAF,4FAAA;;A;AAAA,+FAAAA;;;A;AAIAG,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAmB;AAAE,SAAON,yCAAA,oCAA0B,IAA1B,CAAT;;A;AAGnBM,gEAAA,GAAA,SAAeC,KAAf,CAA6B;AAAEP,2CAAA,oCAA0B,IAA1B,EAAgCO,KAAhC,CAAF;;A;AAF7BC,4EAAA,GAAA,SAAwCC,KAAxC,CAAmD;;;A;AAAnDC,2E;;;;;;;;AAAA,+EAAAF;;;A;AAGAG,4EAAA,GAAA,SAAsCF,KAAtC,EAAiDF,KAAjD,CAA+D;;;A;AAA/DK,2E;;;;;;;;AAAA,+EAAAD;;;A;AAEAE,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAsB;AAAE,SAAO,eAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_HTMLBRElementWrappingImplementation.dart"],
+"names":["_HTMLBRElementWrappingImplementation","","tmp$0","create__HTMLBRElementWrappingImplementation","create__HTMLBRElementWrappingImplementation$named","native__HTMLBRElementWrappingImplementation_create__HTMLBRElementWrappingImplementation","clear","value","_get__HTMLBRElement_clear","_this","_get__HTMLBRElement_clear$$named_","_set__HTMLBRElement_clear","_set__HTMLBRElement_clear$$named_","typeName"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/EventSourceWrappingImplementation.dart",
+"lineCount":64,
+"mappings":"AAKCA;;A;;;;;;;;;;;;;;;;AAAA,yH;AAAA,2G;AAAA,gG;AAAA,8G;AAAA,qF;AAAA,gG;AACEC,8EAAA,GAAA,SAAsCC,IAAtC;AAA8C,iFAAYA,IAAZ,CAA9C;;A;AAAAD,8EAAA,GAAA;iFAA0DC,IAA1D;;A;AAAAD,6GAAA,GAAA,SAAsCC,IAAtC;MAAAC,2DAAA;;;;;;A;AAEAC,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAA8B;SAAG,8BAAK,OAAL,CAAH;;A;AAC9BC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAgC;SAAG,8BAAK,SAAL,CAAH;;A;AAChCC,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAA6B;SAAG,8BAAK,MAAL,CAAH;;;",
+"sources":["dart://html/html/html.dart/src/EventSourceWrappingImplementation.dart"],
+"names":["EventSourceEventsImplementation","_wrap","_ptr","tmp$0","error","message","open"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_ArrayBufferWrappingImplementation.dart",
+"lineCount":92,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yG;AAAA,kF;AAAA,qF;AAAA,8E;AAAA,6E;AAAA,uE;AACEC,oDAAA,GAAA,UAA+C;AAAR,6CAAQ;;A;AAA/CA,oDAAA,GAAA;;;A;AAAAA,mFAAA,GAAA;MAAAC,mDAAA;;;;;;A;AAEAC,wFAAA,GAAA,UAAmD;AACjD,SAAO,qFAD0C;;A;AAAnDC,uF;;;;;;;;AAAAC,8FAAA;SAAAF,wFAAA;;A;AAAA,2FAAAA;;;A;AAIAG,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAqB;AAAE,SAAON,uCAAA,uCAA6B,IAA7B,CAAT;;A;AACrBO,6EAAA,GAAA,SAAwCC,KAAxC,CAAmD;;;A;AAAnDC,4E;;;;;;;;AAAA,gFAAAF;;;A;AAEAG,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAAsB;AAAE,SAAO,aAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_ArrayBufferWrappingImplementation.dart"],
+"names":["_ArrayBufferWrappingImplementation","","tmp$0","create__ArrayBufferWrappingImplementation","create__ArrayBufferWrappingImplementation$named","native__ArrayBufferWrappingImplementation_create__ArrayBufferWrappingImplementation","byteLength","_get__ArrayBuffer_byteLength","_this","_get__ArrayBuffer_byteLength$$named_","typeName"]
+}

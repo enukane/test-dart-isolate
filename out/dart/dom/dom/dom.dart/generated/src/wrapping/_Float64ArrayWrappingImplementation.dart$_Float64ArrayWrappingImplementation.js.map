@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_Float64ArrayWrappingImplementation.dart",
+"lineCount":151,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2G;AAAA,oF;AAAA,uF;AAAA,8G;AAAA,sF;AAAA,+E;AAAA,8E;AAAA,gG;AACEC,qDAAA,GAAA,UAAgD;AAAR,qEAAQ;;A;AAAhDA,qDAAA,GAAA;;;A;AAAAA,qFAAA,GAAA;MAAAC,oDAAA;;;;;;A;AAEAC,0FAAA,GAAA,UAAoD;AAClD,SAAO,uFAD2C;;A;AAApDC,yF;;;;;;;;AAAAC,gGAAA;SAAAF,0FAAA;;A;AAAA,6FAAAA;;;A;AAIAG,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAiB;AAAE,SAAON,wCAAA,oCAA0B,IAA1B,CAAT;;A;AACjBO,2EAAA,GAAA,SAAqCC,KAArC,CAAgD;;;A;AAAhDC,0E;;;;;;;;AAAA,8EAAAF;;;A;AAEAG,kEAAA,GAAA,SAAsBC,KAAtB,EAAkCC,GAAlC,CAAmD;AACjD,MAAIA,GAAA,QAAJ,EAAkB;AAChB,WAAOZ,wCAAA,oBAAU,IAAV,EAAgBW,KAAhB,CADS;;AAAlB,QAEO;AACL,WAAOX,wCAAA,sBAAY,IAAZ,EAAkBW,KAAlB,EAAyBC,GAAzB,CADF;;AAH0C;A;AAAnDC,iE;;;;;;;;;;;;AAAA,qEAAAH;;;A;AAOAI,2DAAA,GAAA,SAA8BC,QAA9B,EAAwCJ,KAAxC,CAA+C;;;A;AAA/CK,0D;;;;;;;;AAAA,8DAAAF;;;A;AACAG,6DAAA,GAAA,SAAgCF,QAAhC,EAA0CJ,KAA1C,EAAiDC,GAAjD,CAAsD;;;A;AAAtDM,4D;;;;;;;;AAAA,gEAAAD;;;A;AAEAE,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAsB;AAAE,SAAO,cAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_Float64ArrayWrappingImplementation.dart"],
+"names":["_Float64ArrayWrappingImplementation","","tmp$0","create__Float64ArrayWrappingImplementation","create__Float64ArrayWrappingImplementation$named","native__Float64ArrayWrappingImplementation_create__Float64ArrayWrappingImplementation","length","_get__Float64Array_length","_this","_get__Float64Array_length$$named_","subarray","start","end","subarray$named","_subarray","receiver","_subarray$$named_","_subarray_2","_subarray_2$$named_","typeName"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_PageTransitionEventWrappingImplementation.dart",
+"lineCount":66,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6I;AAAA,uH;AAAA,yG;AAAA,+H;AAAA,kH;AAAA,+F;AAAA,iH;AACEC,wFAAA,GAAA,SAAgDC,GAAhD,CAAwE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAAxED,wFAAA,GAAA;wFAAmEC,GAAnE;;A;AAAAD,iIAAA,GAAA,SAAgDC,GAAhD;MAAAC,qEAAA;;;;;;A;AAEAC,mFAAA;;;A;AAAAA,oFAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,mBAAT;;A;AAErBC,kGAAA,GAAA,SAA6BC,OAA7B,EAA6CC,YAA7C,EAAgEC,aAAhE,EAAoFJ,SAApF,CAAoG;AAClG,iCAAA,2CAA6BE,OAA7B,EAAsCC,YAAtC,EAAoDC,aAApD,EAAmEJ,SAAnE,CADkG;AAElG,QAFkG;;A;AAApGK,iG;;;;;;;;AAAA,qGAAAJ;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_PageTransitionEventWrappingImplementation.dart"],
+"names":["PageTransitionEventWrappingImplementation","_wrap","ptr","tmp$0","persisted","initPageTransitionEvent","typeArg","canBubbleArg","cancelableArg","initPageTransitionEvent$named"]
+}

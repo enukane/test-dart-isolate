@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/array.dart",
+"lineCount":78,
+"mappings":"AA8CCA;;A;;;;;;;;;;AAAA,2D;AAAA,sD;AACEC,oCAAA,GAAA,oBAAqBC,KAArB,CAAwC;AACtC,MAAQC,OAAO,0EADuB;;aAEtBD,KAFsB;;;AAEf;AACrBC,YAAA,uBAASC,CAAT,CADqB;;AAFe;;AAKtC,SAAOD,IAL+B;;A;AASxCE,wCAAA,GAAA,oBAAyBH,KAAzB,EAAyCI,UAAzC,EAAyDC,QAAzD,CAAuE;;AACrE,MAAKJ,OAAO,0EADyD;AAErE,MAAI,YAAAI,QAAA,EAAWL,KAAA,gBAAX,CAAJ;AAA6BK,YAAA,GAAWL,KAAA,gBAAxC;;AACA,MAAI,YAAAI,UAAA,IAAJ;AAAoBA,cAAA,IAApB;;AACA,MAAIE,QAAQ,aAAAD,QAAA,EAAWD,UAAX,CAJyD;AAKrE,MAAI,YAAAE,KAAA,IAAJ,EAAe;AACbL,QAAA,uBAAcK,KAAd,SADa;AAEbC,eAAA,aAAYP,KAAZ,EAAmBI,UAAnB,EAA+BH,IAA/B,KAAwCK,KAAxC,CAFa;;AAIf,SAAOL,IAT8D;;A;AAYvEO,8BAAA,GAAA,oBAAiBC,QAAjB,CAAqC;;AACnC,MAAKC,cAD8B;AAEnC,MAAID,QAAA,QAAJ,EAAqB;AACnBA,YAAA,IADmB;AAEnBC,WAAA,QAFmB;;AAArB;AAGO,QAAI,YAAAD,QAAA,IAAJ,EAAgB;AACrB,2BAAM,gEAA6BA,QAA7B,CAAN,CADqB;;AAHvB;AASA,MAAYR,OAAOH,gBAAA,eAAK,4FAAL,EAAyBW,QAAzB,CAXgB;AAYnCR,MAAA,2BAAgBS,OAAhB,SAZmC;AAanC,SAAOT,IAb4B;;A;AAgBrCU,8BAAA,GAAA,SAAwBC,SAAxB,EAA6CH,QAA7C,CAAyD;;;A;AAAzDI,6B;;;;;;;;AAAA,iCAAAF;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/array.dart"],
+"names":["ListFactory","from","other","list","e","fromList","startIndex","endIndex","count","Arrays","","length","isFixed","_new","typeToken","_new$$named_"]
+}

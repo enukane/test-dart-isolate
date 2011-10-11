@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_IDBCursorWithValueWrappingImplementation.dart",
+"lineCount":49,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2I;AAAA,qH;AAAA,4G;AAAA,kI;AAAA,iH;AAAA,8F;AAAA,oH;AACEC,uFAAA,GAAA,SAA+CC,GAA/C,CAAuE;AAAjB,4FAAYA,GAAZ,CAAiB;;A;AAAvED,uFAAA,GAAA;4FAAkEC,GAAlE;;A;AAAAD,+HAAA,GAAA,SAA+CC,GAA/C;MAAAC,oEAAA;;;;;;A;AAEAC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,eAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_IDBCursorWithValueWrappingImplementation.dart"],
+"names":["IDBCursorWithValueWrappingImplementation","_wrap","ptr","tmp$0","value"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_NavigatorUserMediaErrorCallbackWrappingImplementation.dart",
+"lineCount":55,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qK;AAAA,+I;AAAA,8H;AAAA,2G;AAAA,gH;AACEC,oGAAA,GAAA,SAA4DC,GAA5D,CAAoF;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAApFD,oGAAA,GAAA;2EAA+EC,GAA/E;;A;AAAAD,yJAAA,GAAA,SAA4DC,GAA5D;MAAAC,iFAAA;;;;;;A;AAEAC,kGAAA,GAAA,SAAiBC,KAAjB,CAAgD;AAC9C,SAAO,+BAAA,+BAAiBC,wBAAA,eAAgBD,KAAhB,CAAjB,CADuC;;A;AAAhDE,iG;;;;;;;;AAAA,qGAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_NavigatorUserMediaErrorCallbackWrappingImplementation.dart"],
+"names":["NavigatorUserMediaErrorCallbackWrappingImplementation","_wrap","ptr","tmp$0","handleEvent","error","LevelDom","handleEvent$named"]
+}

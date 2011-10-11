@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_StorageInfoWrappingImplementation.dart",
+"lineCount":115,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,0G;AAAA,uF;AAAA,4F;AACEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;2EAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;A;AAEAC,qFAAA,GAAA,SAAwBC,WAAxB,EAA0CC,aAA1C,EAAyFC,aAAzF,CAAyI;AACvI,MAAID,aAAA,QAAJ,EAA4B;AAC1B,QAAIC,aAAA,QAAJ,EAA4B;AAC1B,qCAAA,sCAAwBF,WAAxB,CAD0B;AAE1B,YAF0B;;AADF;AAA5B,QAKO;AACL,QAAIE,aAAA,QAAJ,EAA4B;AAC1B,qCAAA,sCAAwBF,WAAxB,EAAqCG,wBAAA,eAAgBF,aAAhB,CAArC,CAD0B;AAE1B,YAF0B;;AAA5B,UAGO;AACL,qCAAA,sCAAwBD,WAAxB,EAAqCG,wBAAA,eAAgBF,aAAhB,CAArC,EAAqEE,wBAAA,eAAgBD,aAAhB,CAArE,CADK;AAEL,YAFK;;AAJF;AASP,uBAkBM,uCAlBN,CAfuI;;A;AAAzIE,oF;;;;;;;;;;;;;;AAAA,wFAAAL;;;A;AAkBAM,+EAAA,GAAA,SAAkBL,WAAlB,EAAmCM,eAAnC,EAAyDC,aAAzD,EAAwGL,aAAxG,CAAwJ;AACtJ,MAAIK,aAAA,QAAJ,EAA4B;AAC1B,QAAIL,aAAA,QAAJ,EAA4B;AAC1B,qCAAA,gCAAkBF,WAAlB,EAA+BM,eAA/B,CAD0B;AAE1B,YAF0B;;AADF;AAA5B,QAKO;AACL,QAAIJ,aAAA,QAAJ,EAA4B;AAC1B,qCAAA,gCAAkBF,WAAlB,EAA+BM,eAA/B,EAAgDH,wBAAA,eAAgBI,aAAhB,CAAhD,CAD0B;AAE1B,YAF0B;;AAA5B,UAGO;AACL,qCAAA,gCAAkBP,WAAlB,EAA+BM,eAA/B,EAAgDH,wBAAA,eAAgBI,aAAhB,CAAhD,EAAgFJ,wBAAA,eAAgBD,aAAhB,CAAhF,CADK;AAEL,YAFK;;AAJF;AASP,uBAAM,uCAAN,CAfsJ;;A;AAAxJM,8E;;;;;;;;;;;;;;AAAA,kFAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_StorageInfoWrappingImplementation.dart"],
+"names":["StorageInfoWrappingImplementation","_wrap","ptr","tmp$0","queryUsageAndQuota","storageType","usageCallback","errorCallback","LevelDom","queryUsageAndQuota$named","requestQuota","newQuotaInBytes","quotaCallback","requestQuota$named"]
+}

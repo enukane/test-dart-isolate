@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_CSSFontFaceRuleWrappingImplementation.dart",
+"lineCount":94,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iH;AAAA,0F;AAAA,kF;AAAA,yG;AAAA,yF;AAAA,kF;AAAA,iF;AAAA,2F;AACEC,wDAAA,GAAA,UAAmD;AAAR,6DAAQ;;A;AAAnDA,wDAAA,GAAA;;;A;AAAAA,2FAAA,GAAA;MAAAC,uDAAA;;;;;;A;AAEAC,gGAAA,GAAA,UAAuD;AACrD,SAAO,6FAD8C;;A;AAAvDC,+F;;;;;;;;AAAAC,sGAAA;SAAAF,gGAAA;;A;AAAA,mGAAAA;;;A;AAIAG,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAgC;AAAE,SAAON,2CAAA,sCAA4B,IAA5B,CAAT;;A;AAChCO,gFAAA,GAAA,SAAuDC,KAAvD,CAAkE;;;A;AAAlEC,+E;;;;;;;;AAAA,mFAAAF;;;A;AAEAG,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAAsB;AAAE,SAAO,iBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_CSSFontFaceRuleWrappingImplementation.dart"],
+"names":["_CSSFontFaceRuleWrappingImplementation","","tmp$0","create__CSSFontFaceRuleWrappingImplementation","create__CSSFontFaceRuleWrappingImplementation$named","native__CSSFontFaceRuleWrappingImplementation_create__CSSFontFaceRuleWrappingImplementation","style","_get__CSSFontFaceRule_style","_this","_get__CSSFontFaceRule_style$$named_","typeName"]
+}

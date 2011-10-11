@@ -1,0 +1,295 @@
+corelib_impl.dart
+
+implementation/array.dart
+Array dart://core/com/google/dart/corelib/corelib_impl.dart 1332927565
+Arrays dart://core/com/google/dart/corelib/corelib_impl.dart 475410128
+Collection dart://core/com/google/dart/corelib/corelib.dart -1480088248
+Collections dart://core/com/google/dart/corelib/corelib_impl.dart 1378237892
+DualPivotQuicksort dart://core/com/google/dart/corelib/corelib_impl.dart 1629484069
+FixedSizeArrayIterator dart://core/com/google/dart/corelib/corelib_impl.dart -1284550421
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+IllegalArgumentException dart://core/com/google/dart/corelib/corelib.dart -1944402267
+IndexOutOfRangeException dart://core/com/google/dart/corelib/corelib.dart -57868065
+Iterable dart://core/com/google/dart/corelib/corelib.dart -1943431123
+Iterator dart://core/com/google/dart/corelib/corelib.dart 216616843
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+NoMoreElementsException dart://core/com/google/dart/corelib/corelib.dart 1379744582
+NotImplementedException dart://core/com/google/dart/corelib/corelib.dart -582819318
+Object dart://core/com/google/dart/corelib/corelib.dart 276926095
+ObjectArray dart://core/com/google/dart/corelib/corelib_impl.dart -1370583845
+TypeToken dart://core/com/google/dart/corelib/corelib_impl.dart -1983573113
+UnsupportedOperationException dart://core/com/google/dart/corelib/corelib.dart 807301157
+VariableSizeArrayIterator dart://core/com/google/dart/corelib/corelib_impl.dart -1269450854
+_pos
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+implementation/arrays.dart
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+Object dart://core/com/google/dart/corelib/corelib.dart 276926095
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+implementation/bool.dart
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+
+implementation/collections.dart
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+Iterable dart://core/com/google/dart/corelib/corelib.dart -1943431123
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+Object dart://core/com/google/dart/corelib/corelib.dart 276926095
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+
+implementation/core.dart
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+LinkedHashMap dart://core/com/google/dart/corelib/corelib.dart 2116875712
+Map dart://core/com/google/dart/corelib/corelib.dart -1899342822
+NoSuchMethodException dart://core/com/google/dart/corelib/corelib.dart 1914662793
+NullPointerException dart://core/com/google/dart/corelib/corelib.dart 905500956
+ObjectNotClosureException dart://core/com/google/dart/corelib/corelib.dart -228587782
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+StringBuffer dart://core/com/google/dart/corelib/corelib.dart 1156132923
+TypeError dart://core/com/google/dart/corelib/corelib.dart 1454817212
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+
+implementation/date_implementation.dart
+Date dart://core/com/google/dart/corelib/corelib.dart -1451898148
+DateImplementation dart://core/com/google/dart/corelib/corelib_impl.dart 759634941
+Duration dart://core/com/google/dart/corelib/corelib.dart 1932141777
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+TimeZone dart://core/com/google/dart/corelib/corelib.dart -841536503
+TimeZoneImplementation dart://core/com/google/dart/corelib/corelib_impl.dart 920464233
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+implementation/isolate.dart
+Copier dart://core/com/google/dart/corelib/corelib_impl.dart 108228427
+Deserializer dart://core/com/google/dart/corelib/corelib_impl.dart -1248965128
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+Isolate dart://core/com/google/dart/corelib/corelib.dart -47866528
+Promise dart://core/com/google/dart/corelib/corelib.dart 905577027
+PromiseQueue dart://core/com/google/dart/corelib/corelib_impl.dart 1894109022
+ReceivePort dart://core/com/google/dart/corelib/corelib.dart 53026616
+ReceivePortImpl dart://core/com/google/dart/corelib/corelib_impl.dart 839565828
+ReceivePortSingleShotImpl dart://core/com/google/dart/corelib/corelib_impl.dart -178862233
+SendPort dart://core/com/google/dart/corelib/corelib.dart 1995453833
+SendPortImpl dart://core/com/google/dart/corelib/corelib_impl.dart 464930202
+Serializer dart://core/com/google/dart/corelib/corelib_impl.dart 2076612595
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+_SPAWNED_SIGNAL dart://core/com/google/dart/corelib/corelib_impl.dart -1808118735
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+print dart://core/com/google/dart/corelib/corelib.dart 0
+
+implementation/isolate_serialization.dart
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+HashMap dart://core/com/google/dart/corelib/corelib.dart -1842864466
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+Map dart://core/com/google/dart/corelib/corelib.dart -1899342822
+MessageTraverser dart://core/com/google/dart/corelib/corelib_impl.dart 560448607
+ReceivePortImpl dart://core/com/google/dart/corelib/corelib_impl.dart 839565828
+ReceivePortSingleShotImpl dart://core/com/google/dart/corelib/corelib_impl.dart -178862233
+SendPort dart://core/com/google/dart/corelib/corelib.dart 1995453833
+SendPortImpl dart://core/com/google/dart/corelib/corelib_impl.dart 464930202
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+_attachInfo
+_dispatch
+_getInfo
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+num dart://core/com/google/dart/corelib/corelib.dart -476300450
+
+implementation/math_natives.dart
+BadNumberFormatException dart://core/com/google/dart/corelib/corelib.dart -1302830175
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+double dart://core/com/google/dart/corelib/corelib.dart -1993099170
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+num dart://core/com/google/dart/corelib/corelib.dart -476300450
+
+implementation/number.dart
+BadNumberFormatException dart://core/com/google/dart/corelib/corelib.dart -1302830175
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+NumberImplementation dart://core/com/google/dart/corelib/corelib_impl.dart -1720176671
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+double dart://core/com/google/dart/corelib/corelib.dart -1993099170
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+num dart://core/com/google/dart/corelib/corelib.dart -476300450
+
+implementation/regexp.dart
+Array dart://core/com/google/dart/corelib/corelib_impl.dart 1332927565
+Collection dart://core/com/google/dart/corelib/corelib.dart -1480088248
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+Iterable dart://core/com/google/dart/corelib/corelib.dart -1943431123
+Iterator dart://core/com/google/dart/corelib/corelib.dart 216616843
+JSSyntaxMatch dart://core/com/google/dart/corelib/corelib_impl.dart -742759199
+JSSyntaxRegExp dart://core/com/google/dart/corelib/corelib_impl.dart 1920489894
+Match dart://core/com/google/dart/corelib/corelib.dart 95265266
+NoMoreElementsException dart://core/com/google/dart/corelib/corelib.dart 1379744582
+Pattern dart://core/com/google/dart/corelib/corelib.dart 1712809440
+RegExp dart://core/com/google/dart/corelib/corelib.dart 1972304560
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+_LazyAllMatches dart://core/com/google/dart/corelib/corelib_impl.dart 2065992116
+_LazyAllMatchesIterator dart://core/com/google/dart/corelib/corelib_impl.dart 1235796185
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+implementation/string.dart
+Array dart://core/com/google/dart/corelib/corelib_impl.dart 1332927565
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+IndexOutOfRangeException dart://core/com/google/dart/corelib/corelib.dart -57868065
+Iterable dart://core/com/google/dart/corelib/corelib.dart -1943431123
+JSSyntaxRegExp dart://core/com/google/dart/corelib/corelib_impl.dart 1920489894
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+Match dart://core/com/google/dart/corelib/corelib.dart 95265266
+Object dart://core/com/google/dart/corelib/corelib.dart 276926095
+Pattern dart://core/com/google/dart/corelib/corelib.dart 1712809440
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+StringBuffer dart://core/com/google/dart/corelib/corelib.dart 1156132923
+StringImplementation dart://core/com/google/dart/corelib/corelib_impl.dart -1061742015
+_StringMatch dart://core/com/google/dart/corelib/corelib_impl.dart 483103970
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+implementation/string_base.dart
+Array dart://core/com/google/dart/corelib/corelib_impl.dart 1332927565
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+implementation/string_buffer.dart
+Array dart://core/com/google/dart/corelib/corelib_impl.dart 1332927565
+Collection dart://core/com/google/dart/corelib/corelib.dart -1480088248
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+Object dart://core/com/google/dart/corelib/corelib.dart 276926095
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+StringBase dart://core/com/google/dart/corelib/corelib_impl.dart 869022189
+StringBuffer dart://core/com/google/dart/corelib/corelib.dart 1156132923
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+implementation/time_zone_implementation.dart
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+TimeZone dart://core/com/google/dart/corelib/corelib.dart -841536503
+TimeZoneImplementation dart://core/com/google/dart/corelib/corelib_impl.dart 920464233
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+
+implementation/type_token.dart
+
+src/implementation/array.dart
+Array dart://core/com/google/dart/corelib/corelib_impl.dart 1332927565
+ArrayFactory dart://core/com/google/dart/corelib/corelib_impl.dart -728813877
+Iterable dart://core/com/google/dart/corelib/corelib.dart -1943431123
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+src/implementation/dual_pivot_quicksort.dart
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+src/implementation/duration_implementation.dart
+Duration dart://core/com/google/dart/corelib/corelib.dart 1932141777
+DurationImplementation dart://core/com/google/dart/corelib/corelib_impl.dart -813668338
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+src/implementation/exceptions.dart
+Exception dart://core/com/google/dart/corelib/corelib.dart -1350015132
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+
+src/implementation/hash_map_set.dart
+Collection dart://core/com/google/dart/corelib/corelib.dart -1480088248
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+HashMap dart://core/com/google/dart/corelib/corelib.dart -1842864466
+HashMapImplementation dart://core/com/google/dart/corelib/corelib_impl.dart -2042157016
+HashSet dart://core/com/google/dart/corelib/corelib.dart 1402135384
+HashSetImplementation dart://core/com/google/dart/corelib/corelib_impl.dart -2103896747
+HashSetIterator dart://core/com/google/dart/corelib/corelib_impl.dart 381319113
+Hashable dart://core/com/google/dart/corelib/corelib.dart -808643419
+Iterable dart://core/com/google/dart/corelib/corelib.dart -1943431123
+Iterator dart://core/com/google/dart/corelib/corelib.dart 216616843
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+Map dart://core/com/google/dart/corelib/corelib.dart -1899342822
+NoMoreElementsException dart://core/com/google/dart/corelib/corelib.dart 1379744582
+Object dart://core/com/google/dart/corelib/corelib.dart 276926095
+Set dart://core/com/google/dart/corelib/corelib.dart -1383809943
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+src/implementation/linked_hash_map.dart
+Collection dart://core/com/google/dart/corelib/corelib.dart -1480088248
+DoubleLinkedQueue dart://core/com/google/dart/corelib/corelib_impl.dart 505827236
+DoubleLinkedQueueEntry dart://core/com/google/dart/corelib/corelib_impl.dart -1474747299
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+HashMap dart://core/com/google/dart/corelib/corelib.dart -1842864466
+Hashable dart://core/com/google/dart/corelib/corelib.dart -808643419
+KeyValuePair dart://core/com/google/dart/corelib/corelib_impl.dart -1739880121
+LinkedHashMap dart://core/com/google/dart/corelib/corelib.dart 2116875712
+LinkedHashMapImplementation dart://core/com/google/dart/corelib/corelib_impl.dart -251705853
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+Map dart://core/com/google/dart/corelib/corelib.dart -1899342822
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+src/implementation/maps.dart
+Collection dart://core/com/google/dart/corelib/corelib.dart -1480088248
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+Map dart://core/com/google/dart/corelib/corelib.dart -1899342822
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+src/implementation/promise_implementation.dart
+Collection dart://core/com/google/dart/corelib/corelib.dart -1480088248
+Dispatcher dart://core/com/google/dart/corelib/corelib.dart -1714725908
+Exception dart://core/com/google/dart/corelib/corelib.dart -1350015132
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+Map dart://core/com/google/dart/corelib/corelib.dart -1899342822
+Promise dart://core/com/google/dart/corelib/corelib.dart 905577027
+PromiseQueue dart://core/com/google/dart/corelib/corelib_impl.dart 1894109022
+Proxy dart://core/com/google/dart/corelib/corelib.dart 843696458
+Queue dart://core/com/google/dart/corelib/corelib.dart -1017478957
+ReceivePort dart://core/com/google/dart/corelib/corelib.dart 53026616
+SendPort dart://core/com/google/dart/corelib/corelib.dart 1995453833
+SendPortImpl dart://core/com/google/dart/corelib/corelib_impl.dart 464930202
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+src/implementation/queue.dart
+Collection dart://core/com/google/dart/corelib/corelib.dart -1480088248
+DoubleLinkedQueue dart://core/com/google/dart/corelib/corelib_impl.dart 505827236
+DoubleLinkedQueueEntry dart://core/com/google/dart/corelib/corelib_impl.dart -1474747299
+EmptyQueueException dart://core/com/google/dart/corelib/corelib.dart 759878196
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+Iterable dart://core/com/google/dart/corelib/corelib.dart -1943431123
+Iterator dart://core/com/google/dart/corelib/corelib.dart 216616843
+NoMoreElementsException dart://core/com/google/dart/corelib/corelib.dart 1379744582
+Queue dart://core/com/google/dart/corelib/corelib.dart -1017478957
+_DoubleLinkedQueueEntrySentinel dart://core/com/google/dart/corelib/corelib_impl.dart 597861837
+_DoubleLinkedQueueIterator dart://core/com/google/dart/corelib/corelib_impl.dart 709508607
+_link
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+src/implementation/splay_tree.dart
+Collection dart://core/com/google/dart/corelib/corelib.dart -1480088248
+Comparable dart://core/com/google/dart/corelib/corelib.dart -108739695
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+List dart://core/com/google/dart/corelib/corelib.dart 1594754678
+Map dart://core/com/google/dart/corelib/corelib.dart -1899342822
+Object dart://core/com/google/dart/corelib/corelib.dart 276926095
+SplayTreeNode dart://core/com/google/dart/corelib/corelib_impl.dart 554965426
+bool dart://core/com/google/dart/corelib/corelib.dart 1865438271
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+
+src/implementation/stopwatch_implementation.dart
+Clock dart://core/com/google/dart/corelib/corelib.dart 1271371378
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+StopWatch dart://core/com/google/dart/corelib/corelib.dart -1473881596
+int dart://core/com/google/dart/corelib/corelib.dart 60230199
+

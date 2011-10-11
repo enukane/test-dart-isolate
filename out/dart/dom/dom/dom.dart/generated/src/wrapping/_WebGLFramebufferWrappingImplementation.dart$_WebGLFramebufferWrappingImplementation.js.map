@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_WebGLFramebufferWrappingImplementation.dart",
+"lineCount":68,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,4F;AAAA,0F;AAAA,mF;AAAA,kF;AAAA,4E;AACEC,yDAAA,GAAA,UAAoD;AAAR,6CAAQ;;A;AAApDA,yDAAA,GAAA;;;A;AAAAA,6FAAA,GAAA;MAAAC,wDAAA;;;;;;A;AAEAC,kGAAA,GAAA,UAAwD;AACtD,SAAO,+FAD+C;;A;AAAxDC,iG;;;;;;;;AAAAC,wGAAA;SAAAF,kGAAA;;A;AAAA,qGAAAA;;;A;AAIAG,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAsB;AAAE,SAAO,kBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_WebGLFramebufferWrappingImplementation.dart"],
+"names":["_WebGLFramebufferWrappingImplementation","","tmp$0","create__WebGLFramebufferWrappingImplementation","create__WebGLFramebufferWrappingImplementation$named","native__WebGLFramebufferWrappingImplementation_create__WebGLFramebufferWrappingImplementation","typeName"]
+}

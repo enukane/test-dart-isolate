@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_FileEntrySyncWrappingImplementation.dart",
+"lineCount":134,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6G;AAAA,sF;AAAA,kF;AAAA,yG;AAAA,uF;AAAA,gF;AAAA,+E;AAAA,2F;AACEC,sDAAA,GAAA,UAAiD;AAAR,+DAAQ;;A;AAAjDA,sDAAA,GAAA;;;A;AAAAA,uFAAA,GAAA;MAAAC,qDAAA;;;;;;A;AAEAC,4FAAA,GAAA,UAAqD;AACnD,SAAO,yFAD4C;;A;AAArDC,2F;;;;;;;;AAAAC,kGAAA;SAAAF,4FAAA;;A;AAAA,+FAAAA;;;A;AAIAG,uEAAA,GAAA,UAA8B;AAC5B,SAAON,yCAAA,wBAAc,IAAd,CADqB;;A;AAA9BO,sE;;;;;;;;AAAA,0EAAAD;;;A;AAGAE,gEAAA,GAAA,SAAoCC,QAApC,CAA8C;;;A;AAA9CC,+D;;;;;;;;AAAA,mEAAAF;;;A;AAEAG,+DAAA,GAAA,UAAY;AACV,SAAOX,yCAAA,gBAAM,IAAN,CADG;;A;AAAZY,8D;;;;;;;;AAAA,kEAAAD;;;A;AAGAE,wDAAA,GAAA,SAAkBJ,QAAlB,CAA4B;;;A;AAA5BK,uD;;;;;;;;AAAA,2DAAAD;;;A;AAEAE,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAsB;AAAE,SAAO,eAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_FileEntrySyncWrappingImplementation.dart"],
+"names":["_FileEntrySyncWrappingImplementation","","tmp$0","create__FileEntrySyncWrappingImplementation","create__FileEntrySyncWrappingImplementation$named","native__FileEntrySyncWrappingImplementation_create__FileEntrySyncWrappingImplementation","createWriter","createWriter$named","_createWriter","receiver","_createWriter$$named_","file","file$named","_file","_file$$named_","typeName"]
+}

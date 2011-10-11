@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_IDBDatabaseExceptionWrappingImplementation.dart",
+"lineCount":140,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2H;AAAA,oG;AAAA,8F;AAAA,uF;AAAA,sF;AAAA,gF;AACEC,6DAAA,GAAA,UAAwD;AAAR,6CAAQ;;A;AAAxDA,6DAAA,GAAA;;;A;AAAAA,qGAAA,GAAA;MAAAC,4DAAA;;;;;;A;AAEAC,0GAAA,GAAA,UAA4D;AAC1D,SAAO,uGADmD;;A;AAA5DC,yG;;;;;;;;AAAAC,gHAAA;SAAAF,0GAAA;;A;AAAA,6GAAAA;;;A;AAIAG,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAe;AAAE,SAAON,gDAAA,0CAAgC,IAAhC,CAAT;;A;AACfO,yFAAA,GAAA,SAA2CC,KAA3C,CAAsD;;;A;AAAtDC,wF;;;;;;;;AAAA,4FAAAF;;;A;AAEAG,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAqB;AAAE,SAAOV,gDAAA,6CAAmC,IAAnC,CAAT;;A;AACrBW,4FAAA,GAAA,SAAiDH,KAAjD,CAA4D;;;A;AAA5DI,2F;;;;;;;;AAAA,+FAAAD;;;A;AAEAE,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAkB;AAAE,SAAOb,gDAAA,0CAAgC,IAAhC,CAAT;;A;AAClBc,yFAAA,GAAA,SAA8CN,KAA9C,CAAyD;;;A;AAAzDO,wF;;;;;;;;AAAA,4FAAAD;;;A;AAEAE,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAsB;AAAE,SAAO,sBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_IDBDatabaseExceptionWrappingImplementation.dart"],
+"names":["_IDBDatabaseExceptionWrappingImplementation","","tmp$0","create__IDBDatabaseExceptionWrappingImplementation","create__IDBDatabaseExceptionWrappingImplementation$named","native__IDBDatabaseExceptionWrappingImplementation_create__IDBDatabaseExceptionWrappingImplementation","code","_get__IDBDatabaseException_code","_this","_get__IDBDatabaseException_code$$named_","message","_get__IDBDatabaseException_message","_get__IDBDatabaseException_message$$named_","name","_get__IDBDatabaseException_name","_get__IDBDatabaseException_name$$named_","typeName"]
+}

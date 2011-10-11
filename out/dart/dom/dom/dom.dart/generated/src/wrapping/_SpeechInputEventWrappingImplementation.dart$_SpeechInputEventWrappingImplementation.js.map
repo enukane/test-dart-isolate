@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_SpeechInputEventWrappingImplementation.dart",
+"lineCount":94,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,4F;AAAA,iF;AAAA,wG;AAAA,0F;AAAA,mF;AAAA,kF;AAAA,0F;AACEC,yDAAA,GAAA,UAAoD;AAAR,2DAAQ;;A;AAApDA,yDAAA,GAAA;;;A;AAAAA,6FAAA,GAAA;MAAAC,wDAAA;;;;;;A;AAEAC,kGAAA,GAAA,UAAwD;AACtD,SAAO,+FAD+C;;A;AAAxDC,iG;;;;;;;;AAAAC,wGAAA;SAAAF,kGAAA;;A;AAAA,qGAAAA;;;A;AAIAG,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAAoC;AAAE,SAAON,4CAAA,yCAA+B,IAA/B,CAAT;;A;AACpCO,oFAAA,GAAA,SAA4DC,KAA5D,CAAuE;;;A;AAAvEC,mF;;;;;;;;AAAA,uFAAAF;;;A;AAEAG,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAsB;AAAE,SAAO,kBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_SpeechInputEventWrappingImplementation.dart"],
+"names":["_SpeechInputEventWrappingImplementation","","tmp$0","create__SpeechInputEventWrappingImplementation","create__SpeechInputEventWrappingImplementation$named","native__SpeechInputEventWrappingImplementation_create__SpeechInputEventWrappingImplementation","results","_get__SpeechInputEvent_results","_this","_get__SpeechInputEvent_results$$named_","typeName"]
+}

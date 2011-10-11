@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/interface/IDBRequest.dart",
+"lineCount":28,
+"mappings":"AAOCA;;A;;;;;;;;;;AAEmBC,qCAAA;;;A;AAAAA,sCAAA;;;A;AAEAC,wCAAA;;;A;AAAAA,yCAAA;;;;",
+"sources":["dart://html/html/html.dart/generated/src/interface/IDBRequest.dart"],
+"names":["IDBRequest","DONE","LOADING"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_NotificationCenterWrappingImplementation.dart",
+"lineCount":104,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2I;AAAA,qH;AAAA,iH;AAAA,8F;AAAA,mG;AACEC,uFAAA,GAAA,SAA+CC,GAA/C,CAAuE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAvED,uFAAA,GAAA;2EAAkEC,GAAlE;;A;AAAAD,+HAAA,GAAA,SAA+CC,GAA/C;MAAAC,oEAAA;;;;;;A;AAEAC,yFAAA,GAAA,UAAsB;AACpB,SAAO,+BAAA,kCADa;;A;AAAtBC,wF;;;;;;;;AAAA,4FAAAD;;;A;AAIAE,gGAAA,GAAA,SAAoCC,GAApC,CAAgD;AAC9C,SAAOC,wBAAA,yBAA0B,+BAAA,0CAA4BD,GAA5B,CAA1B,CADuC;;A;AAAhDE,+F;;;;;;;;AAAA,mGAAAH;;;A;AAIAI,4FAAA,GAAA,SAAgCC,OAAhC,EAAgDC,KAAhD,EAA8DC,IAA9D,CAA2E;AACzE,SAAOL,wBAAA,yBAA0B,+BAAA,sCAAwBG,OAAxB,EAAiCC,KAAjC,EAAwCC,IAAxC,CAA1B,CADkE;;A;AAA3EC,2F;;;;;;;;AAAA,+FAAAJ;;;A;AAIAK,2FAAA,GAAA,SAAuBC,QAAvB,CAA8C;AAC5C,iCAAA,qCAAuBR,wBAAA,eAAgBQ,QAAhB,CAAvB,CAD4C;AAE5C,QAF4C;;A;AAA9CC,0F;;;;;;;;AAAA,8FAAAF;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_NotificationCenterWrappingImplementation.dart"],
+"names":["NotificationCenterWrappingImplementation","_wrap","ptr","tmp$0","checkPermission","checkPermission$named","createHTMLNotification","url","LevelDom","createHTMLNotification$named","createNotification","iconUrl","title","body","createNotification$named","requestPermission","callback","requestPermission$named"]
+}

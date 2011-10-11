@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_SQLErrorWrappingImplementation.dart",
+"lineCount":116,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mG;AAAA,4E;AAAA,kF;AAAA,2E;AAAA,0E;AAAA,oE;AACEC,iDAAA,GAAA,UAA4C;AAAR,6CAAQ;;A;AAA5CA,iDAAA,GAAA;;;A;AAAAA,6EAAA,GAAA;MAAAC,gDAAA;;;;;;A;AAEAC,kFAAA,GAAA,UAAgD;AAC9C,SAAO,+EADuC;;A;AAAhDC,iF;;;;;;;;AAAAC,wFAAA;SAAAF,kFAAA;;A;AAAA,qFAAAA;;;A;AAIAG,yDAAA;;;A;AAAAA,0DAAA,GAAA,UAAe;AAAE,SAAON,oCAAA,8BAAoB,IAApB,CAAT;;A;AACfO,iEAAA,GAAA,SAA+BC,KAA/B,CAA0C;;;A;AAA1CC,gE;;;;;;;;AAAA,oEAAAF;;;A;AAEAG,4DAAA;;;A;AAAAA,6DAAA,GAAA,UAAqB;AAAE,SAAOV,oCAAA,iCAAuB,IAAvB,CAAT;;A;AACrBW,oEAAA,GAAA,SAAqCH,KAArC,CAAgD;;;A;AAAhDI,mE;;;;;;;;AAAA,uEAAAD;;;A;AAEAE,6DAAA;;;A;AAAAA,8DAAA,GAAA,UAAsB;AAAE,SAAO,UAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_SQLErrorWrappingImplementation.dart"],
+"names":["_SQLErrorWrappingImplementation","","tmp$0","create__SQLErrorWrappingImplementation","create__SQLErrorWrappingImplementation$named","native__SQLErrorWrappingImplementation_create__SQLErrorWrappingImplementation","code","_get__SQLError_code","_this","_get__SQLError_code$$named_","message","_get__SQLError_message","_get__SQLError_message$$named_","typeName"]
+}

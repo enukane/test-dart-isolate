@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/interface/Int16Array.dart",
+"lineCount":25,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;AAEmBC,uCAAA;;;A;AAAAA,wCAAA;;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/interface/Int16Array.dart"],
+"names":["Int16Array","BYTES_PER_ELEMENT"]
+}

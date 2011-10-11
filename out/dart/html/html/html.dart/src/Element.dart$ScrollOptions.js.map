@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/Element.dart",
+"lineCount":57,
+"mappings":"AAeCA;;A;;;;;;;;;;AAAA,qF;AAAA,mE;AAKEC,0CAAA,GAAA,SAAeC,KAAf,EAA+BC,KAA/B,EAA+CC,MAA/C;;;A;AAAAH,0CAAA,GAAA;;AAAe,qBAAAC,KAAf;AAA+B,qBAAAC,KAA/B;AAA+C,sBAAAC,MAA/C;;A;AAAAH,oDAAA,GAAA,SAAeC,KAAf,EAA+BC,KAA/B,EAA+CC,MAA/C;MAAAC,yCAAA;;;;;;A;AAJUH,mDAAA;;;A;AAAAA,oDAAA;;;A;AACAC,mDAAA;;;A;AAAAA,oDAAA;;;A;AACCC,oDAAA;;;A;AAAAA,qDAAA;;;;",
+"sources":["dart://html/html/html.dart/src/Element.dart"],
+"names":["ScrollOptions","","lines","pages","center","tmp$0"]
+}

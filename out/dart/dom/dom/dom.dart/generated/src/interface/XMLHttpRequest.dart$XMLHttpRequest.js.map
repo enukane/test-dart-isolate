@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/interface/XMLHttpRequest.dart",
+"lineCount":57,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;AAKmBC,8BAAA;;;A;AAAAA,+BAAA;;;A;AAEAC,0CAAA;;;A;AAAAA,2CAAA;;;A;AAEAC,iCAAA;;;A;AAAAA,kCAAA;;;A;AAEAC,gCAAA;;;A;AAAAA,iCAAA;;;A;AAEAC,gCAAA;;;A;AAAAA,iCAAA;;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/interface/XMLHttpRequest.dart"],
+"names":["XMLHttpRequest","DONE","HEADERS_RECEIVED","LOADING","OPENED","UNSENT"]
+}

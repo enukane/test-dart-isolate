@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_PageTransitionEventWrappingImplementation.dart",
+"lineCount":127,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yH;AAAA,kG;AAAA,oF;AAAA,2G;AAAA,6F;AAAA,sF;AAAA,qF;AAAA,6F;AACEC,4DAAA,GAAA,UAAuD;AAAR,2DAAQ;;A;AAAvDA,4DAAA,GAAA;;;A;AAAAA,mGAAA,GAAA;MAAAC,2DAAA;;;;;;A;AAEAC,wGAAA,GAAA,UAA2D;AACzD,SAAO,qGADkD;;A;AAA3DC,uG;;;;;;;;AAAAC,8GAAA;SAAAF,wGAAA;;A;AAAA,2GAAAA;;;A;AAIAG,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAqB;AAAE,SAAON,+CAAA,8CAAoC,IAApC,CAAT;;A;AACrBO,4FAAA,GAAA,SAAgDC,KAAhD,CAA2D;;;A;AAA3DC,2F;;;;;;;;AAAA,+FAAAF;;;A;AAEAG,wFAAA,GAAA,SAA6BC,OAA7B,EAA6CC,YAA7C,EAAgEC,aAAhE,EAAoFP,SAApF,CAAoG;AAClGN,iDAAA,mCAAyB,IAAzB,EAA+BW,OAA/B,EAAwCC,YAAxC,EAAsDC,aAAtD,EAAqEP,SAArE,CADkG;AAElG,QAFkG;;A;AAApGQ,uF;;;;;;;;AAAA,2FAAAJ;;;A;AAIAK,iFAAA,GAAA,SAAqCC,QAArC,EAA+CL,OAA/C,EAAwDC,YAAxD,EAAsEC,aAAtE,EAAqFP,SAArF,CAAgG;;;A;AAAhGW,gF;;;;;;;;AAAA,oFAAAF;;;A;AAEAG,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAsB;AAAE,SAAO,qBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_PageTransitionEventWrappingImplementation.dart"],
+"names":["_PageTransitionEventWrappingImplementation","","tmp$0","create__PageTransitionEventWrappingImplementation","create__PageTransitionEventWrappingImplementation$named","native__PageTransitionEventWrappingImplementation_create__PageTransitionEventWrappingImplementation","persisted","_get__PageTransitionEvent_persisted","_this","_get__PageTransitionEvent_persisted$$named_","initPageTransitionEvent","typeArg","canBubbleArg","cancelableArg","initPageTransitionEvent$named","_initPageTransitionEvent","receiver","_initPageTransitionEvent$$named_","typeName"]
+}

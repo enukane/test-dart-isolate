@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_EventExceptionWrappingImplementation.dart",
+"lineCount":140,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+G;AAAA,wF;AAAA,wF;AAAA,iF;AAAA,gF;AAAA,0E;AACEC,uDAAA,GAAA,UAAkD;AAAR,6CAAQ;;A;AAAlDA,uDAAA,GAAA;;;A;AAAAA,yFAAA,GAAA;MAAAC,sDAAA;;;;;;A;AAEAC,8FAAA,GAAA,UAAsD;AACpD,SAAO,2FAD6C;;A;AAAtDC,6F;;;;;;;;AAAAC,oGAAA;SAAAF,8FAAA;;A;AAAA,iGAAAA;;;A;AAIAG,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAe;AAAE,SAAON,0CAAA,oCAA0B,IAA1B,CAAT;;A;AACfO,6EAAA,GAAA,SAAqCC,KAArC,CAAgD;;;A;AAAhDC,4E;;;;;;;;AAAA,gFAAAF;;;A;AAEAG,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAqB;AAAE,SAAOV,0CAAA,uCAA6B,IAA7B,CAAT;;A;AACrBW,gFAAA,GAAA,SAA2CH,KAA3C,CAAsD;;;A;AAAtDI,+E;;;;;;;;AAAA,mFAAAD;;;A;AAEAE,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAkB;AAAE,SAAOb,0CAAA,oCAA0B,IAA1B,CAAT;;A;AAClBc,6EAAA,GAAA,SAAwCN,KAAxC,CAAmD;;;A;AAAnDO,4E;;;;;;;;AAAA,gFAAAD;;;A;AAEAE,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAAsB;AAAE,SAAO,gBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_EventExceptionWrappingImplementation.dart"],
+"names":["_EventExceptionWrappingImplementation","","tmp$0","create__EventExceptionWrappingImplementation","create__EventExceptionWrappingImplementation$named","native__EventExceptionWrappingImplementation_create__EventExceptionWrappingImplementation","code","_get__EventException_code","_this","_get__EventException_code$$named_","message","_get__EventException_message","_get__EventException_message$$named_","name","_get__EventException_name","_get__EventException_name$$named_","typeName"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib.dart/src/date.dart",
+"lineCount":177,
+"mappings":"AAUCA;;A;;;;;;;;;;;;;;;AAEmBC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,4BAAA;;;A;AAAAA,6BAAA;;;A;AAGAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;A;AACAC,mBAAA;;;A;AAAAA,oBAAA;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib.dart/src/date.dart"],
+"names":["Date","MON","TUE","WED","THU","FRI","SAT","SUN","DAYS_IN_WEEK","JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"]
+}

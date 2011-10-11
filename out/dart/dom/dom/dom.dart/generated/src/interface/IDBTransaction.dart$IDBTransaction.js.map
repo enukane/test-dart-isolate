@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/interface/IDBTransaction.dart",
+"lineCount":36,
+"mappings":"AAOCA;;A;;;;;;;;;;AAEmBC,mCAAA;;;A;AAAAA,oCAAA;;;A;AAEAC,oCAAA;;;A;AAAAA,qCAAA;;;A;AAEAC,wCAAA;;;A;AAAAA,yCAAA;;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/interface/IDBTransaction.dart"],
+"names":["IDBTransaction","READ_ONLY","READ_WRITE","VERSION_CHANGE"]
+}

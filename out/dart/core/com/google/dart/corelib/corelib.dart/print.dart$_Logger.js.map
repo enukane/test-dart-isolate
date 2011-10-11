@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib.dart/print.dart",
+"lineCount":46,
+"mappings":"AAaCA;;A;;;;;;;;;;AAAA,mD;AAAA,kD;AACEC,yBAAA,GAAA,SAAaC,KAAb,CAAkB;AAChBF,cAAA,uBAAcE,KAAA,QAAD,CAAiB,MAAjB,CAA0BA,KAAA,2BAAvC,CADgB;;A;AAAlBC,wB;;;;;;;;AAAA,4BAAAF;;;A;AAIAG,kCAAA,GAAA,SAAyBC,GAAzB,CAAqC;;;A;AAArCC,iC;;;;;;;;AAAA,qCAAAF;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib.dart/print.dart"],
+"names":["_Logger","print","arg","print$named","_printString","str","_printString$$named_"]
+}

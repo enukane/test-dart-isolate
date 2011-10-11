@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CloseEventWrappingImplementation.dart",
+"lineCount":82,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2H;AAAA,qG;AAAA,gG;AAAA,sH;AAAA,yG;AAAA,sF;AAAA,wG;AACEC,+EAAA,GAAA,SAAuCC,GAAvC,CAA+D;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAA/DD,+EAAA,GAAA;wFAA0DC,GAA1D;;A;AAAAD,+GAAA,GAAA,SAAuCC,GAAvC;MAAAC,4DAAA;;;;;;A;AAEAC,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;A;AAEfC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEpBC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEpBC,gFAAA,GAAA,SAAoBC,OAApB,EAAoCC,YAApC,EAAuDC,aAAvD,EAA2EC,WAA3E,EAA6FC,OAA7F,EAA0GC,SAA1G,CAA4H;AAC1H,iCAAA,kCAAoBL,OAApB,EAA6BC,YAA7B,EAA2CC,aAA3C,EAA0DC,WAA1D,EAAuEC,OAAvE,EAAgFC,SAAhF,CAD0H;AAE1H,QAF0H;;A;AAA5HC,+E;;;;;;;;AAAA,mFAAAP;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CloseEventWrappingImplementation.dart"],
+"names":["CloseEventWrappingImplementation","_wrap","ptr","tmp$0","code","reason","wasClean","initCloseEvent","typeArg","canBubbleArg","cancelableArg","wasCleanArg","codeArg","reasonArg","initCloseEvent$named"]
+}

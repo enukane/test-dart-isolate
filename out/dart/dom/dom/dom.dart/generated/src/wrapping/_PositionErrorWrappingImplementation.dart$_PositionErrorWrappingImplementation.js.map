@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_PositionErrorWrappingImplementation.dart",
+"lineCount":116,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6G;AAAA,sF;AAAA,uF;AAAA,gF;AAAA,+E;AAAA,yE;AACEC,sDAAA,GAAA,UAAiD;AAAR,6CAAQ;;A;AAAjDA,sDAAA,GAAA;;;A;AAAAA,uFAAA,GAAA;MAAAC,qDAAA;;;;;;A;AAEAC,4FAAA,GAAA,UAAqD;AACnD,SAAO,yFAD4C;;A;AAArDC,2F;;;;;;;;AAAAC,kGAAA;SAAAF,4FAAA;;A;AAAA,+FAAAA;;;A;AAIAG,8DAAA;;;A;AAAAA,+DAAA,GAAA,UAAe;AAAE,SAAON,yCAAA,mCAAyB,IAAzB,CAAT;;A;AACfO,2EAAA,GAAA,SAAoCC,KAApC,CAA+C;;;A;AAA/CC,0E;;;;;;;;AAAA,8EAAAF;;;A;AAEAG,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAqB;AAAE,SAAOV,yCAAA,sCAA4B,IAA5B,CAAT;;A;AACrBW,8EAAA,GAAA,SAA0CH,KAA1C,CAAqD;;;A;AAArDI,6E;;;;;;;;AAAA,iFAAAD;;;A;AAEAE,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAsB;AAAE,SAAO,eAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_PositionErrorWrappingImplementation.dart"],
+"names":["_PositionErrorWrappingImplementation","","tmp$0","create__PositionErrorWrappingImplementation","create__PositionErrorWrappingImplementation$named","native__PositionErrorWrappingImplementation_create__PositionErrorWrappingImplementation","code","_get__PositionError_code","_this","_get__PositionError_code$$named_","message","_get__PositionError_message","_get__PositionError_message$$named_","typeName"]
+}

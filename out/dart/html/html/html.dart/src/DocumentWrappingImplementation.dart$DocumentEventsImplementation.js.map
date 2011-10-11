@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/DocumentWrappingImplementation.dart",
+"lineCount":66,
+"mappings":"AAKCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,qG;AAAA,oG;AAAA,6F;AAAA,kH;AAAA,2G;AAAA,kF;AAAA,oG;AAGEC,2EAAA,GAAA,SAAmCC,IAAnC;AAA2C,wFAAYA,IAAZ,CAA3C;;A;AAAAD,2EAAA,GAAA;wFAAuDC,IAAvD;;A;AAAAD,uGAAA,GAAA,SAAmCC,IAAnC;MAAAC,wDAAA;;;;;;A;AAEAC,6EAAA;;;A;AAAAA,8EAAA,GAAA,UAAyC;SAAG,8BAAK,kBAAL,CAAH;;A;AAEzCC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAwC;SAAG,8BAAK,iBAAL,CAAH;;A;AAExCC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAsC;SAAG,8BAAK,kBAAL,CAAH;;;",
+"sources":["dart://html/html/html.dart/src/DocumentWrappingImplementation.dart"],
+"names":["DocumentEventsImplementation","_wrap","_ptr","tmp$0","readyStateChange","selectionChange","contentLoaded"]
+}

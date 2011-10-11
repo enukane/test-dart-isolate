@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_IDBAnyWrappingImplementation.dart",
+"lineCount":68,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+F;AAAA,wE;AAAA,gF;AAAA,yE;AAAA,wE;AAAA,kE;AACEC,+CAAA,GAAA,UAA0C;AAAR,6CAAQ;;A;AAA1CA,+CAAA,GAAA;;;A;AAAAA,yEAAA,GAAA;MAAAC,8CAAA;;;;;;A;AAEAC,8EAAA,GAAA,UAA8C;AAC5C,SAAO,2EADqC;;A;AAA9CC,6E;;;;;;;;AAAAC,oFAAA;SAAAF,8EAAA;;A;AAAA,iFAAAA;;;A;AAIAG,2DAAA;;;A;AAAAA,4DAAA,GAAA,UAAsB;AAAE,SAAO,QAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_IDBAnyWrappingImplementation.dart"],
+"names":["_IDBAnyWrappingImplementation","","tmp$0","create__IDBAnyWrappingImplementation","create__IDBAnyWrappingImplementation$named","native__IDBAnyWrappingImplementation_create__IDBAnyWrappingImplementation","typeName"]
+}

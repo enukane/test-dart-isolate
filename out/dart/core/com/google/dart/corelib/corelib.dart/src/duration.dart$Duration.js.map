@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib.dart/src/duration.dart",
+"lineCount":151,
+"mappings":"AAUCA;;A;;;;;;;;;;;;;;;AAwCmBC,2CAAA;;;A;AAAAA,4CAAA;;;A;AACAC,sCAAA;;;A;AAAAA,uCAAA;;;A;AACAC,oCAAA;;;A;AAAAA,qCAAA;;;A;AACAC,iCAAA;;;A;AAAAA,kCAAA;;;A;AAEAC,2CAAA;;;A;AAAAA,4CAAA;;;;;;;;cACb,aAAA,8CAAA,EAA0B,yCAA1B,CADa;;;;A;AAEAC,yCAAA;;;A;AAAAA,0CAAA;;;;;;;;cACb,aAAA,8CAAA,EAA0B,uCAA1B,CADa;;;;A;AAEAC,wCAAA;;;A;AAAAA,yCAAA;;;;;;;;cACb,aAAA,4CAAA,EAAwB,oCAAxB,CADa;;;;A;AAGAC,oCAAA;;;A;AAAAA,qCAAA;;;;;;;;cAAmB,aAAA,yCAAA,EAAqB,uCAArB,CAAnB;;;;A;AACAC,mCAAA;;;A;AAAAA,oCAAA;;;;;;;;cAAkB,aAAA,uCAAA,EAAmB,oCAAnB,CAAlB;;;;A;AAEAC,mCAAA;;;A;AAAAA,oCAAA;;;;;;;;cAAkB,aAAA,uCAAA,EAAmB,oCAAnB,CAAlB;;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib.dart/src/duration.dart"],
+"names":["Duration","MILLISECONDS_PER_SECOND","SECONDS_PER_MINUTE","MINUTES_PER_HOUR","HOURS_PER_DAY","MILLISECONDS_PER_MINUTE","MILLISECONDS_PER_HOUR","MILLISECONDS_PER_DAY","SECONDS_PER_HOUR","SECONDS_PER_DAY","MINUTES_PER_DAY"]
+}

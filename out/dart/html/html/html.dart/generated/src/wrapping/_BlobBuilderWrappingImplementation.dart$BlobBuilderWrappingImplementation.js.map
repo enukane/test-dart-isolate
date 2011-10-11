@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_BlobBuilderWrappingImplementation.dart",
+"lineCount":103,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,0G;AAAA,uF;AAAA,4F;AACEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;2EAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;A;AAEAC,yEAAA,GAAA,SAAYC,aAAZ,EAAgCC,OAAhC,CAAwD;;AACtD,MAAI,CAAiB,EAAA,QAAjBD,aAAiB,GAAAF,KAAA,QAAA,IAAAA,KAAA,iCAAA,CAArB,EAA2B;AACzB,QAAIG,OAAA,QAAJ,EAAsB;AACpB,qCAAA,0BAAYC,wBAAA,eAAgBF,aAAhB,CAAZ,CADoB;AAEpB,YAFoB;;AADG;AAA3B,QAKO;AACL,QAAqB,MAAA,YAAjB,CAAAA,aAAA,CAAJ,EAA6B;AAC3B,UAAIC,OAAA,QAAJ,EAAsB;AACpB,uCAAA,0BAAYC,wBAAA,eAAgBF,aAAhB,CAAZ,CADoB;AAEpB,cAFoB;;AAAtB,YAGO;AACL,uCAAA,0BAAYE,wBAAA,eAAgBF,aAAhB,CAAZ,EAA4CC,OAA5C,CADK;AAEL,cAFK;;AAJoB;AADxB;AAWP,uBAAM,uCAAN,CAjBsD;;A;AAAxDE,wE;;;;;;;;;;;;AAAA,4EAAAJ;;;A;AAoBAK,0EAAA,GAAA,SAAcC,WAAd,CAA0C;AACxC,MAAIA,WAAA,QAAJ,EAA0B;AACxB,WAAOH,wBAAA,iBAAkB,+BAAA,0BAAlB,CADiB;;AAA1B,QAEO;AACL,WAAOA,wBAAA,iBAAkB,+BAAA,2BAAaG,WAAb,CAAlB,CADF;;AAHiC;A;AAA1CC,yE;;;;;;;;;;;;AAAA,6EAAAF;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_BlobBuilderWrappingImplementation.dart"],
+"names":["BlobBuilderWrappingImplementation","_wrap","ptr","tmp$0","append","blob_OR_value","endings","LevelDom","append$named","getBlob","contentType","getBlob$named"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/string.dart",
+"lineCount":37,
+"mappings":"AA6LCA;;A;;;;;;;;;;AAAA,+D;AAAA,wD;AACEC,sCAAA,GAAA,SAA2BC,CAA3B,CAA8B;AAC5B,MAAIA,CAAA,QAAJ;AAAgB,WAAO,MAAvB;;AACA,SAAOA,CAAA,2BAFqB;;A;AAA9BC,qC;;;;;;;;AAAAC,6CAAA;SAAAH,sCAAA;;A;AAAA,yCAAAA;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/string.dart"],
+"names":["_StringJsUtil","toDartString","o","toDartString$named","native__StringJsUtil_toDartString"]
+}

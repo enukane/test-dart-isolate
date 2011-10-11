@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_StorageEventWrappingImplementation.dart",
+"lineCount":98,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+H;AAAA,yG;AAAA,kG;AAAA,wH;AAAA,2G;AAAA,wF;AAAA,0G;AACEC,iFAAA,GAAA,SAAyCC,GAAzC,CAAiE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAAjED,iFAAA,GAAA;wFAA4DC,GAA5D;;A;AAAAD,mHAAA,GAAA,SAAyCC,GAAzC;MAAAC,8DAAA;;;;;;A;AAEAC,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,aAAT;;A;AAEjBC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEtBC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEtBC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAA0B;AAAE,SAAOC,wBAAA,oBAAqB,+BAAA,qBAArB,CAAT;;A;AAE1BC,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,aAAT;;A;AAEjBC,oFAAA,GAAA,SAAsBC,OAAtB,EAAsCC,YAAtC,EAAyDC,aAAzD,EAA6EC,MAA7E,EAA4FC,WAA5F,EAAgHC,WAAhH,EAAoIC,MAApI,EAAmJC,cAAnJ,CAA2K;AACzK,iCAAA,oCAAsBP,OAAtB,EAA+BC,YAA/B,EAA6CC,aAA7C,EAA4DC,MAA5D,EAAoEC,WAApE,EAAiFC,WAAjF,EAA8FC,MAA9F,EAAsGT,wBAAA,eAAgBU,cAAhB,CAAtG,CADyK;AAEzK,QAFyK;;A;AAA3KC,mF;;;;;;;;AAAA,uFAAAT;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_StorageEventWrappingImplementation.dart"],
+"names":["StorageEventWrappingImplementation","_wrap","ptr","tmp$0","key","newValue","oldValue","storageArea","LevelDom","url","initStorageEvent","typeArg","canBubbleArg","cancelableArg","keyArg","oldValueArg","newValueArg","urlArg","storageAreaArg","initStorageEvent$named"]
+}

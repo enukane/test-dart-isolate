@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CSSTransformValueWrappingImplementation.dart",
+"lineCount":51,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yI;AAAA,mH;AAAA,8G;AAAA,0G;AAAA,oI;AAAA,gI;AAAA,gH;AAAA,6F;AAAA,sH;AACEC,sFAAA,GAAA,SAA8CC,GAA9C,CAAsE;AAAjB,+FAAYA,GAAZ,CAAiB;;A;AAAtED,sFAAA,GAAA;+FAAiEC,GAAjE;;A;AAAAD,6HAAA,GAAA,SAA8CC,GAA9C;MAAAC,mEAAA;;;;;;A;AAEAC,qFAAA;;;A;AAAAA,sFAAA,GAAA,UAAwB;AAAE,SAAO,+BAAA,uBAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CSSTransformValueWrappingImplementation.dart"],
+"names":["CSSTransformValueWrappingImplementation","_wrap","ptr","tmp$0","operationType"]
+}

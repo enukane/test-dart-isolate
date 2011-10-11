@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_WebKitCSSTransformValueWrappingImplementation.dart",
+"lineCount":96,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,0G;AAAA,+F;AAAA,2F;AAAA,sH;AAAA,kH;AAAA,iG;AAAA,0F;AAAA,yF;AAAA,wG;AACEC,gEAAA,GAAA,UAA2D;AAAR,kEAAQ;;A;AAA3DA,gEAAA,GAAA;;;A;AAAAA,2GAAA,GAAA;MAAAC,+DAAA;;;;;;A;AAEAC,gHAAA,GAAA,UAA+D;AAC7D,SAAO,6GADsD;;A;AAA/DC,+G;;;;;;;;AAAAC,sHAAA;SAAAF,gHAAA;;A;AAAA,mHAAAA;;;A;AAIAG,iFAAA;;;A;AAAAA,kFAAA,GAAA,UAAwB;AAAE,SAAON,mDAAA,sDAA4C,IAA5C,CAAT;;A;AACxBO,wGAAA,GAAA,SAAuDC,KAAvD,CAAkE;;;A;AAAlEC,uG;;;;;;;;AAAA,2GAAAF;;;A;AAEAG,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAsB;AAAE,SAAO,yBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_WebKitCSSTransformValueWrappingImplementation.dart"],
+"names":["_WebKitCSSTransformValueWrappingImplementation","","tmp$0","create__WebKitCSSTransformValueWrappingImplementation","create__WebKitCSSTransformValueWrappingImplementation$named","native__WebKitCSSTransformValueWrappingImplementation_create__WebKitCSSTransformValueWrappingImplementation","operationType","_get__WebKitCSSTransformValue_operationType","_this","_get__WebKitCSSTransformValue_operationType$$named_","typeName"]
+}

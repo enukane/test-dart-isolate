@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_DOMFormDataWrappingImplementation.dart",
+"lineCount":102,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yG;AAAA,kF;AAAA,+E;AAAA,qF;AAAA,8E;AAAA,6E;AAAA,uE;AACEC,oDAAA,GAAA,UAA+C;AAAR,6CAAQ;;A;AAA/CA,oDAAA,GAAA;;;A;AAAAA,mFAAA,GAAA;MAAAC,mDAAA;;;;;;A;AAEAC,wFAAA,GAAA,UAAmD;AACjD,SAAO,qFAD0C;;A;AAAnDC,uF;;;;;;;;AAAAC,8FAAA;SAAAF,wFAAA;;A;AAAA,2FAAAA;;;A;AAIAG,+DAAA,GAAA,SAAYC,MAAZ,EAAyBC,KAAzB,CAAuC;AACrCR,yCAAA,kBAAQ,IAAR,EAAcO,MAAd,EAAoBC,KAApB,CADqC;AAErC,QAFqC;;A;AAAvCC,8D;;;;;;;;AAAA,kEAAAH;;;A;AAIAI,wDAAA,GAAA,SAAoBC,QAApB,EAA8BJ,MAA9B,EAAoCC,KAApC,CAA2C;;;A;AAA3CI,uD;;;;;;;;AAAA,2DAAAF;;;A;AAEAG,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAAsB;AAAE,SAAO,aAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_DOMFormDataWrappingImplementation.dart"],
+"names":["_DOMFormDataWrappingImplementation","","tmp$0","create__DOMFormDataWrappingImplementation","create__DOMFormDataWrappingImplementation$named","native__DOMFormDataWrappingImplementation_create__DOMFormDataWrappingImplementation","append","name","value","append$named","_append","receiver","_append$$named_","typeName"]
+}

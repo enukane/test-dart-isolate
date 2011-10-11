@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_CanvasRenderingContextWrappingImplementation.dart",
+"lineCount":92,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+H;AAAA,wG;AAAA,gG;AAAA,yF;AAAA,wF;AAAA,kF;AACEC,+DAAA,GAAA,UAA0D;AAAR,6CAAQ;;A;AAA1DA,+DAAA,GAAA;;;A;AAAAA,yGAAA,GAAA;MAAAC,8DAAA;;;;;;A;AAEAC,8GAAA,GAAA,UAA8D;AAC5D,SAAO,2GADqD;;A;AAA9DC,6G;;;;;;;;AAAAC,oHAAA;SAAAF,8GAAA;;A;AAAA,iHAAAA;;;A;AAIAG,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAA+B;AAAE,SAAON,kDAAA,8CAAoC,IAApC,CAAT;;A;AAC/BO,+FAAA,GAAA,SAA6DC,KAA7D,CAAwE;;;A;AAAxEC,8F;;;;;;;;AAAA,kGAAAF;;;A;AAEAG,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAsB;AAAE,SAAO,wBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_CanvasRenderingContextWrappingImplementation.dart"],
+"names":["_CanvasRenderingContextWrappingImplementation","","tmp$0","create__CanvasRenderingContextWrappingImplementation","create__CanvasRenderingContextWrappingImplementation$named","native__CanvasRenderingContextWrappingImplementation_create__CanvasRenderingContextWrappingImplementation","canvas","_get__CanvasRenderingContext_canvas","_this","_get__CanvasRenderingContext_canvas$$named_","typeName"]
+}

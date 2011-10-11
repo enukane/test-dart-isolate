@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/interface/Int8Array.dart",
+"lineCount":25,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;AAEmBC,sCAAA;;;A;AAAAA,uCAAA;;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/interface/Int8Array.dart"],
+"names":["Int8Array","BYTES_PER_ELEMENT"]
+}

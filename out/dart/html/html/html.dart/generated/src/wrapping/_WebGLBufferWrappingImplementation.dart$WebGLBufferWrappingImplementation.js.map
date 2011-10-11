@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_WebGLBufferWrappingImplementation.dart",
+"lineCount":39,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,0G;AAAA,uF;AAAA,4F;AACEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;2EAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_WebGLBufferWrappingImplementation.dart"],
+"names":["WebGLBufferWrappingImplementation","_wrap","ptr","tmp$0"]
+}

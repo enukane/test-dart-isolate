@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_Uint16ArrayWrappingImplementation.dart",
+"lineCount":74,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,2G;AAAA,iI;AAAA,0G;AAAA,uF;AAAA,mH;AACEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,kGAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;kGAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;A;AAEAC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,2EAAA,GAAA,SAAqBC,KAArB,EAAiCC,GAAjC,CAAkD;AAChD,MAAIA,GAAA,QAAJ,EAAkB;AAChB,WAAOC,wBAAA,wBAAyB,+BAAA,4BAAcF,KAAd,CAAzB,CADS;;AAAlB,QAEO;AACL,WAAOE,wBAAA,wBAAyB,+BAAA,4BAAcF,KAAd,EAAqBC,GAArB,CAAzB,CADF;;AAHyC;A;AAAlDE,0E;;;;;;;;;;;;AAAA,8EAAAJ;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_Uint16ArrayWrappingImplementation.dart"],
+"names":["Uint16ArrayWrappingImplementation","_wrap","ptr","tmp$0","length","subarray","start","end","LevelDom","subarray$named"]
+}

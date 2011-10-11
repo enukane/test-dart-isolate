@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/XMLHttpRequest.dart",
+"lineCount":57,
+"mappings":"AAcCA;;A;;;;;;;;;;;;;;;AACmBC,yCAAA;;;A;AAAAA,0CAAA;;;A;AAEAC,qDAAA;;;A;AAAAA,sDAAA;;;A;AAEAC,4CAAA;;;A;AAAAA,6CAAA;;;A;AAEAC,2CAAA;;;A;AAAAA,4CAAA;;;A;AAEAC,2CAAA;;;A;AAAAA,4CAAA;;;;",
+"sources":["dart://html/html/html.dart/src/XMLHttpRequest.dart"],
+"names":["XMLHttpRequest","DONE","HEADERS_RECEIVED","LOADING","OPENED","UNSENT"]
+}

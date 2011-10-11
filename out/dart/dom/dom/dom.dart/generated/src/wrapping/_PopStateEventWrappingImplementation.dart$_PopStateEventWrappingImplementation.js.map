@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_PopStateEventWrappingImplementation.dart",
+"lineCount":127,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6G;AAAA,sF;AAAA,8E;AAAA,qG;AAAA,uF;AAAA,gF;AAAA,+E;AAAA,uF;AACEC,sDAAA,GAAA,UAAiD;AAAR,2DAAQ;;A;AAAjDA,sDAAA,GAAA;;;A;AAAAA,uFAAA,GAAA;MAAAC,qDAAA;;;;;;A;AAEAC,4FAAA,GAAA,UAAqD;AACnD,SAAO,yFAD4C;;A;AAArDC,2F;;;;;;;;AAAAC,kGAAA;SAAAF,4FAAA;;A;AAAA,+FAAAA;;;A;AAIAG,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAmB;AAAE,SAAON,yCAAA,oCAA0B,IAA1B,CAAT;;A;AACnBO,4EAAA,GAAA,SAAwCC,KAAxC,CAAmD;;;A;AAAnDC,2E;;;;;;;;AAAA,+EAAAF;;;A;AAEAG,4EAAA,GAAA,SAAuBC,OAAvB,EAAuCC,YAAvC,EAA0DC,aAA1D,EAA8EC,QAA9E,CAA+F;AAC7Fd,2CAAA,6BAAmB,IAAnB,EAAyBW,OAAzB,EAAkCC,YAAlC,EAAgDC,aAAhD,EAA+DC,QAA/D,CAD6F;AAE7F,QAF6F;;A;AAA/FC,2E;;;;;;;;AAAA,+EAAAL;;;A;AAIAM,qEAAA,GAAA,SAA+BC,QAA/B,EAAyCN,OAAzC,EAAkDC,YAAlD,EAAgEC,aAAhE,EAA+EC,QAA/E,CAAyF;;;A;AAAzFI,oE;;;;;;;;AAAA,wEAAAF;;;A;AAEAG,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAsB;AAAE,SAAO,eAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_PopStateEventWrappingImplementation.dart"],
+"names":["_PopStateEventWrappingImplementation","","tmp$0","create__PopStateEventWrappingImplementation","create__PopStateEventWrappingImplementation$named","native__PopStateEventWrappingImplementation_create__PopStateEventWrappingImplementation","state","_get__PopStateEvent_state","_this","_get__PopStateEvent_state$$named_","initPopStateEvent","typeArg","canBubbleArg","cancelableArg","stateArg","initPopStateEvent$named","_initPopStateEvent","receiver","_initPopStateEvent$$named_","typeName"]
+}

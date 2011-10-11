@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_TrackElementWrappingImplementation.dart",
+"lineCount":110,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+H;AAAA,yG;AAAA,oG;AAAA,iG;AAAA,wG;AAAA,0H;AAAA,uH;AAAA,8H;AAAA,2G;AAAA,wF;AAAA,4G;AACEC,iFAAA,GAAA,SAAyCC,GAAzC,CAAiE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAjED,iFAAA,GAAA;0FAA4DC,GAA5D;;A;AAAAD,mHAAA,GAAA,SAAyCC,GAAzC;MAAAC,8DAAA;;;;;;A;AAEAC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,mBAAT;;A;AAErBA,6EAAA,GAAA,SAAmBC,KAAnB,CAA+B;;AAAE,iCAAA,0BAAiBA,KAAjB,SAAF;;A;AAE/BC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBA,wEAAA,GAAA,SAAcD,KAAd,CAA4B;;AAAE,iCAAA,qBAAYA,KAAZ,SAAF;;A;AAE5BE,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,eAAT;;A;AAEnBA,yEAAA,GAAA,SAAeF,KAAf,CAA6B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;A;AAE7BG,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,aAAT;;A;AAEjBA,uEAAA,GAAA,SAAaH,KAAb,CAA2B;;AAAE,iCAAA,oBAAWA,KAAX,SAAF;;A;AAE3BI,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,iBAAT;;A;AAErBA,2EAAA,GAAA,SAAiBJ,KAAjB,CAA+B;;AAAE,iCAAA,wBAAeA,KAAf,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_TrackElementWrappingImplementation.dart"],
+"names":["TrackElementWrappingImplementation","_wrap","ptr","tmp$0","isDefault","value","kind","label","src","srclang"]
+}

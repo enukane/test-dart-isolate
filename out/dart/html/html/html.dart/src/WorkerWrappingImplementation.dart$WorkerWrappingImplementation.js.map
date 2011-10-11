@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/WorkerWrappingImplementation.dart",
+"lineCount":98,
+"mappings":"AAYCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,6F;AAAA,qG;AAAA,kG;AAAA,wH;AAAA,qG;AAAA,kF;AAAA,0G;AACEC,2EAAA,GAAA,SAAmCC,GAAnC,CAA2D;AAAjB,8FAAYA,GAAZ,CAAiB;;A;AAA3DD,2EAAA,GAAA;8FAAsDC,GAAtD;;A;AAAAD,uGAAA,GAAA,SAAmCC,GAAnC;MAAAC,wDAAA;;;;;;A;AAEAC,yEAAA,GAAA,SAAiBC,OAAjB,EAAkCC,WAAlC,CAAmE;AACjE,MAAIA,WAAA,QAAJ,EAA0B;AACxB,mCAAA,+BAAiBD,OAAjB,CADwB;AAExB,UAFwB;;AAA1B,QAGO;AACL,mCAAA,+BAAiBA,OAAjB,EAA0BE,wBAAA,eAAgBD,WAAhB,CAA1B,CADK;AAEL,UAFK;;AAJ0D;A;AAAnEE,wE;;;;;;;;;;;;AAAA,4EAAAJ;;;A;AAUAK,uEAAA,GAAA,UAAiB;AACf,iCAAA,4BADe;AAEf,QAFe;;A;AAAjBC,sE;;;;;;;;AAAA,0EAAAD;;;A;AAKAE,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAsB;;AACpB,MAAI,8BAAA,QAAJ,EAAkB;AAChB,yCAAM,oGAAqC,+BAArC,CAAN,SADgB;;AAGlB,SAAO,8BAJa;;;",
+"sources":["dart://html/html/html.dart/src/WorkerWrappingImplementation.dart"],
+"names":["WorkerWrappingImplementation","_wrap","ptr","tmp$0","postMessage","message","messagePort","LevelDom","postMessage$named","terminate","terminate$named","on"]
+}

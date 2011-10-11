@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_FieldSetElementWrappingImplementation.dart",
+"lineCount":110,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qI;AAAA,+G;AAAA,uG;AAAA,oG;AAAA,2G;AAAA,6H;AAAA,0H;AAAA,iI;AAAA,8G;AAAA,2F;AAAA,+G;AACEC,oFAAA,GAAA,SAA4CC,GAA5C,CAAoE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAApED,oFAAA,GAAA;0FAA+DC,GAA/D;;A;AAAAD,yHAAA,GAAA,SAA4CC,GAA5C;MAAAC,iEAAA;;;;;;A;AAEAC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAuB;AAAE,SAAOC,wBAAA,wBAAyB,+BAAA,cAAzB,CAAT;;A;AAEvBC,uFAAA;;;A;AAAAA,wFAAA,GAAA,UAA+B;AAAE,SAAO,+BAAA,2BAAT;;A;AAE/BC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAA6B;AAAE,SAAOF,wBAAA,0BAA2B,+BAAA,kBAA3B,CAAT;;A;AAE7BG,kFAAA;;;A;AAAAA,mFAAA,GAAA,UAAwB;AAAE,SAAO,+BAAA,sBAAT;;A;AAExBC,oFAAA,GAAA,UAAqB;AACnB,SAAO,+BAAA,gCADY;;A;AAArBC,mF;;;;;;;;AAAA,uFAAAD;;;A;AAIAE,wFAAA,GAAA,SAAuBC,KAAvB,CAAqC;AACnC,iCAAA,qCAAuBA,KAAvB,CADmC;AAEnC,QAFmC;;A;AAArCC,uF;;;;;;;;AAAA,2FAAAF;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_FieldSetElementWrappingImplementation.dart"],
+"names":["FieldSetElementWrappingImplementation","_wrap","ptr","tmp$0","form","LevelDom","validationMessage","validity","willValidate","checkValidity","checkValidity$named","setCustomValidity","error","setCustomValidity$named"]
+}

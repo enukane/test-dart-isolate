@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_RectWrappingImplementation.dart",
+"lineCount":71,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+G;AAAA,yF;AAAA,mG;AAAA,gF;AAAA,qF;AACEC,yEAAA,GAAA,SAAiCC,GAAjC,CAAyD;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAzDD,yEAAA,GAAA;2EAAoDC,GAApD;;A;AAAAD,mGAAA,GAAA,SAAiCC,GAAjC;MAAAC,sDAAA;;;;;;A;AAEAC,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAA+B;AAAE,SAAOC,wBAAA,8BAA+B,+BAAA,gBAA/B,CAAT;;A;AAE/BC,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAA6B;AAAE,SAAOD,wBAAA,8BAA+B,+BAAA,cAA/B,CAAT;;A;AAE7BE,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAA8B;AAAE,SAAOF,wBAAA,8BAA+B,+BAAA,eAA/B,CAAT;;A;AAE9BG,8DAAA;;;A;AAAAA,+DAAA,GAAA,UAA4B;AAAE,SAAOH,wBAAA,8BAA+B,+BAAA,aAA/B,CAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_RectWrappingImplementation.dart"],
+"names":["RectWrappingImplementation","_wrap","ptr","tmp$0","bottom","LevelDom","left","right","top"]
+}

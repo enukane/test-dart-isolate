@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/XMLHttpRequestWrappingImplementation.dart",
+"lineCount":88,
+"mappings":"AAKCA;;A;;;;;;;;;;;;;;;;AAAA,+H;AAAA,iH;AAAA,mG;AAAA,iH;AAAA,wF;AAAA,mG;AAEEC,iFAAA,GAAA,SAAyCC,IAAzC;AAAiD,iFAAYA,IAAZ,CAAjD;;A;AAAAD,iFAAA,GAAA;iFAA6DC,IAA7D;;A;AAAAD,mHAAA,GAAA,SAAyCC,IAAzC;MAAAC,8DAAA;;;;;;A;AAEAC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAA8B;SAAG,8BAAK,OAAL,CAAH;;A;AAC9BC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAA8B;SAAG,8BAAK,OAAL,CAAH;;A;AAC9BC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAA6B;SAAG,8BAAK,MAAL,CAAH;;A;AAC7BC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAkC;SAAG,8BAAK,WAAL,CAAH;;A;AAClCC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAiC;SAAG,8BAAK,UAAL,CAAH;;A;AACjCC,mFAAA;;;A;AAAAA,oFAAA,GAAA,UAAyC;SAAG,8BAAK,kBAAL,CAAH;;;",
+"sources":["dart://html/html/html.dart/src/XMLHttpRequestWrappingImplementation.dart"],
+"names":["XMLHttpRequestEventsImplementation","_wrap","_ptr","tmp$0","abort","error","load","loadStart","progress","readyStateChange"]
+}

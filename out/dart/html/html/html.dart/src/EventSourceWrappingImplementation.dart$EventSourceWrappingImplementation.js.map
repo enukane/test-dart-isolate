@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/EventSourceWrappingImplementation.dart",
+"lineCount":85,
+"mappings":"AAaCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,uG;AAAA,6H;AAAA,0G;AAAA,uF;AAAA,+G;AACEC,gFAAA,GAAA,SAAwCC,GAAxC;AAA+C,8FAAYA,GAAZ,CAA/C;;A;AAAAD,gFAAA,GAAA;8FAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;A;AAEAC,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAiB;SAAG,+BAAA,aAAH;;A;AAEjBC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAqB;SAAG,+BAAA,oBAAH;;A;AAErBC,wEAAA,GAAA,UAAa;AACX,iCAAA,wBADW;;A;AAAbC,uE;;;;;;;;AAAA,2EAAAD;;;A;AAIAE,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAA2B;;AACzB,MAAI,8BAAA,QAAJ,EAAkB;AAChB,yCAAM,8GAA0C,+BAA1C,CAAN,SADgB;;AAGlB,SAAO,8BAJkB;;;",
+"sources":["dart://html/html/html.dart/src/EventSourceWrappingImplementation.dart"],
+"names":["EventSourceWrappingImplementation","_wrap","ptr","tmp$0","URL","readyState","close","close$named","on"]
+}

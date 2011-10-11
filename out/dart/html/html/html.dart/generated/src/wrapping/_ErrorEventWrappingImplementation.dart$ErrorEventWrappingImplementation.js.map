@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_ErrorEventWrappingImplementation.dart",
+"lineCount":82,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2H;AAAA,qG;AAAA,gG;AAAA,sH;AAAA,yG;AAAA,sF;AAAA,wG;AACEC,+EAAA,GAAA,SAAuCC,GAAvC,CAA+D;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAA/DD,+EAAA,GAAA;wFAA0DC,GAA1D;;A;AAAAD,+GAAA,GAAA,SAAuCC,GAAvC;MAAAC,4DAAA;;;;;;A;AAEAC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEtBC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,iBAAT;;A;AAErBC,gFAAA,GAAA,SAAoBC,OAApB,EAAoCC,YAApC,EAAuDC,aAAvD,EAA2EC,UAA3E,EAA8FC,WAA9F,EAAkHC,SAAlH,CAAiI;AAC/H,iCAAA,kCAAoBL,OAApB,EAA6BC,YAA7B,EAA2CC,aAA3C,EAA0DC,UAA1D,EAAsEC,WAAtE,EAAmFC,SAAnF,CAD+H;AAE/H,QAF+H;;A;AAAjIC,+E;;;;;;;;AAAA,mFAAAP;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_ErrorEventWrappingImplementation.dart"],
+"names":["ErrorEventWrappingImplementation","_wrap","ptr","tmp$0","filename","lineno","message","initErrorEvent","typeArg","canBubbleArg","cancelableArg","messageArg","filenameArg","linenoArg","initErrorEvent$named"]
+}

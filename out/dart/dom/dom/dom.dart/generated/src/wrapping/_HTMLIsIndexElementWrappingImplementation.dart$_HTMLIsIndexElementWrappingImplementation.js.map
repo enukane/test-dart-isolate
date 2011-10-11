@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_HTMLIsIndexElementWrappingImplementation.dart",
+"lineCount":147,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uH;AAAA,gG;AAAA,8F;AAAA,yF;AAAA,qF;AAAA,kF;AAAA,yF;AAAA,0F;AAAA,8F;AAAA,qH;AAAA,gH;AAAA,4G;AAAA,yG;AAAA,4F;AAAA,qF;AAAA,oF;AAAA,uG;AACEC,2DAAA,GAAA,UAAsD;AAAR,sEAAQ;;A;AAAtDA,2DAAA,GAAA;;;A;AAAAA,iGAAA,GAAA;MAAAC,0DAAA;;;;;;A;AAEAC,sGAAA,GAAA,UAA0D;AACxD,SAAO,mGADiD;;A;AAA1DC,qG;;;;;;;;AAAAC,4GAAA;SAAAF,sGAAA;;A;AAAA,yGAAAA;;;A;AAIAG,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAA2B;AAAE,SAAON,8CAAA,wCAA8B,IAA9B,CAAT;;A;AAC3BO,qFAAA,GAAA,SAAqDC,KAArD,CAAgE;;;A;AAAhEC,oF;;;;;;;;AAAA,wFAAAF;;;A;AAEAG,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAoB;AAAE,SAAOV,8CAAA,0CAAgC,IAAhC,CAAT;;A;AAGpBU,sEAAA,GAAA,SAAgBC,KAAhB,CAA8B;AAAEX,gDAAA,0CAAgC,IAAhC,EAAsCW,KAAtC,CAAF;;A;AAF9BC,uFAAA,GAAA,SAA8CJ,KAA9C,CAAyD;;;A;AAAzDK,sF;;;;;;;;AAAA,0FAAAD;;;A;AAGAE,uFAAA,GAAA,SAA4CN,KAA5C,EAAuDG,KAAvD,CAAqE;;;A;AAArEI,sF;;;;;;;;AAAA,0FAAAD;;;A;AAEAE,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAsB;AAAE,SAAO,oBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_HTMLIsIndexElementWrappingImplementation.dart"],
+"names":["_HTMLIsIndexElementWrappingImplementation","","tmp$0","create__HTMLIsIndexElementWrappingImplementation","create__HTMLIsIndexElementWrappingImplementation$named","native__HTMLIsIndexElementWrappingImplementation_create__HTMLIsIndexElementWrappingImplementation","form","_get__HTMLIsIndexElement_form","_this","_get__HTMLIsIndexElement_form$$named_","prompt","value","_get__HTMLIsIndexElement_prompt","_get__HTMLIsIndexElement_prompt$$named_","_set__HTMLIsIndexElement_prompt","_set__HTMLIsIndexElement_prompt$$named_","typeName"]
+}

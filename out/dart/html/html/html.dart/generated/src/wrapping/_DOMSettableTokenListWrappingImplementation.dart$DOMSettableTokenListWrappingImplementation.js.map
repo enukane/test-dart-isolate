@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_DOMSettableTokenListWrappingImplementation.dart",
+"lineCount":54,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+I;AAAA,yH;AAAA,iH;AAAA,uI;AAAA,mH;AAAA,gG;AAAA,yH;AACEC,yFAAA,GAAA,SAAiDC,GAAjD,CAAyE;AAAjB,+FAAYA,GAAZ,CAAiB;;A;AAAzED,yFAAA,GAAA;+FAAoEC,GAApE;;A;AAAAD,mIAAA,GAAA,SAAiDC,GAAjD;MAAAC,sEAAA;;;;;;A;AAEAC,gFAAA;;;A;AAAAA,iFAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,eAAT;;A;AAEnBA,iFAAA,GAAA,SAAeA,KAAf,CAA6B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_DOMSettableTokenListWrappingImplementation.dart"],
+"names":["DOMSettableTokenListWrappingImplementation","_wrap","ptr","tmp$0","value"]
+}

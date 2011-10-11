@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib.dart/src/promise.dart",
+"lineCount":119,
+"mappings":"AAuHCA;;A;;;;;;;;;;AAAA,yD;AAAA,qD;AAEEC,4BAAA,GAAA,SAAWC,MAAX,CAAwB;;;A;AAAxBD,4BAAA,GAAA;;AAAW,sBAAAC,MAAX;;A;AAAAD,mCAAA,GAAA,eAAWC,MAAX;MAAAC,2BAAA;;;;;;A;AAI0BC,qEAAWC,QAAXD,CAAyB;AAC7C,MAAME,QAAQ,mCAAkB,mBAAlB,CAD+B;AAE7CA,OAAA,wBAAW,gBAAA,CAACD,QAAD,CAAA,qBAAX,CAF6C;;A;;;;;;;;;AADpC,iDAACE,OAAD,EAAcC,OAAd,CAAgC;;AAC3C,MAAA,2BAAaD,OAAb,EAAsB,oFAAtB,CAD2C;;A;;;;;;;;;AAD/CE,yCAAA,GAAA,SAAYC,IAAZ,CAA8B;AAC5BA,MAAA,2BAAa,0DAAb,CAD4B;;A;AAA9BC,wC;;;;;;;;AAAA,4CAAAF;;;A;AASAG,4BAAA,GAAA,SAAsBC,UAAtB,CAA6C;AAC3C,MAAYH,OAAOI,cAAA,iBAAmBD,UAAnB,CADwB;AAE3CA,YAAA,4BAAkBH,IAAlB,CAF2C;AAG3C,SAAOA,IAAA,6BAHoC;;A;AAA7CK,2B;;;;;;;;AAAA,+BAAAH;;;A;AAOeI,wCAAA,GAAA,SAAaT,OAAb,EAA0BH,KAA1B,CAAoD;AACjE,uBAAM,wBAAN,CADiE;;A;AAApDa,uC;;;;;;;;AAAA,2CAAAD;;;A;AAIbd,sCAAA;;;A;AAAAA,uCAAA;;;A;AAAAA,uCAAA;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib.dart/src/promise.dart"],
+"names":["Dispatcher","","target","tmp$0","reply","response","proxy","message","replyTo","_serve","port","_serve$$named_","serve","dispatcher","ProxyImpl","serve$named","process","process$named"]
+}

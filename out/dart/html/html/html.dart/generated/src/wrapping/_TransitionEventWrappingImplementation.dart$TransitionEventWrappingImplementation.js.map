@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_TransitionEventWrappingImplementation.dart",
+"lineCount":74,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qI;AAAA,+G;AAAA,qG;AAAA,2H;AAAA,8G;AAAA,2F;AAAA,6G;AACEC,oFAAA,GAAA,SAA4CC,GAA5C,CAAoE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAApED,oFAAA,GAAA;wFAA+DC,GAA/D;;A;AAAAD,yHAAA,GAAA,SAA4CC,GAA5C;MAAAC,iEAAA;;;;;;A;AAEAC,iFAAA;;;A;AAAAA,kFAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,qBAAT;;A;AAEtBC,kFAAA;;;A;AAAAA,mFAAA,GAAA,UAA0B;AAAE,SAAO,+BAAA,sBAAT;;A;AAE1BC,gGAAA,GAAA,SAA+BC,OAA/B,EAA+CC,YAA/C,EAAkEC,aAAlE,EAAsFC,eAAtF,EAA8GC,cAA9G,CAAkI;AAChI,iCAAA,6CAA+BJ,OAA/B,EAAwCC,YAAxC,EAAsDC,aAAtD,EAAqEC,eAArE,EAAsFC,cAAtF,CADgI;AAEhI,QAFgI;;A;AAAlIC,+F;;;;;;;;AAAA,mGAAAN;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_TransitionEventWrappingImplementation.dart"],
+"names":["TransitionEventWrappingImplementation","_wrap","ptr","tmp$0","elapsedTime","propertyName","initWebKitTransitionEvent","typeArg","canBubbleArg","cancelableArg","propertyNameArg","elapsedTimeArg","initWebKitTransitionEvent$named"]
+}

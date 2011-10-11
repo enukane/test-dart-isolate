@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/ElementWrappingImplementation.dart",
+"lineCount":94,
+"mappings":"AA8PCA;;A;;;;;;;;;;;;;;;AAAA,6G;AAAA,iF;AAAA,+E;AAIEC,sDAAA,GAAA,SAA0BC,KAA1B;;;A;AAAAD,sDAAA,GAAA;;;AAA0B,kCAAAC,KAA1B;;A;AAAAD,4EAAA,GAAA,SAA0BC,KAA1B;MAAAC,qDAAA;;;;;;A;AAHwBD,4EAAA;;;A;AAAAA,6EAAA;;;A;AACpBE,6EAAA;;;A;AAAAA,8EAAA;;;A;AAAAA,8EAAA;;;A;AAQJC,+DAAA,GAAA,UAAe;;AACb,MAAI,CAAC,qBAAL,EAAgB;AACd,iCAAM,+DAAN,EADc;;AAIhB,SAAO,gCAAA,yBAAM,iCAAN,sFALM;;A;AAAfC,8D;;;;;;;;AAAA,kEAAAD;;;A;AAWAE,kEAAA,GAAA,UAAe;SAAG,YAAA,iCAAA,EAAS,gCAAA,gBAAT,CAAH;;A;AAAfC,iE;;;;;;;;AAAA,qEAAAD;;;;",
+"sources":["dart://html/html/html.dart/src/ElementWrappingImplementation.dart"],
+"names":["FrozenElementListIterator","","_list","tmp$0","_index","next","next$named","hasNext","hasNext$named"]
+}

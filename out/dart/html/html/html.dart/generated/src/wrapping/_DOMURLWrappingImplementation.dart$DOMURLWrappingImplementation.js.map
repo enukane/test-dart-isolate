@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_DOMURLWrappingImplementation.dart",
+"lineCount":72,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,6F;AAAA,qG;AAAA,kF;AAAA,uF;AACEC,2EAAA,GAAA,SAAmCC,GAAnC,CAA2D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA3DD,2EAAA,GAAA;2EAAsDC,GAAtD;;A;AAAAD,uGAAA,GAAA,SAAmCC,GAAnC;MAAAC,wDAAA;;;;;;A;AAEAC,6EAAA,GAAA,SAAuBC,IAAvB,CAAkC;AAChC,SAAO,+BAAA,mCAAqBC,wBAAA,eAAgBD,IAAhB,CAArB,CADyB;;A;AAAlCE,4E;;;;;;;;AAAA,gFAAAH;;;A;AAIAI,6EAAA,GAAA,SAAqBC,GAArB,CAAiC;AAC/B,iCAAA,mCAAqBA,GAArB,CAD+B;AAE/B,QAF+B;;A;AAAjCC,4E;;;;;;;;AAAA,gFAAAF;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_DOMURLWrappingImplementation.dart"],
+"names":["DOMURLWrappingImplementation","_wrap","ptr","tmp$0","createObjectURL","blob","LevelDom","createObjectURL$named","revokeObjectURL","url","revokeObjectURL$named"]
+}

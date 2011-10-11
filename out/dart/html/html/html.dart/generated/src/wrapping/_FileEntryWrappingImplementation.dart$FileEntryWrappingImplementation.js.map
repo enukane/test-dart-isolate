@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_FileEntryWrappingImplementation.dart",
+"lineCount":95,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yH;AAAA,mG;AAAA,+F;AAAA,qH;AAAA,wG;AAAA,qF;AAAA,uG;AACEC,8EAAA,GAAA,SAAsCC,GAAtC,CAA8D;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAA9DD,8EAAA,GAAA;wFAAyDC,GAAzD;;A;AAAAD,6GAAA,GAAA,SAAsCC,GAAtC;MAAAC,2DAAA;;;;;;A;AAEAC,6EAAA,GAAA,SAAkBC,eAAlB,EAAuDC,aAAvD,CAA4F;AAC1F,MAAIA,aAAA,QAAJ,EAA4B;AAC1B,mCAAA,gCAAkBC,wBAAA,eAAgBF,eAAhB,CAAlB,CAD0B;AAE1B,UAF0B;;AAA5B,QAGO;AACL,mCAAA,gCAAkBE,wBAAA,eAAgBF,eAAhB,CAAlB,EAAoDE,wBAAA,eAAgBD,aAAhB,CAApD,CADK;AAEL,UAFK;;AAJmF;A;AAA5FE,4E;;;;;;;;;;;;AAAA,gFAAAJ;;;A;AAUAK,qEAAA,GAAA,SAAUJ,eAAV,EAAyCC,aAAzC,CAA8E;AAC5E,MAAIA,aAAA,QAAJ,EAA4B;AAC1B,mCAAA,wBAAUC,wBAAA,eAAgBF,eAAhB,CAAV,CAD0B;AAE1B,UAF0B;;AAA5B,QAGO;AACL,mCAAA,wBAAUE,wBAAA,eAAgBF,eAAhB,CAAV,EAA4CE,wBAAA,eAAgBD,aAAhB,CAA5C,CADK;AAEL,UAFK;;AAJqE;A;AAA9EI,oE;;;;;;;;;;;;AAAA,wEAAAD;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_FileEntryWrappingImplementation.dart"],
+"names":["FileEntryWrappingImplementation","_wrap","ptr","tmp$0","createWriter","successCallback","errorCallback","LevelDom","createWriter$named","file","file$named"]
+}

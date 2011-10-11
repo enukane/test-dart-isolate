@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_HtmlElementWrappingImplementation.dart",
+"lineCount":71,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,mG;AAAA,gG;AAAA,uG;AAAA,yH;AAAA,sH;AAAA,6H;AAAA,0G;AAAA,uF;AAAA,2G;AACEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;0FAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;A;AAEAC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEtBA,2EAAA,GAAA,SAAkBC,KAAlB,CAAgC;;AAAE,iCAAA,yBAAgBA,KAAhB,SAAF;;A;AAEhCC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,iBAAT;;A;AAErBA,0EAAA,GAAA,SAAiBD,KAAjB,CAA+B;;AAAE,iCAAA,wBAAeA,KAAf,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_HtmlElementWrappingImplementation.dart"],
+"names":["HtmlElementWrappingImplementation","_wrap","ptr","tmp$0","manifest","value","version"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_WebGLContextEventWrappingImplementation.dart",
+"lineCount":49,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yI;AAAA,mH;AAAA,uG;AAAA,6H;AAAA,gH;AAAA,6F;AAAA,+G;AACEC,sFAAA,GAAA,SAA8CC,GAA9C,CAAsE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAAtED,sFAAA,GAAA;wFAAiEC,GAAjE;;A;AAAAD,6HAAA,GAAA,SAA8CC,GAA9C;MAAAC,mEAAA;;;;;;A;AAEAC,qFAAA;;;A;AAAAA,sFAAA,GAAA,UAA2B;AAAE,SAAO,+BAAA,uBAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_WebGLContextEventWrappingImplementation.dart"],
+"names":["WebGLContextEventWrappingImplementation","_wrap","ptr","tmp$0","statusMessage"]
+}

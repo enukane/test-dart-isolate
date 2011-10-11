@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/interface/Int32Array.dart",
+"lineCount":25,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;AAEmBC,kDAAA;;;A;AAAAA,mDAAA;;;;",
+"sources":["dart://html/html/html.dart/generated/src/interface/Int32Array.dart"],
+"names":["Int32Array","BYTES_PER_ELEMENT"]
+}

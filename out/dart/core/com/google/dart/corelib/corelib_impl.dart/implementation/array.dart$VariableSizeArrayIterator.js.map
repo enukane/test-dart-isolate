@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/array.dart",
+"lineCount":95,
+"mappings":"AA2PCA;;A;;;;;;;;;;;;;;;;AAAA,uF;AAAA,sE;AAAA,oE;AACEC,2CAAA,GAAA,SAA0BC,KAA1B,CAEe;;;A;AAFfD,2CAAA,GAAA;;AACM,wBAASC,KADf;AAEM,uBAFN;;A;AAAAD,iEAAA,GAAA,eAA0BC,KAA1B;MAAAC,0CAAA;;;;;;A;AAKAC,uDAAA,GAAA,UAAe;AACb,SAAO,YAAA,sBAAA,gBAAA,EAAgB,oBAAhB,CADM;;A;AAAfC,sD;;;;;;;;AAAA,0DAAAD;;;A;AAIAE,oDAAA,GAAA,UAAS;;AACP,MAAI,CAAC,qBAAL,EAAgB;AACd,iCAAM,+DAAN,EADc;;AAGhB,SAAO,sBAAA,yBAAO,oBAAP,yEAJA;;A;AAATC,mD;;;;;;;;AAAA,uDAAAD;;;A;AAOeE,uDAAA;;;A;AAAAA,wDAAA;;;A;AACXC,qDAAA;;;A;AAAAA,sDAAA;;;A;AAAAA,sDAAA;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/array.dart"],
+"names":["VariableSizeArrayIterator","","array","tmp$0","hasNext","hasNext$named","next","next$named","_array","_pos"]
+}

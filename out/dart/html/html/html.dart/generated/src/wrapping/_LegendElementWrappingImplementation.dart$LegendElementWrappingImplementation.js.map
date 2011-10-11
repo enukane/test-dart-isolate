@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_LegendElementWrappingImplementation.dart",
+"lineCount":79,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,qG;AAAA,kG;AAAA,yG;AAAA,2H;AAAA,wH;AAAA,+H;AAAA,4G;AAAA,yF;AAAA,6G;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;0FAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,6EAAA;;;A;AAAAA,8EAAA,GAAA,UAAuB;AAAE,SAAO,+BAAA,mBAAT;;A;AAEvBA,8EAAA,GAAA,SAAmBC,KAAnB,CAAiC;;AAAE,iCAAA,0BAAiBA,KAAjB,SAAF;;A;AAEjCC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,eAAT;;A;AAEnBA,0EAAA,GAAA,SAAeD,KAAf,CAA6B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;A;AAE7BE,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAuB;AAAE,SAAOC,wBAAA,wBAAyB,+BAAA,cAAzB,CAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_LegendElementWrappingImplementation.dart"],
+"names":["LegendElementWrappingImplementation","_wrap","ptr","tmp$0","accessKey","value","align","form","LevelDom"]
+}

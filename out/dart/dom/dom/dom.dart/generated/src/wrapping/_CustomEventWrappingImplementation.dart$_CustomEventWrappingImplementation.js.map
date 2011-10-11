@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_CustomEventWrappingImplementation.dart",
+"lineCount":127,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yG;AAAA,kF;AAAA,4E;AAAA,mG;AAAA,qF;AAAA,8E;AAAA,6E;AAAA,qF;AACEC,oDAAA,GAAA,UAA+C;AAAR,2DAAQ;;A;AAA/CA,oDAAA,GAAA;;;A;AAAAA,mFAAA,GAAA;MAAAC,mDAAA;;;;;;A;AAEAC,wFAAA,GAAA,UAAmD;AACjD,SAAO,qFAD0C;;A;AAAnDC,uF;;;;;;;;AAAAC,8FAAA;SAAAF,wFAAA;;A;AAAA,2FAAAA;;;A;AAIAG,8DAAA;;;A;AAAAA,+DAAA,GAAA,UAAoB;AAAE,SAAON,uCAAA,mCAAyB,IAAzB,CAAT;;A;AACpBO,yEAAA,GAAA,SAAuCC,KAAvC,CAAkD;;;A;AAAlDC,wE;;;;;;;;AAAA,4EAAAF;;;A;AAEAG,wEAAA,GAAA,SAAqBC,OAArB,EAAqCC,YAArC,EAAwDC,aAAxD,EAA4EC,SAA5E,CAA8F;AAC5Fd,yCAAA,2BAAiB,IAAjB,EAAuBW,OAAvB,EAAgCC,YAAhC,EAA8CC,aAA9C,EAA6DC,SAA7D,CAD4F;AAE5F,QAF4F;;A;AAA9FC,uE;;;;;;;;AAAA,2EAAAL;;;A;AAIAM,iEAAA,GAAA,SAA6BC,QAA7B,EAAuCN,OAAvC,EAAgDC,YAAhD,EAA8DC,aAA9D,EAA6EC,SAA7E,CAAwF;;;A;AAAxFI,gE;;;;;;;;AAAA,oEAAAF;;;A;AAEAG,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAAsB;AAAE,SAAO,aAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_CustomEventWrappingImplementation.dart"],
+"names":["_CustomEventWrappingImplementation","","tmp$0","create__CustomEventWrappingImplementation","create__CustomEventWrappingImplementation$named","native__CustomEventWrappingImplementation_create__CustomEventWrappingImplementation","detail","_get__CustomEvent_detail","_this","_get__CustomEvent_detail$$named_","initCustomEvent","typeArg","canBubbleArg","cancelableArg","detailArg","initCustomEvent$named","_initCustomEvent","receiver","_initCustomEvent$$named_","typeName"]
+}

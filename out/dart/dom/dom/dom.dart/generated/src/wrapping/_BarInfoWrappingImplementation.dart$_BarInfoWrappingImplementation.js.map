@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_BarInfoWrappingImplementation.dart",
+"lineCount":93,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iG;AAAA,0E;AAAA,0E;AAAA,iF;AAAA,0E;AAAA,yE;AAAA,mE;AACEC,gDAAA,GAAA,UAA2C;AAAR,6CAAQ;;A;AAA3CA,gDAAA,GAAA;;;A;AAAAA,2EAAA,GAAA;MAAAC,+CAAA;;;;;;A;AAEAC,gFAAA,GAAA,UAA+C;AAC7C,SAAO,6EADsC;;A;AAA/CC,+E;;;;;;;;AAAAC,sFAAA;SAAAF,gFAAA;;A;AAAA,mFAAAA;;;A;AAIAG,2DAAA;;;A;AAAAA,4DAAA,GAAA,UAAmB;AAAE,SAAON,mCAAA,gCAAsB,IAAtB,CAAT;;A;AACnBO,kEAAA,GAAA,SAAkCC,KAAlC,CAA6C;;;A;AAA7CC,iE;;;;;;;;AAAA,qEAAAF;;;A;AAEAG,4DAAA;;;A;AAAAA,6DAAA,GAAA,UAAsB;AAAE,SAAO,SAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_BarInfoWrappingImplementation.dart"],
+"names":["_BarInfoWrappingImplementation","","tmp$0","create__BarInfoWrappingImplementation","create__BarInfoWrappingImplementation$named","native__BarInfoWrappingImplementation_create__BarInfoWrappingImplementation","visible","_get__BarInfo_visible","_this","_get__BarInfo_visible$$named_","typeName"]
+}

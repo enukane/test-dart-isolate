@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_DatabaseCallbackWrappingImplementation.dart",
+"lineCount":125,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,4F;AAAA,0F;AAAA,mF;AAAA,kF;AAAA,4E;AACEC,yDAAA,GAAA,UAAoD;AAAR,6CAAQ;;A;AAApDA,yDAAA,GAAA;;;A;AAAAA,6FAAA,GAAA;MAAAC,wDAAA;;;;;;A;AAEAC,kGAAA,GAAA,UAAwD;AACtD,SAAO,+FAD+C;;A;AAAxDC,iG;;;;;;;;AAAAC,wGAAA;SAAAF,kGAAA;;A;AAAA,qGAAAA;;;A;AAIAG,yEAAA,GAAA,SAAiBC,QAAjB,CAA+B;;AAC7B,MAAI,CAAY,EAAA,QAAZA,QAAY,GAAAL,KAAA,QAAA,IAAAA,KAAA,0BAAA,CAAhB,EAA0B;AACxB,WAAOF,4CAAA,uBAAa,IAAb,EAAmBO,QAAnB,CADiB;;AAA1B,QAEO;AACL,QAAI,CAAY,EAAA,QAAZA,QAAY,GAAAC,KAAA,QAAA,IAAAA,KAAA,8BAAA,CAAhB,EAA8B;AAC5B,aAAOR,4CAAA,yBAAe,IAAf,EAAqBO,QAArB,CADqB;;AADzB;AAKP,uBAAM,uCAAN,CAR6B;;A;AAA/BE,wE;;;;;;;;AAAA,4EAAAH;;;A;AAUAI,kEAAA,GAAA,SAAyBC,QAAzB,EAAmCJ,QAAnC,CAA6C;;;A;AAA7CK,iE;;;;;;;;AAAA,qEAAAF;;;A;AACAG,oEAAA,GAAA,SAA2BF,QAA3B,EAAqCJ,QAArC,CAA+C;;;A;AAA/CO,mE;;;;;;;;AAAA,uEAAAD;;;A;AAEAE,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAsB;AAAE,SAAO,kBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_DatabaseCallbackWrappingImplementation.dart"],
+"names":["_DatabaseCallbackWrappingImplementation","","tmp$0","create__DatabaseCallbackWrappingImplementation","create__DatabaseCallbackWrappingImplementation$named","native__DatabaseCallbackWrappingImplementation_create__DatabaseCallbackWrappingImplementation","handleEvent","database","tmp$1","handleEvent$named","_handleEvent","receiver","_handleEvent$$named_","_handleEvent_2","_handleEvent_2$$named_","typeName"]
+}

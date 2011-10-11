@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CustomEventWrappingImplementation.dart",
+"lineCount":66,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,iG;AAAA,uH;AAAA,0G;AAAA,uF;AAAA,yG;AACEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;wFAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;A;AAEAC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEpBC,kFAAA,GAAA,SAAqBC,OAArB,EAAqCC,YAArC,EAAwDC,aAAxD,EAA4EC,SAA5E,CAA8F;AAC5F,iCAAA,mCAAqBH,OAArB,EAA8BC,YAA9B,EAA4CC,aAA5C,EAA2DE,wBAAA,6BAA8BD,SAA9B,CAA3D,CAD4F;AAE5F,QAF4F;;A;AAA9FE,iF;;;;;;;;AAAA,qFAAAN;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CustomEventWrappingImplementation.dart"],
+"names":["CustomEventWrappingImplementation","_wrap","ptr","tmp$0","detail","initCustomEvent","typeArg","canBubbleArg","cancelableArg","detailArg","LevelDom","initCustomEvent$named"]
+}

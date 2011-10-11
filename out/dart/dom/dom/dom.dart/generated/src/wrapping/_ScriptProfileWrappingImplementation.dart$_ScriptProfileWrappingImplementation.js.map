@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_ScriptProfileWrappingImplementation.dart",
+"lineCount":140,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6G;AAAA,sF;AAAA,uF;AAAA,gF;AAAA,+E;AAAA,yE;AACEC,sDAAA,GAAA,UAAiD;AAAR,6CAAQ;;A;AAAjDA,sDAAA,GAAA;;;A;AAAAA,uFAAA,GAAA;MAAAC,qDAAA;;;;;;A;AAEAC,4FAAA,GAAA,UAAqD;AACnD,SAAO,yFAD4C;;A;AAArDC,2F;;;;;;;;AAAAC,kGAAA;SAAAF,4FAAA;;A;AAAA,+FAAAA;;;A;AAIAG,8DAAA;;;A;AAAAA,+DAAA,GAAA,UAA6B;AAAE,SAAON,yCAAA,mCAAyB,IAAzB,CAAT;;A;AAC7BO,2EAAA,GAAA,SAAkDC,KAAlD,CAA6D;;;A;AAA7DC,0E;;;;;;;;AAAA,8EAAAF;;;A;AAEAG,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAmB;AAAE,SAAOV,yCAAA,oCAA0B,IAA1B,CAAT;;A;AACnBW,4EAAA,GAAA,SAAwCH,KAAxC,CAAmD;;;A;AAAnDI,2E;;;;;;;;AAAA,+EAAAD;;;A;AAEAE,6DAAA;;;A;AAAAA,8DAAA,GAAA,UAAc;AAAE,SAAOb,yCAAA,kCAAwB,IAAxB,CAAT;;A;AACdc,0EAAA,GAAA,SAAmCN,KAAnC,CAA8C;;;A;AAA9CO,yE;;;;;;;;AAAA,6EAAAD;;;A;AAEAE,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAsB;AAAE,SAAO,eAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_ScriptProfileWrappingImplementation.dart"],
+"names":["_ScriptProfileWrappingImplementation","","tmp$0","create__ScriptProfileWrappingImplementation","create__ScriptProfileWrappingImplementation$named","native__ScriptProfileWrappingImplementation_create__ScriptProfileWrappingImplementation","head","_get__ScriptProfile_head","_this","_get__ScriptProfile_head$$named_","title","_get__ScriptProfile_title","_get__ScriptProfile_title$$named_","uid","_get__ScriptProfile_uid","_get__ScriptProfile_uid$$named_","typeName"]
+}

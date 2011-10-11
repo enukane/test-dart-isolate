@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib.dart/print.dart",
+"lineCount":4,
+"mappings":"AASCA,uBAAuB;AACrB,SAAOC,YAAA,YADc;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib.dart/print.dart"],
+"names":["print","_Logger"]
+}

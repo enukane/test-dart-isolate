@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_HashChangeEventWrappingImplementation.dart",
+"lineCount":74,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qI;AAAA,+G;AAAA,qG;AAAA,2H;AAAA,8G;AAAA,2F;AAAA,6G;AACEC,oFAAA,GAAA,SAA4CC,GAA5C,CAAoE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAApED,oFAAA,GAAA;wFAA+DC,GAA/D;;A;AAAAD,yHAAA,GAAA,SAA4CC,GAA5C;MAAAC,iEAAA;;;;;;A;AAEAC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEpBC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEpBC,0FAAA,GAAA,SAAyBC,IAAzB,EAAsCC,SAAtC,EAAsDC,UAAtD,EAAuEJ,MAAvE,EAAsFD,MAAtF,CAAqG;AACnG,iCAAA,uCAAyBG,IAAzB,EAA+BC,SAA/B,EAA0CC,UAA1C,EAAsDJ,MAAtD,EAA8DD,MAA9D,CADmG;AAEnG,QAFmG;;A;AAArGM,yF;;;;;;;;AAAA,6FAAAJ;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_HashChangeEventWrappingImplementation.dart"],
+"names":["HashChangeEventWrappingImplementation","_wrap","ptr","tmp$0","newURL","oldURL","initHashChangeEvent","type","canBubble","cancelable","initHashChangeEvent$named"]
+}

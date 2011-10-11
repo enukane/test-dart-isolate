@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_RectWrappingImplementation.dart",
+"lineCount":164,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2F;AAAA,oE;AAAA,8E;AAAA,uE;AAAA,sE;AAAA,gE;AACEC,6CAAA,GAAA,UAAwC;AAAR,6CAAQ;;A;AAAxCA,6CAAA,GAAA;;;A;AAAAA,qEAAA,GAAA;MAAAC,4CAAA;;;;;;A;AAEAC,0EAAA,GAAA,UAA4C;AAC1C,SAAO,uEADmC;;A;AAA5CC,yE;;;;;;;;AAAAC,gFAAA;SAAAF,0EAAA;;A;AAAA,6EAAAA;;;A;AAIAG,uDAAA;;;A;AAAAA,wDAAA,GAAA,UAA+B;AAAE,SAAON,gCAAA,4BAAkB,IAAlB,CAAT;;A;AAC/BO,2DAAA,GAAA,SAA2CC,KAA3C,CAAsD;;;A;AAAtDC,0D;;;;;;;;AAAA,8DAAAF;;;A;AAEAG,qDAAA;;;A;AAAAA,sDAAA,GAAA,UAA6B;AAAE,SAAOV,gCAAA,0BAAgB,IAAhB,CAAT;;A;AAC7BW,yDAAA,GAAA,SAAyCH,KAAzC,CAAoD;;;A;AAApDI,wD;;;;;;;;AAAA,4DAAAD;;;A;AAEAE,sDAAA;;;A;AAAAA,uDAAA,GAAA,UAA8B;AAAE,SAAOb,gCAAA,2BAAiB,IAAjB,CAAT;;A;AAC9Bc,0DAAA,GAAA,SAA0CN,KAA1C,CAAqD;;;A;AAArDO,yD;;;;;;;;AAAA,6DAAAD;;;A;AAEAE,oDAAA;;;A;AAAAA,qDAAA,GAAA,UAA4B;AAAE,SAAOhB,gCAAA,yBAAe,IAAf,CAAT;;A;AAC5BiB,wDAAA,GAAA,SAAwCT,KAAxC,CAAmD;;;A;AAAnDU,uD;;;;;;;;AAAA,2DAAAD;;;A;AAEAE,yDAAA;;;A;AAAAA,0DAAA,GAAA,UAAsB;AAAE,SAAO,MAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_RectWrappingImplementation.dart"],
+"names":["_RectWrappingImplementation","","tmp$0","create__RectWrappingImplementation","create__RectWrappingImplementation$named","native__RectWrappingImplementation_create__RectWrappingImplementation","bottom","_get__Rect_bottom","_this","_get__Rect_bottom$$named_","left","_get__Rect_left","_get__Rect_left$$named_","right","_get__Rect_right","_get__Rect_right$$named_","top","_get__Rect_top","_get__Rect_top$$named_","typeName"]
+}

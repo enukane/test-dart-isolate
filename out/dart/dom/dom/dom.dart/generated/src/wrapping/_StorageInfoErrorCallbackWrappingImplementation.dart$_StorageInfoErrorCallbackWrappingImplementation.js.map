@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_StorageInfoErrorCallbackWrappingImplementation.dart",
+"lineCount":100,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mI;AAAA,4G;AAAA,kG;AAAA,2F;AAAA,0F;AAAA,oF;AACEC,iEAAA,GAAA,UAA4D;AAAR,6CAAQ;;A;AAA5DA,iEAAA,GAAA;;;A;AAAAA,6GAAA,GAAA;MAAAC,gEAAA;;;;;;A;AAEAC,kHAAA,GAAA,UAAgE;AAC9D,SAAO,+GADuD;;A;AAAhEC,iH;;;;;;;;AAAAC,wHAAA;SAAAF,kHAAA;;A;AAAA,qHAAAA;;;A;AAIAG,iFAAA,GAAA,SAAiBC,KAAjB,CAAqC;AACnC,SAAOP,oDAAA,uBAAa,IAAb,EAAmBO,KAAnB,CAD4B;;A;AAArCC,gF;;;;;;;;AAAA,oFAAAF;;;A;AAGAG,0EAAA,GAAA,SAAyBC,QAAzB,EAAmCH,KAAnC,CAA0C;;;A;AAA1CI,yE;;;;;;;;AAAA,6EAAAF;;;A;AAEAG,6EAAA;;;A;AAAAA,8EAAA,GAAA,UAAsB;AAAE,SAAO,0BAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_StorageInfoErrorCallbackWrappingImplementation.dart"],
+"names":["_StorageInfoErrorCallbackWrappingImplementation","","tmp$0","create__StorageInfoErrorCallbackWrappingImplementation","create__StorageInfoErrorCallbackWrappingImplementation$named","native__StorageInfoErrorCallbackWrappingImplementation_create__StorageInfoErrorCallbackWrappingImplementation","handleEvent","error","handleEvent$named","_handleEvent","receiver","_handleEvent$$named_","typeName"]
+}

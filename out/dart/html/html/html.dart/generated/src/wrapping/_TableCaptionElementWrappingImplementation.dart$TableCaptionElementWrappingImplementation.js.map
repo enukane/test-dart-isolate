@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_TableCaptionElementWrappingImplementation.dart",
+"lineCount":58,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6I;AAAA,uH;AAAA,2G;AAAA,wG;AAAA,+G;AAAA,iI;AAAA,8H;AAAA,qI;AAAA,kH;AAAA,+F;AAAA,mH;AACEC,wFAAA,GAAA,SAAgDC,GAAhD,CAAwE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAxED,wFAAA,GAAA;0FAAmEC,GAAnE;;A;AAAAD,iIAAA,GAAA,SAAgDC,GAAhD;MAAAC,qEAAA;;;;;;A;AAEAC,+EAAA;;;A;AAAAA,gFAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,eAAT;;A;AAEnBA,gFAAA,GAAA,SAAeC,KAAf,CAA6B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_TableCaptionElementWrappingImplementation.dart"],
+"names":["TableCaptionElementWrappingImplementation","_wrap","ptr","tmp$0","align","value"]
+}

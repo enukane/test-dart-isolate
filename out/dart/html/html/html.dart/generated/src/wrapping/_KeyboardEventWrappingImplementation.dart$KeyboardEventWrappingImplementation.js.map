@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_KeyboardEventWrappingImplementation.dart",
+"lineCount":132,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,qG;AAAA,mG;AAAA,2H;AAAA,yH;AAAA,4G;AAAA,yF;AAAA,6G;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;0FAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,+EAAA;;;A;AAAAA,gFAAA,GAAA,UAAuB;AAAE,SAAO,+BAAA,qBAAT;;A;AAEvBC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,gBAAT;;A;AAElBC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,iBAAT;;A;AAEnBC,iFAAA;;;A;AAAAA,kFAAA,GAAA,UAA2B;AAAE,SAAO,+BAAA,uBAAT;;A;AAE3BC,+EAAA;;;A;AAAAA,gFAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,qBAAT;;A;AAEtBC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,iBAAT;;A;AAEnBC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEpBC,qFAAA,GAAA,SAAsBC,gBAAtB,CAA+C;AAC7C,SAAO,+BAAA,oCAAsBA,gBAAtB,CADsC;;A;AAA/CC,oF;;;;;;;;AAAA,wFAAAF;;;A;AAIAG,sFAAA,GAAA,SAAuBC,IAAvB,EAAoCC,SAApC,EAAoDC,UAApD,EAAqEC,IAArE,EAAkFX,aAAlF,EAAwGC,WAAxG,EAAyHF,OAAzH,EAAuID,MAAvI,EAAoJK,QAApJ,EAAmKD,OAAnK,EAAiLL,WAAjL,CAAmM;AACjM,iCAAA,sCAAuBW,IAAvB,EAA6BC,SAA7B,EAAwCC,UAAxC,EAAoDE,wBAAA,eAAgBD,IAAhB,CAApD,EAA2EX,aAA3E,EAA0FC,WAA1F,EAAuGF,OAAvG,EAAgHD,MAAhH,EAAwHK,QAAxH,EAAkID,OAAlI,EAA2IL,WAA3I,CADiM;AAEjM,QAFiM;;A;AAAnMgB,qF;;;;;;;;AAAA,yFAAAN;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_KeyboardEventWrappingImplementation.dart"],
+"names":["KeyboardEventWrappingImplementation","_wrap","ptr","tmp$0","altGraphKey","altKey","ctrlKey","keyIdentifier","keyLocation","metaKey","shiftKey","getModifierState","keyIdentifierArg","getModifierState$named","initKeyboardEvent","type","canBubble","cancelable","view","LevelDom","initKeyboardEvent$named"]
+}

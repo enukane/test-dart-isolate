@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_WebGLActiveInfoWrappingImplementation.dart",
+"lineCount":140,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iH;AAAA,0F;AAAA,yF;AAAA,kF;AAAA,iF;AAAA,2E;AACEC,wDAAA,GAAA,UAAmD;AAAR,6CAAQ;;A;AAAnDA,wDAAA,GAAA;;;A;AAAAA,2FAAA,GAAA;MAAAC,uDAAA;;;;;;A;AAEAC,gGAAA,GAAA,UAAuD;AACrD,SAAO,6FAD8C;;A;AAAvDC,+F;;;;;;;;AAAAC,sGAAA;SAAAF,gGAAA;;A;AAAA,mGAAAA;;;A;AAIAG,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAAkB;AAAE,SAAON,2CAAA,qCAA2B,IAA3B,CAAT;;A;AAClBO,+EAAA,GAAA,SAAyCC,KAAzC,CAAoD;;;A;AAApDC,8E;;;;;;;;AAAA,kFAAAF;;;A;AAEAG,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAAe;AAAE,SAAOV,2CAAA,qCAA2B,IAA3B,CAAT;;A;AACfW,+EAAA,GAAA,SAAsCH,KAAtC,CAAiD;;;A;AAAjDI,8E;;;;;;;;AAAA,kFAAAD;;;A;AAEAE,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAAe;AAAE,SAAOb,2CAAA,qCAA2B,IAA3B,CAAT;;A;AACfc,+EAAA,GAAA,SAAsCN,KAAtC,CAAiD;;;A;AAAjDO,8E;;;;;;;;AAAA,kFAAAD;;;A;AAEAE,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAAsB;AAAE,SAAO,iBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_WebGLActiveInfoWrappingImplementation.dart"],
+"names":["_WebGLActiveInfoWrappingImplementation","","tmp$0","create__WebGLActiveInfoWrappingImplementation","create__WebGLActiveInfoWrappingImplementation$named","native__WebGLActiveInfoWrappingImplementation_create__WebGLActiveInfoWrappingImplementation","name","_get__WebGLActiveInfo_name","_this","_get__WebGLActiveInfo_name$$named_","size","_get__WebGLActiveInfo_size","_get__WebGLActiveInfo_size$$named_","type","_get__WebGLActiveInfo_type","_get__WebGLActiveInfo_type$$named_","typeName"]
+}

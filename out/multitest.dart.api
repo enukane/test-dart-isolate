@@ -1,0 +1,16 @@
+--- unit: multitest.dart/multitest.dart
+// unit multitest.dart/multitest.dart
+class MyIsolate extends Isolate {
+  String isolateName;
+
+  void main() { }
+
+  void init(String isolateName) { }
+}
+
+
+void createIsolate(String name) { }
+
+void doIt() { }
+
+main() { }

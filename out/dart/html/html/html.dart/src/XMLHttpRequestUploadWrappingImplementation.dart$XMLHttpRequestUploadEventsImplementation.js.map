@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/XMLHttpRequestUploadWrappingImplementation.dart",
+"lineCount":80,
+"mappings":"AAKCA;;A;;;;;;;;;;;;;;;;AAAA,2I;AAAA,6H;AAAA,yG;AAAA,uH;AAAA,8F;AAAA,yG;AAEEC,uFAAA,GAAA,SAA+CC,IAA/C;AAAuD,iFAAYA,IAAZ,CAAvD;;A;AAAAD,uFAAA,GAAA;iFAAmEC,IAAnE;;A;AAAAD,+HAAA,GAAA,SAA+CC,IAA/C;MAAAC,oEAAA;;;;;;A;AAEAC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAA8B;SAAG,8BAAK,OAAL,CAAH;;A;AAC9BC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAA8B;SAAG,8BAAK,OAAL,CAAH;;A;AAC9BC,6EAAA;;;A;AAAAA,8EAAA,GAAA,UAA6B;SAAG,8BAAK,MAAL,CAAH;;A;AAC7BC,kFAAA;;;A;AAAAA,mFAAA,GAAA,UAAkC;SAAG,8BAAK,WAAL,CAAH;;A;AAClCC,iFAAA;;;A;AAAAA,kFAAA,GAAA,UAAiC;SAAG,8BAAK,UAAL,CAAH;;;",
+"sources":["dart://html/html/html.dart/src/XMLHttpRequestUploadWrappingImplementation.dart"],
+"names":["XMLHttpRequestUploadEventsImplementation","_wrap","_ptr","tmp$0","abort","error","load","loadStart","progress"]
+}

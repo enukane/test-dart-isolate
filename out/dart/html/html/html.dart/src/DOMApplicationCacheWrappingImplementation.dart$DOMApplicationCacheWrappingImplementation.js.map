@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/DOMApplicationCacheWrappingImplementation.dart",
+"lineCount":93,
+"mappings":"AAmBCA;;A;;;;;;;;;;;;;;;;AAAA,6I;AAAA,uH;AAAA,+G;AAAA,qI;AAAA,kH;AAAA,+F;AAAA,uH;AACEC,wFAAA,GAAA,SAAgDC,GAAhD;AAAuD,8FAAYA,GAAZ,CAAvD;;A;AAAAD,wFAAA,GAAA;8FAAmEC,GAAnE;;A;AAAAD,iIAAA,GAAA,SAAgDC,GAAhD;MAAAC,qEAAA;;;;;;A;AAEAC,gFAAA;;;A;AAAAA,iFAAA,GAAA,UAAiB;SAAG,+BAAA,gBAAH;;A;AAEjBC,oFAAA,GAAA,UAAiB;AACf,iCAAA,4BADe;;A;AAAjBC,mF;;;;;;;;AAAA,uFAAAD;;;A;AAIAE,iFAAA,GAAA,UAAc;AACZ,iCAAA,yBADY;;A;AAAdC,gF;;;;;;;;AAAA,oFAAAD;;;A;AAIAE,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAmC;;AACjC,MAAI,8BAAA,QAAJ,EAAkB;AAChB,yCAAM,8HAAkD,+BAAlD,CAAN,SADgB;;AAGlB,SAAO,8BAJ0B;;;",
+"sources":["dart://html/html/html.dart/src/DOMApplicationCacheWrappingImplementation.dart"],
+"names":["DOMApplicationCacheWrappingImplementation","_wrap","ptr","tmp$0","status","swapCache","swapCache$named","update","update$named","on"]
+}

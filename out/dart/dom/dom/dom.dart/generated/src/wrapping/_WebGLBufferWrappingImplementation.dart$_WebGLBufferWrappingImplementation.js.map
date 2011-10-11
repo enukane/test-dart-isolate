@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_WebGLBufferWrappingImplementation.dart",
+"lineCount":68,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yG;AAAA,kF;AAAA,qF;AAAA,8E;AAAA,6E;AAAA,uE;AACEC,oDAAA,GAAA,UAA+C;AAAR,6CAAQ;;A;AAA/CA,oDAAA,GAAA;;;A;AAAAA,mFAAA,GAAA;MAAAC,mDAAA;;;;;;A;AAEAC,wFAAA,GAAA,UAAmD;AACjD,SAAO,qFAD0C;;A;AAAnDC,uF;;;;;;;;AAAAC,8FAAA;SAAAF,wFAAA;;A;AAAA,2FAAAA;;;A;AAIAG,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAAsB;AAAE,SAAO,aAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_WebGLBufferWrappingImplementation.dart"],
+"names":["_WebGLBufferWrappingImplementation","","tmp$0","create__WebGLBufferWrappingImplementation","create__WebGLBufferWrappingImplementation$named","native__WebGLBufferWrappingImplementation_create__WebGLBufferWrappingImplementation","typeName"]
+}

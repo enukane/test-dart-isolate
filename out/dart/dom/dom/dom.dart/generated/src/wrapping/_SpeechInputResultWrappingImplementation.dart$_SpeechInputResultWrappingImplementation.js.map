@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_SpeechInputResultWrappingImplementation.dart",
+"lineCount":116,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qH;AAAA,8F;AAAA,2F;AAAA,oF;AAAA,mF;AAAA,6E;AACEC,0DAAA,GAAA,UAAqD;AAAR,6CAAQ;;A;AAArDA,0DAAA,GAAA;;;A;AAAAA,+FAAA,GAAA;MAAAC,yDAAA;;;;;;A;AAEAC,oGAAA,GAAA,UAAyD;AACvD,SAAO,iGADgD;;A;AAAzDC,mG;;;;;;;;AAAAC,0GAAA;SAAAF,oGAAA;;A;AAAA,uGAAAA;;;A;AAIAG,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAqB;AAAE,SAAON,6CAAA,6CAAmC,IAAnC,CAAT;;A;AACrBO,yFAAA,GAAA,SAA8CC,KAA9C,CAAyD;;;A;AAAzDC,wF;;;;;;;;AAAA,4FAAAF;;;A;AAEAG,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAuB;AAAE,SAAOV,6CAAA,4CAAkC,IAAlC,CAAT;;A;AACvBW,wFAAA,GAAA,SAAgDH,KAAhD,CAA2D;;;A;AAA3DI,uF;;;;;;;;AAAA,2FAAAD;;;A;AAEAE,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAsB;AAAE,SAAO,mBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_SpeechInputResultWrappingImplementation.dart"],
+"names":["_SpeechInputResultWrappingImplementation","","tmp$0","create__SpeechInputResultWrappingImplementation","create__SpeechInputResultWrappingImplementation$named","native__SpeechInputResultWrappingImplementation_create__SpeechInputResultWrappingImplementation","confidence","_get__SpeechInputResult_confidence","_this","_get__SpeechInputResult_confidence$$named_","utterance","_get__SpeechInputResult_utterance","_get__SpeechInputResult_utterance$$named_","typeName"]
+}

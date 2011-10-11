@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CommentWrappingImplementation.dart",
+"lineCount":45,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qH;AAAA,+F;AAAA,qG;AAAA,4F;AAAA,mG;AAAA,2H;AAAA,kH;AAAA,yH;AAAA,sG;AAAA,mF;AAAA,6G;AACEC,4EAAA,GAAA,SAAoCC,GAApC,CAA4D;AAAjB,gGAAYA,GAAZ,CAAiB;;A;AAA5DD,4EAAA,GAAA;gGAAuDC,GAAvD;;A;AAAAD,yGAAA,GAAA,SAAoCC,GAApC;MAAAC,yDAAA;;;;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CommentWrappingImplementation.dart"],
+"names":["CommentWrappingImplementation","_wrap","ptr","tmp$0"]
+}

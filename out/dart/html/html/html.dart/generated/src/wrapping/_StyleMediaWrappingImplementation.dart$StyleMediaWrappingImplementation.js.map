@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_StyleMediaWrappingImplementation.dart",
+"lineCount":63,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2H;AAAA,qG;AAAA,yG;AAAA,sF;AAAA,2F;AACEC,+EAAA,GAAA,SAAuCC,GAAvC,CAA+D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA/DD,+EAAA,GAAA;2EAA0DC,GAA1D;;A;AAAAD,+GAAA,GAAA,SAAuCC,GAAvC;MAAAC,4DAAA;;;;;;A;AAEAC,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBC,6EAAA,GAAA,SAAiBC,UAAjB,CAAoC;AAClC,SAAO,+BAAA,+BAAiBA,UAAjB,CAD2B;;A;AAApCC,4E;;;;;;;;AAAA,gFAAAF;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_StyleMediaWrappingImplementation.dart"],
+"names":["StyleMediaWrappingImplementation","_wrap","ptr","tmp$0","type","matchMedium","mediaquery","matchMedium$named"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_MessageChannelWrappingImplementation.dart",
+"lineCount":116,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+G;AAAA,wF;AAAA,wF;AAAA,iF;AAAA,gF;AAAA,0E;AACEC,uDAAA,GAAA,UAAkD;AAAR,6CAAQ;;A;AAAlDA,uDAAA,GAAA;;;A;AAAAA,yFAAA,GAAA;MAAAC,sDAAA;;;;;;A;AAEAC,8FAAA,GAAA,UAAsD;AACpD,SAAO,2FAD6C;;A;AAAtDC,6F;;;;;;;;AAAAC,oGAAA;SAAAF,8FAAA;;A;AAAA,iGAAAA;;;A;AAIAG,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAAwB;AAAE,SAAON,0CAAA,qCAA2B,IAA3B,CAAT;;A;AACxBO,8EAAA,GAAA,SAA8CC,KAA9C,CAAyD;;;A;AAAzDC,6E;;;;;;;;AAAA,iFAAAF;;;A;AAEAG,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAAwB;AAAE,SAAOV,0CAAA,qCAA2B,IAA3B,CAAT;;A;AACxBW,8EAAA,GAAA,SAA8CH,KAA9C,CAAyD;;;A;AAAzDI,6E;;;;;;;;AAAA,iFAAAD;;;A;AAEAE,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAAsB;AAAE,SAAO,gBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_MessageChannelWrappingImplementation.dart"],
+"names":["_MessageChannelWrappingImplementation","","tmp$0","create__MessageChannelWrappingImplementation","create__MessageChannelWrappingImplementation$named","native__MessageChannelWrappingImplementation_create__MessageChannelWrappingImplementation","port1","_get__MessageChannel_port1","_this","_get__MessageChannel_port1$$named_","port2","_get__MessageChannel_port2","_get__MessageChannel_port2$$named_","typeName"]
+}

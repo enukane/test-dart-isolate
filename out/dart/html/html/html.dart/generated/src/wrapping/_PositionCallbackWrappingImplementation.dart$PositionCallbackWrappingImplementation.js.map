@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_PositionCallbackWrappingImplementation.dart",
+"lineCount":55,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uI;AAAA,iH;AAAA,+G;AAAA,4F;AAAA,iG;AACEC,qFAAA,GAAA,SAA6CC,GAA7C,CAAqE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAArED,qFAAA,GAAA;2EAAgEC,GAAhE;;A;AAAAD,2HAAA,GAAA,SAA6CC,GAA7C;MAAAC,kEAAA;;;;;;A;AAEAC,mFAAA,GAAA,SAAiBC,QAAjB,CAAuC;AACrC,SAAO,+BAAA,+BAAiBC,wBAAA,eAAgBD,QAAhB,CAAjB,CAD8B;;A;AAAvCE,kF;;;;;;;;AAAA,sFAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_PositionCallbackWrappingImplementation.dart"],
+"names":["PositionCallbackWrappingImplementation","_wrap","ptr","tmp$0","handleEvent","position","LevelDom","handleEvent$named"]
+}

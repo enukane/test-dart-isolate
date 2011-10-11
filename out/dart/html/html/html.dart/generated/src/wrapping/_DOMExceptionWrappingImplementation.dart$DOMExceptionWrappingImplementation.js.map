@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_DOMExceptionWrappingImplementation.dart",
+"lineCount":63,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+H;AAAA,yG;AAAA,2G;AAAA,wF;AAAA,6F;AACEC,iFAAA,GAAA,SAAyCC,GAAzC,CAAiE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAjED,iFAAA,GAAA;2EAA4DC,GAA5D;;A;AAAAD,mHAAA,GAAA,SAAyCC,GAAzC;MAAAC,8DAAA;;;;;;A;AAEAC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;A;AAEfC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,iBAAT;;A;AAErBC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_DOMExceptionWrappingImplementation.dart"],
+"names":["DOMExceptionWrappingImplementation","_wrap","ptr","tmp$0","code","message","name"]
+}

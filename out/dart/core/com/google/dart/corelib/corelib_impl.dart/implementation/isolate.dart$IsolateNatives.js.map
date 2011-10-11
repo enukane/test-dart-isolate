@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/isolate.dart",
+"lineCount":82,
+"mappings":"AAoKCA;;A;;;;;;;;;;AAAA,iE;AAAA,yD;AAIiB,iEAACC,GAAD,EAAMC,SAAN,CAA0B;AACrC,SAAO,YAAAD,GAAA,EAAO,0BAAP,CAAP,CADqC;AAErC,oBAAA,4BAAgBC,SAAhB,CAFqC;;A;;;;;;;;;AAHzCC,gCAAA,GAAA,SAA+BC,OAA/B,EAAgDC,OAAhD,CAA8D;;;AAC1C,uBAAS,gGADiC;AAE5D,MAAYC,OAAO,2DAFyC;AAG5DA,MAAA,2BAAa,gFAAb,CAH4D;AAO5DN,qBAAA,iBAAOI,OAAP,EAAgBC,OAAhB,EAAyBC,IAAA,6BAAzB,CAP4D;AAQ5D,SAAO,kBARqD;;;A;AAA9DC,+B;;;;;;;;AAAA,mCAAAJ;;;A;AAWAK,mCAAA,GAAA,SAAuBJ,OAAvB,EAAwCK,KAAxC,EAAoDH,IAApD,CAAmE;;;A;AAAnEI,kC;;;;;;;;AAAA,sCAAAF;;;A;AACAG,+BAAA,GAAA,SAAqBC,CAArB,CAAiC;;;A;AAAjCC,8B;;;;;;;;AAAA,kCAAAF;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/isolate.dart"],
+"names":["IsolateNatives","msg","replyPort","spawn","isolate","isLight","port","spawn$named","_spawn","light","_spawn$$named_","bind","f","bind$named"]
+}

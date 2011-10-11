@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_OverflowEventWrappingImplementation.dart",
+"lineCount":82,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,mG;AAAA,yH;AAAA,4G;AAAA,yF;AAAA,2G;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;wFAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,sFAAA;;;A;AAAAA,uFAAA,GAAA,UAA8B;AAAE,SAAO,+BAAA,4BAAT;;A;AAE9BC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,oFAAA;;;A;AAAAA,qFAAA,GAAA,UAA4B;AAAE,SAAO,+BAAA,0BAAT;;A;AAE5BC,sFAAA,GAAA,SAAuBF,MAAvB,EAAmCD,kBAAnC,EAA4DE,gBAA5D,CAAmF;AACjF,iCAAA,qCAAuBD,MAAvB,EAA+BD,kBAA/B,EAAmDE,gBAAnD,CADiF;AAEjF,QAFiF;;A;AAAnFE,qF;;;;;;;;AAAA,yFAAAD;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_OverflowEventWrappingImplementation.dart"],
+"names":["OverflowEventWrappingImplementation","_wrap","ptr","tmp$0","horizontalOverflow","orient","verticalOverflow","initOverflowEvent","initOverflowEvent$named"]
+}

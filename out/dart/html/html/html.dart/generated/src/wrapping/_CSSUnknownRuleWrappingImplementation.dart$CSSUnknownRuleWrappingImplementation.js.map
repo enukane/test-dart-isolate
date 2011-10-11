@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CSSUnknownRuleWrappingImplementation.dart",
+"lineCount":41,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mI;AAAA,6G;AAAA,sG;AAAA,4H;AAAA,6G;AAAA,0F;AAAA,8G;AACEC,mFAAA,GAAA,SAA2CC,GAA3C,CAAmE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAnED,mFAAA,GAAA;0FAA8DC,GAA9D;;A;AAAAD,uHAAA,GAAA,SAA2CC,GAA3C;MAAAC,gEAAA;;;;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CSSUnknownRuleWrappingImplementation.dart"],
+"names":["CSSUnknownRuleWrappingImplementation","_wrap","ptr","tmp$0"]
+}

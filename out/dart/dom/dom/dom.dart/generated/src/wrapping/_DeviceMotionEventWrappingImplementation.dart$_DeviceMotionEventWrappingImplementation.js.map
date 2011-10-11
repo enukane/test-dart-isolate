@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_DeviceMotionEventWrappingImplementation.dart",
+"lineCount":94,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qH;AAAA,8F;AAAA,kF;AAAA,yG;AAAA,2F;AAAA,oF;AAAA,mF;AAAA,2F;AACEC,0DAAA,GAAA,UAAqD;AAAR,2DAAQ;;A;AAArDA,0DAAA,GAAA;;;A;AAAAA,+FAAA,GAAA;MAAAC,yDAAA;;;;;;A;AAEAC,oGAAA,GAAA,UAAyD;AACvD,SAAO,iGADgD;;A;AAAzDC,mG;;;;;;;;AAAAC,0GAAA;SAAAF,oGAAA;;A;AAAA,uGAAAA;;;A;AAIAG,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAmB;AAAE,SAAON,6CAAA,2CAAiC,IAAjC,CAAT;;A;AACnBO,uFAAA,GAAA,SAA4CC,KAA5C,CAAuD;;;A;AAAvDC,sF;;;;;;;;AAAA,0FAAAF;;;A;AAEAG,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAsB;AAAE,SAAO,mBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_DeviceMotionEventWrappingImplementation.dart"],
+"names":["_DeviceMotionEventWrappingImplementation","","tmp$0","create__DeviceMotionEventWrappingImplementation","create__DeviceMotionEventWrappingImplementation$named","native__DeviceMotionEventWrappingImplementation_create__DeviceMotionEventWrappingImplementation","interval","_get__DeviceMotionEvent_interval","_this","_get__DeviceMotionEvent_interval$$named_","typeName"]
+}

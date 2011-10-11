@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/interface/FileReader.dart",
+"lineCount":36,
+"mappings":"AAOCA;;A;;;;;;;;;;AAImBC,qCAAA;;;A;AAAAA,sCAAA;;;A;AAEAC,sCAAA;;;A;AAAAA,uCAAA;;;A;AAEAC,wCAAA;;;A;AAAAA,yCAAA;;;;",
+"sources":["dart://html/html/html.dart/generated/src/interface/FileReader.dart"],
+"names":["FileReader","DONE","EMPTY","LOADING"]
+}

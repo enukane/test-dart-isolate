@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_DataTransferItemsWrappingImplementation.dart",
+"lineCount":97,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yI;AAAA,mH;AAAA,gH;AAAA,6F;AAAA,kG;AACEC,sFAAA,GAAA,SAA8CC,GAA9C,CAAsE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAtED,sFAAA,GAAA;2EAAiEC,GAAjE;;A;AAAAD,6HAAA,GAAA,SAA8CC,GAA9C;MAAAC,mEAAA;;;;;;A;AAEAC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,4EAAA,GAAA,SAASC,IAAT,EAAsBC,IAAtB,CAAmC;AACjC,iCAAA,uBAASD,IAAT,EAAeC,IAAf,CADiC;AAEjC,QAFiC;;A;AAAnCC,2E;;;;;;;;AAAA,+EAAAH;;;A;AAKAI,8EAAA,GAAA,UAAa;AACX,iCAAA,wBADW;AAEX,QAFW;;A;AAAbC,6E;;;;;;;;AAAA,iFAAAD;;;A;AAKAE,6EAAA,GAAA,SAAsBC,KAAtB,CAAiC;AAC/B,SAAOC,wBAAA,6BAA8B,+BAAA,wBAAUD,KAAV,CAA9B,CADwB;;A;AAAjCE,4E;;;;;;;;AAAA,gFAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_DataTransferItemsWrappingImplementation.dart"],
+"names":["DataTransferItemsWrappingImplementation","_wrap","ptr","tmp$0","length","add","data","type","add$named","clear","clear$named","item","index","LevelDom","item$named"]
+}

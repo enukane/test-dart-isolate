@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_FileExceptionWrappingImplementation.dart",
+"lineCount":63,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,4G;AAAA,yF;AAAA,8F;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;2EAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;A;AAEfC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,iBAAT;;A;AAErBC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_FileExceptionWrappingImplementation.dart"],
+"names":["FileExceptionWrappingImplementation","_wrap","ptr","tmp$0","code","message","name"]
+}

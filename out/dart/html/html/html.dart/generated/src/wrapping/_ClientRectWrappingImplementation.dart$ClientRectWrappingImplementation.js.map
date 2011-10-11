@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_ClientRectWrappingImplementation.dart",
+"lineCount":87,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2H;AAAA,qG;AAAA,yG;AAAA,sF;AAAA,2F;AACEC,+EAAA,GAAA,SAAuCC,GAAvC,CAA+D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA/DD,+EAAA,GAAA;2EAA0DC,GAA1D;;A;AAAAD,+GAAA,GAAA,SAAuCC,GAAvC;MAAAC,4DAAA;;;;;;A;AAEAC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;A;AAEfC,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;A;AAEhBC,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAAc;AAAE,SAAO,+BAAA,aAAT;;A;AAEdC,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_ClientRectWrappingImplementation.dart"],
+"names":["ClientRectWrappingImplementation","_wrap","ptr","tmp$0","bottom","height","left","right","top","width"]
+}

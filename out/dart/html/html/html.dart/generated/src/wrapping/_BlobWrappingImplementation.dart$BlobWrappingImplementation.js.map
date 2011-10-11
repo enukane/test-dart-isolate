@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_BlobWrappingImplementation.dart",
+"lineCount":55,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+G;AAAA,yF;AAAA,mG;AAAA,gF;AAAA,qF;AACEC,yEAAA,GAAA,SAAiCC,GAAjC,CAAyD;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAzDD,yEAAA,GAAA;2EAAoDC,GAApD;;A;AAAAD,mGAAA,GAAA,SAAiCC,GAAjC;MAAAC,sDAAA;;;;;;A;AAEAC,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;A;AAEfC,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_BlobWrappingImplementation.dart"],
+"names":["BlobWrappingImplementation","_wrap","ptr","tmp$0","size","type"]
+}

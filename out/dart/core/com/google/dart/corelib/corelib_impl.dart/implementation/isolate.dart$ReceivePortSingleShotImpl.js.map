@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/isolate.dart",
+"lineCount":123,
+"mappings":"AAmICA;;A;;;;;;;;;;;;;;;AAAA,uF;AAAA,yE;AAAA,oE;AAEEC,2CAAA,GAAA,UAA4D;;;A;AAA5DA,2CAAA,GAAA;;AAA8B,uBAAQ,+CAAtC;;A;AAAAA,iEAAA,GAAA;MAAAC,0CAAA;;;;;;A;AAGgB,8EAACC,SAAD,EAAcC,SAAd,CAAgC;AAC5C,uBAAA,wBAD4C;AAE5C,sBAAA,aAASD,SAAT,EAAkBC,SAAlB,CAF4C;;A;;;;;;;;;AADhDC,uDAAA,GAAA,SAAaC,QAAb,CAA2D;;AACzD,uBAAA,2BAAc,uFAAd,CADyD;;A;AAA3DC,sD;;;;;;;;AAAA,0DAAAF;;;A;AAOAG,qDAAA,GAAA,UAAa;AACX,uBAAA,wBADW;;A;AAAbC,oD;;;;;;;;AAAA,wDAAAD;;;A;AAIAE,0DAAA,GAAA,UAAsB;AACpB,SAAO,8BADa;;A;AAAtBC,yD;;;;;;;;AAAA,6DAAAD;;;A;AAQAE,gEAAA,GAAA,UAA0B;AACxB,SAAO,qBAAA,mCADiB;;A;AAA1BC,+D;;;;;;;;AAAA,mEAAAD;;;A;AAIsBE,sDAAA;;;A;AAAAA,uDAAA;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/isolate.dart"],
+"names":["ReceivePortSingleShotImpl","","tmp$0","message","replyTo","receive","callback","receive$named","close","close$named","toSendPort","toSendPort$named","_toNewSendPort","_toNewSendPort$$named_","_port"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/BodyElementWrappingImplementation.dart",
+"lineCount":57,
+"mappings":"AAsBCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,mG;AAAA,gG;AAAA,uG;AAAA,yH;AAAA,sH;AAAA,6H;AAAA,0G;AAAA,uF;AAAA,2G;AAGEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;0FAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;A;AAEAC,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAA2B;;AACzB,MAAI,8BAAA,QAAJ,EAAkB;AAChB,yCAAM,8GAA0C,+BAA1C,CAAN,SADgB;;AAGlB,SAAO,8BAJkB;;;",
+"sources":["dart://html/html/html.dart/src/BodyElementWrappingImplementation.dart"],
+"names":["BodyElementWrappingImplementation","_wrap","ptr","tmp$0","on"]
+}

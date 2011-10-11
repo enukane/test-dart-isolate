@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_Int32ArrayWrappingImplementation.dart",
+"lineCount":151,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uG;AAAA,gF;AAAA,qF;AAAA,4G;AAAA,oF;AAAA,6E;AAAA,4E;AAAA,8F;AACEC,mDAAA,GAAA,UAA8C;AAAR,qEAAQ;;A;AAA9CA,mDAAA,GAAA;;;A;AAAAA,iFAAA,GAAA;MAAAC,kDAAA;;;;;;A;AAEAC,sFAAA,GAAA,UAAkD;AAChD,SAAO,mFADyC;;A;AAAlDC,qF;;;;;;;;AAAAC,4FAAA;SAAAF,sFAAA;;A;AAAA,yFAAAA;;;A;AAIAG,6DAAA;;;A;AAAAA,8DAAA,GAAA,UAAiB;AAAE,SAAON,sCAAA,kCAAwB,IAAxB,CAAT;;A;AACjBO,uEAAA,GAAA,SAAmCC,KAAnC,CAA8C;;;A;AAA9CC,sE;;;;;;;;AAAA,0EAAAF;;;A;AAEAG,gEAAA,GAAA,SAAoBC,KAApB,EAAgCC,GAAhC,CAAiD;AAC/C,MAAIA,GAAA,QAAJ,EAAkB;AAChB,WAAOZ,sCAAA,oBAAU,IAAV,EAAgBW,KAAhB,CADS;;AAAlB,QAEO;AACL,WAAOX,sCAAA,sBAAY,IAAZ,EAAkBW,KAAlB,EAAyBC,GAAzB,CADF;;AAHwC;A;AAAjDC,+D;;;;;;;;;;;;AAAA,mEAAAH;;;A;AAOAI,yDAAA,GAAA,SAA4BC,QAA5B,EAAsCJ,KAAtC,CAA6C;;;A;AAA7CK,wD;;;;;;;;AAAA,4DAAAF;;;A;AACAG,2DAAA,GAAA,SAA8BF,QAA9B,EAAwCJ,KAAxC,EAA+CC,GAA/C,CAAoD;;;A;AAApDM,0D;;;;;;;;AAAA,8DAAAD;;;A;AAEAE,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAsB;AAAE,SAAO,YAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_Int32ArrayWrappingImplementation.dart"],
+"names":["_Int32ArrayWrappingImplementation","","tmp$0","create__Int32ArrayWrappingImplementation","create__Int32ArrayWrappingImplementation$named","native__Int32ArrayWrappingImplementation_create__Int32ArrayWrappingImplementation","length","_get__Int32Array_length","_this","_get__Int32Array_length$$named_","subarray","start","end","subarray$named","_subarray","receiver","_subarray$$named_","_subarray_2","_subarray_2$$named_","typeName"]
+}

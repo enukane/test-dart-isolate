@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_FileEntrySyncWrappingImplementation.dart",
+"lineCount":73,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,uG;AAAA,6H;AAAA,4G;AAAA,yF;AAAA,+G;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,4FAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;4FAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,iFAAA,GAAA,UAA8B;AAC5B,SAAOC,wBAAA,2BAA4B,+BAAA,+BAA5B,CADqB;;A;AAA9BC,gF;;;;;;;;AAAA,oFAAAF;;;A;AAIAG,yEAAA,GAAA,UAAY;AACV,SAAOF,wBAAA,iBAAkB,+BAAA,uBAAlB,CADG;;A;AAAZG,wE;;;;;;;;AAAA,4EAAAD;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_FileEntrySyncWrappingImplementation.dart"],
+"names":["FileEntrySyncWrappingImplementation","_wrap","ptr","tmp$0","createWriter","LevelDom","createWriter$named","file","file$named"]
+}

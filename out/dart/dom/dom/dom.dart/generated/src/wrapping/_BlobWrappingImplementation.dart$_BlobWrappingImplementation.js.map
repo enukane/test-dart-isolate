@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_BlobWrappingImplementation.dart",
+"lineCount":116,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2F;AAAA,oE;AAAA,8E;AAAA,uE;AAAA,sE;AAAA,gE;AACEC,6CAAA,GAAA,UAAwC;AAAR,6CAAQ;;A;AAAxCA,6CAAA,GAAA;;;A;AAAAA,qEAAA,GAAA;MAAAC,4CAAA;;;;;;A;AAEAC,0EAAA,GAAA,UAA4C;AAC1C,SAAO,uEADmC;;A;AAA5CC,yE;;;;;;;;AAAAC,gFAAA;SAAAF,0EAAA;;A;AAAA,6EAAAA;;;A;AAIAG,qDAAA;;;A;AAAAA,sDAAA,GAAA,UAAe;AAAE,SAAON,gCAAA,0BAAgB,IAAhB,CAAT;;A;AACfO,yDAAA,GAAA,SAA2BC,KAA3B,CAAsC;;;A;AAAtCC,wD;;;;;;;;AAAA,4DAAAF;;;A;AAEAG,qDAAA;;;A;AAAAA,sDAAA,GAAA,UAAkB;AAAE,SAAOV,gCAAA,0BAAgB,IAAhB,CAAT;;A;AAClBW,yDAAA,GAAA,SAA8BH,KAA9B,CAAyC;;;A;AAAzCI,wD;;;;;;;;AAAA,4DAAAD;;;A;AAEAE,yDAAA;;;A;AAAAA,0DAAA,GAAA,UAAsB;AAAE,SAAO,MAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_BlobWrappingImplementation.dart"],
+"names":["_BlobWrappingImplementation","","tmp$0","create__BlobWrappingImplementation","create__BlobWrappingImplementation$named","native__BlobWrappingImplementation_create__BlobWrappingImplementation","size","_get__Blob_size","_this","_get__Blob_size$$named_","type","_get__Blob_type","_get__Blob_type$$named_","typeName"]
+}

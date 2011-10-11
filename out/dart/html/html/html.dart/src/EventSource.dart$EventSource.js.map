@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/EventSource.dart",
+"lineCount":41,
+"mappings":"AAWCA;;A;;;;;;;;;;;;;;;AAEmBC,wCAAA;;;A;AAAAA,yCAAA;;;A;AAEAC,4CAAA;;;A;AAAAA,6CAAA;;;A;AAEAC,sCAAA;;;A;AAAAA,uCAAA;;;;",
+"sources":["dart://html/html/html.dart/src/EventSource.dart"],
+"names":["EventSource","CLOSED","CONNECTING","OPEN"]
+}

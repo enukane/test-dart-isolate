@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_HTMLAllCollectionWrappingImplementation.dart",
+"lineCount":95,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yI;AAAA,mH;AAAA,gH;AAAA,6F;AAAA,kG;AACEC,sFAAA,GAAA,SAA8CC,GAA9C,CAAsE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAtED,sFAAA,GAAA;2EAAiEC,GAAjE;;A;AAAAD,6HAAA,GAAA,SAA8CC,GAA9C;MAAAC,mEAAA;;;;;;A;AAEAC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,6EAAA,GAAA,SAAUC,KAAV,CAAqB;AACnB,SAAOC,wBAAA,iBAAkB,+BAAA,wBAAUD,KAAV,CAAlB,CADY;;A;AAArBE,4E;;;;;;;;AAAA,gFAAAH;;;A;AAIAI,kFAAA,GAAA,SAAeC,MAAf,CAA4B;AAC1B,SAAOH,wBAAA,iBAAkB,+BAAA,6BAAeG,MAAf,CAAlB,CADmB;;A;AAA5BC,iF;;;;;;;;AAAA,qFAAAF;;;A;AAIAG,6EAAA,GAAA,SAAiBF,MAAjB,CAA8B;AAC5B,SAAOH,wBAAA,wBAAyB,+BAAA,wBAAUG,MAAV,CAAzB,CADqB;;A;AAA9BG,4E;;;;;;;;AAAA,gFAAAD;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_HTMLAllCollectionWrappingImplementation.dart"],
+"names":["HTMLAllCollectionWrappingImplementation","_wrap","ptr","tmp$0","length","item","index","LevelDom","item$named","namedItem","name","namedItem$named","tags","tags$named"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/interface/Uint16Array.dart",
+"lineCount":25,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;AAEmBC,mDAAA;;;A;AAAAA,oDAAA;;;;",
+"sources":["dart://html/html/html.dart/generated/src/interface/Uint16Array.dart"],
+"names":["Uint16Array","BYTES_PER_ELEMENT"]
+}

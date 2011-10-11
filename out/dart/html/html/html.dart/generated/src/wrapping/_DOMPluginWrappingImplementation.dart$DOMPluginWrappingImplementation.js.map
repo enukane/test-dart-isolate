@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_DOMPluginWrappingImplementation.dart",
+"lineCount":103,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yH;AAAA,mG;AAAA,wG;AAAA,qF;AAAA,0F;AACEC,8EAAA,GAAA,SAAsCC,GAAtC,CAA8D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA9DD,8EAAA,GAAA;2EAAyDC,GAAzD;;A;AAAAD,6GAAA,GAAA,SAAsCC,GAAtC;MAAAC,2DAAA;;;;;;A;AAEAC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAyB;AAAE,SAAO,+BAAA,qBAAT;;A;AAEzBC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEtBC,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBC,qEAAA,GAAA,SAAiBC,KAAjB,CAA4B;AAC1B,SAAOC,wBAAA,wBAAyB,+BAAA,wBAAUD,KAAV,CAAzB,CADmB;;A;AAA5BE,oE;;;;;;;;AAAA,wEAAAH;;;A;AAIAI,0EAAA,GAAA,SAAsBL,MAAtB,CAAmC;AACjC,SAAOG,wBAAA,wBAAyB,+BAAA,6BAAeH,MAAf,CAAzB,CAD0B;;A;AAAnCM,yE;;;;;;;;AAAA,6EAAAD;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_DOMPluginWrappingImplementation.dart"],
+"names":["DOMPluginWrappingImplementation","_wrap","ptr","tmp$0","description","filename","length","name","item","index","LevelDom","item$named","namedItem","namedItem$named"]
+}

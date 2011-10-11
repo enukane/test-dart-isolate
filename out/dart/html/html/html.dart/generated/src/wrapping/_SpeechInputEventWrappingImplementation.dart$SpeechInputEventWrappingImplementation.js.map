@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_SpeechInputEventWrappingImplementation.dart",
+"lineCount":49,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uI;AAAA,iH;AAAA,sG;AAAA,4H;AAAA,+G;AAAA,4F;AAAA,8G;AACEC,qFAAA,GAAA,SAA6CC,GAA7C,CAAqE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAArED,qFAAA,GAAA;wFAAgEC,GAAhE;;A;AAAAD,2HAAA,GAAA,SAA6CC,GAA7C;MAAAC,kEAAA;;;;;;A;AAEAC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAAoC;AAAE,SAAOC,wBAAA,kCAAmC,+BAAA,iBAAnC,CAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_SpeechInputEventWrappingImplementation.dart"],
+"names":["SpeechInputEventWrappingImplementation","_wrap","ptr","tmp$0","results","LevelDom"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CoordinatesWrappingImplementation.dart",
+"lineCount":95,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,0G;AAAA,uF;AAAA,4F;AACEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;2EAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;A;AAEAC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEnBC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEnBC,kFAAA;;;A;AAAAA,mFAAA,GAAA,UAA2B;AAAE,SAAO,+BAAA,0BAAT;;A;AAE3BC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,iBAAT;;A;AAElBC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEnBC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,mBAAT;;A;AAEpBC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CoordinatesWrappingImplementation.dart"],
+"names":["CoordinatesWrappingImplementation","_wrap","ptr","tmp$0","accuracy","altitude","altitudeAccuracy","heading","latitude","longitude","speed"]
+}

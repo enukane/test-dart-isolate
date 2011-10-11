@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_WebKitCSSKeyframeRuleWrappingImplementation.dart",
+"lineCount":138,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,sG;AAAA,wF;AAAA,+G;AAAA,+F;AAAA,wF;AAAA,uF;AAAA,iG;AACEC,8DAAA,GAAA,UAAyD;AAAR,6DAAQ;;A;AAAzDA,8DAAA,GAAA;;;A;AAAAA,uGAAA,GAAA;MAAAC,6DAAA;;;;;;A;AAEAC,4GAAA,GAAA,UAA6D;AAC3D,SAAO,yGADoD;;A;AAA7DC,2G;;;;;;;;AAAAC,kHAAA;SAAAF,4GAAA;;A;AAAA,+GAAAA;;;A;AAIAG,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAqB;AAAE,SAAON,iDAAA,8CAAoC,IAApC,CAAT;;A;AAGrBM,0EAAA,GAAA,SAAiBC,KAAjB,CAA+B;AAAEP,mDAAA,8CAAoC,IAApC,EAA0CO,KAA1C,CAAF;;A;AAF/BC,8FAAA,GAAA,SAAkDC,KAAlD,CAA6D;;;A;AAA7DC,6F;;;;;;;;AAAA,iGAAAF;;;A;AAGAG,8FAAA,GAAA,SAAgDF,KAAhD,EAA2DF,KAA3D,CAAyE;;;A;AAAzEK,6F;;;;;;;;AAAA,iGAAAD;;;A;AAEAE,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAgC;AAAE,SAAOb,iDAAA,4CAAkC,IAAlC,CAAT;;A;AAChCc,4FAAA,GAAA,SAA6DL,KAA7D,CAAwE;;;A;AAAxEM,2F;;;;;;;;AAAA,+FAAAD;;;A;AAEAE,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAsB;AAAE,SAAO,uBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_WebKitCSSKeyframeRuleWrappingImplementation.dart"],
+"names":["_WebKitCSSKeyframeRuleWrappingImplementation","","tmp$0","create__WebKitCSSKeyframeRuleWrappingImplementation","create__WebKitCSSKeyframeRuleWrappingImplementation$named","native__WebKitCSSKeyframeRuleWrappingImplementation_create__WebKitCSSKeyframeRuleWrappingImplementation","keyText","value","_get__WebKitCSSKeyframeRule_keyText","_this","_get__WebKitCSSKeyframeRule_keyText$$named_","_set__WebKitCSSKeyframeRule_keyText","_set__WebKitCSSKeyframeRule_keyText$$named_","style","_get__WebKitCSSKeyframeRule_style","_get__WebKitCSSKeyframeRule_style$$named_","typeName"]
+}

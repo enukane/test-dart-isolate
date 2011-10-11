@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/interface/Float64Array.dart",
+"lineCount":25,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;AAEmBC,oDAAA;;;A;AAAAA,qDAAA;;;;",
+"sources":["dart://html/html/html.dart/generated/src/interface/Float64Array.dart"],
+"names":["Float64Array","BYTES_PER_ELEMENT"]
+}

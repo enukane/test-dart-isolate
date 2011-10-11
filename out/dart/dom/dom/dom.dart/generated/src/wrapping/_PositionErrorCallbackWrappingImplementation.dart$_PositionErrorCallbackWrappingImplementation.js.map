@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_PositionErrorCallbackWrappingImplementation.dart",
+"lineCount":100,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,sG;AAAA,+F;AAAA,wF;AAAA,uF;AAAA,iF;AACEC,8DAAA,GAAA,UAAyD;AAAR,6CAAQ;;A;AAAzDA,8DAAA,GAAA;;;A;AAAAA,uGAAA,GAAA;MAAAC,6DAAA;;;;;;A;AAEAC,4GAAA,GAAA,UAA6D;AAC3D,SAAO,yGADoD;;A;AAA7DC,2G;;;;;;;;AAAAC,kHAAA;SAAAF,4GAAA;;A;AAAA,+GAAAA;;;A;AAIAG,8EAAA,GAAA,SAAiBC,KAAjB,CAAsC;AACpC,SAAOP,iDAAA,uBAAa,IAAb,EAAmBO,KAAnB,CAD6B;;A;AAAtCC,6E;;;;;;;;AAAA,iFAAAF;;;A;AAGAG,uEAAA,GAAA,SAAyBC,QAAzB,EAAmCH,KAAnC,CAA0C;;;A;AAA1CI,sE;;;;;;;;AAAA,0EAAAF;;;A;AAEAG,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAsB;AAAE,SAAO,uBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_PositionErrorCallbackWrappingImplementation.dart"],
+"names":["_PositionErrorCallbackWrappingImplementation","","tmp$0","create__PositionErrorCallbackWrappingImplementation","create__PositionErrorCallbackWrappingImplementation$named","native__PositionErrorCallbackWrappingImplementation_create__PositionErrorCallbackWrappingImplementation","handleEvent","error","handleEvent$named","_handleEvent","receiver","_handleEvent$$named_","typeName"]
+}

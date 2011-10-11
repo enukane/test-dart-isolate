@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_PreElementWrappingImplementation.dart",
+"lineCount":71,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2H;AAAA,qG;AAAA,kG;AAAA,+F;AAAA,sG;AAAA,wH;AAAA,qH;AAAA,4H;AAAA,yG;AAAA,sF;AAAA,0G;AACEC,+EAAA,GAAA,SAAuCC,GAAvC,CAA+D;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAA/DD,+EAAA,GAAA;0FAA0DC,GAA1D;;A;AAAAD,+GAAA,GAAA,SAAuCC,GAAvC;MAAAC,4DAAA;;;;;;A;AAEAC,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;A;AAEhBA,uEAAA,GAAA,SAAeC,KAAf,CAA0B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;A;AAE1BC,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,cAAT;;A;AAEhBA,sEAAA,GAAA,SAAcD,KAAd,CAA0B;;AAAE,iCAAA,qBAAYA,KAAZ,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_PreElementWrappingImplementation.dart"],
+"names":["PreElementWrappingImplementation","_wrap","ptr","tmp$0","width","value","wrap"]
+}

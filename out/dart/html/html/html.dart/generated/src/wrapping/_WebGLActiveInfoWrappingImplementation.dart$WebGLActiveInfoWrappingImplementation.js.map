@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_WebGLActiveInfoWrappingImplementation.dart",
+"lineCount":63,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qI;AAAA,+G;AAAA,8G;AAAA,2F;AAAA,gG;AACEC,oFAAA,GAAA,SAA4CC,GAA5C,CAAoE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAApED,oFAAA,GAAA;2EAA+DC,GAA/D;;A;AAAAD,yHAAA,GAAA,SAA4CC,GAA5C;MAAAC,iEAAA;;;;;;A;AAEAC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;A;AAEfC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_WebGLActiveInfoWrappingImplementation.dart"],
+"names":["WebGLActiveInfoWrappingImplementation","_wrap","ptr","tmp$0","name","size","type"]
+}

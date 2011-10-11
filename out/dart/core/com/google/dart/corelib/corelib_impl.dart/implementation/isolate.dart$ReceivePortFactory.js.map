@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/isolate.dart",
+"lineCount":22,
+"mappings":"AAmECA;;A;;;;;;;;;;AAAA,yE;AAAA,6D;AAEEC,4CAAA,GAAA,UAAsB;AACpB,SAAO,+CADa;;A;AAItBC,yDAAA,GAAA,UAAiC;AAC/B,SAAO,mEADwB;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/isolate.dart"],
+"names":["ReceivePortFactory","","singleShot"]
+}

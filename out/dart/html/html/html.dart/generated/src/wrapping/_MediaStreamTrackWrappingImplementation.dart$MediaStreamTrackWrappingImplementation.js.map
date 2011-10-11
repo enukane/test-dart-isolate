@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_MediaStreamTrackWrappingImplementation.dart",
+"lineCount":68,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uI;AAAA,iH;AAAA,+G;AAAA,4F;AAAA,iG;AACEC,qFAAA,GAAA,SAA6CC,GAA7C,CAAqE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAArED,qFAAA,GAAA;2EAAgEC,GAAhE;;A;AAAAD,2HAAA,GAAA,SAA6CC,GAA7C;MAAAC,kEAAA;;;;;;A;AAEAC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,iBAAT;;A;AAEnBA,+EAAA,GAAA,SAAiBC,KAAjB,CAA6B;;AAAE,iCAAA,wBAAeA,KAAf,SAAF;;A;AAE7BC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,eAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_MediaStreamTrackWrappingImplementation.dart"],
+"names":["MediaStreamTrackWrappingImplementation","_wrap","ptr","tmp$0","enabled","value","kind","label"]
+}

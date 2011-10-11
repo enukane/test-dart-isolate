@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_BarInfoWrappingImplementation.dart",
+"lineCount":47,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qH;AAAA,+F;AAAA,sG;AAAA,mF;AAAA,wF;AACEC,4EAAA,GAAA,SAAoCC,GAApC,CAA4D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA5DD,4EAAA,GAAA;2EAAuDC,GAAvD;;A;AAAAD,yGAAA,GAAA,SAAoCC,GAApC;MAAAC,yDAAA;;;;;;A;AAEAC,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,iBAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_BarInfoWrappingImplementation.dart"],
+"names":["BarInfoWrappingImplementation","_wrap","ptr","tmp$0","visible"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_StorageInfoErrorCallbackWrappingImplementation.dart",
+"lineCount":55,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uJ;AAAA,iI;AAAA,uH;AAAA,oG;AAAA,yG;AACEC,6FAAA,GAAA,SAAqDC,GAArD,CAA6E;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA7ED,6FAAA,GAAA;2EAAwEC,GAAxE;;A;AAAAD,2IAAA,GAAA,SAAqDC,GAArD;MAAAC,0EAAA;;;;;;A;AAEAC,2FAAA,GAAA,SAAiBC,KAAjB,CAAqC;AACnC,SAAO,+BAAA,+BAAiBC,wBAAA,eAAgBD,KAAhB,CAAjB,CAD4B;;A;AAArCE,0F;;;;;;;;AAAA,8FAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_StorageInfoErrorCallbackWrappingImplementation.dart"],
+"names":["StorageInfoErrorCallbackWrappingImplementation","_wrap","ptr","tmp$0","handleEvent","error","LevelDom","handleEvent$named"]
+}

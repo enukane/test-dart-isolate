@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_CDATASectionWrappingImplementation.dart",
+"lineCount":75,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2G;AAAA,oF;AAAA,4E;AAAA,qF;AAAA,4E;AAAA,mF;AAAA,mG;AAAA,4G;AAAA,mG;AAAA,sF;AAAA,+E;AAAA,8E;AAAA,qF;AACEC,qDAAA,GAAA,UAAgD;AAAR,0DAAQ;;A;AAAhDA,qDAAA,GAAA;;;A;AAAAA,qFAAA,GAAA;MAAAC,oDAAA;;;;;;A;AAEAC,0FAAA,GAAA,UAAoD;AAClD,SAAO,uFAD2C;;A;AAApDC,yF;;;;;;;;AAAAC,gGAAA;SAAAF,0FAAA;;A;AAAA,6FAAAA;;;A;AAIAG,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAsB;AAAE,SAAO,cAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_CDATASectionWrappingImplementation.dart"],
+"names":["_CDATASectionWrappingImplementation","","tmp$0","create__CDATASectionWrappingImplementation","create__CDATASectionWrappingImplementation$named","native__CDATASectionWrappingImplementation_create__CDATASectionWrappingImplementation","typeName"]
+}

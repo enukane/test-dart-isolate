@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib.dart/src/double.dart",
+"lineCount":68,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;AACsBC,qBAAA;;;A;AAAAA,sBAAA;;;;;;;;cAAM,kBAAN;;;;A;AACAC,0BAAA;;;A;AAAAA,2BAAA;;;;;;;;cAAW,kBAAX;;;;A;AACAC,mCAAA;;;A;AAAAA,oCAAA;;;;;;;;cAAoB,gBAAC,6BAAD,CAApB;;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib.dart/src/double.dart"],
+"names":["double","NAN","INFINITY","NEGATIVE_INFINITY"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_TouchWrappingImplementation.dart",
+"lineCount":135,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iH;AAAA,2F;AAAA,oG;AAAA,iF;AAAA,sF;AACEC,0EAAA,GAAA,SAAkCC,GAAlC,CAA0D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA1DD,0EAAA,GAAA;2EAAqDC,GAArD;;A;AAAAD,qGAAA,GAAA,SAAkCC,GAAlC;MAAAC,uDAAA;;;;;;A;AAEAC,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,iBAAT;;A;AAElBC,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,iBAAT;;A;AAElBC,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,oBAAT;;A;AAErBC,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;A;AAEhBC,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;A;AAEhBC,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,iBAAT;;A;AAElBC,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,iBAAT;;A;AAElBC,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAyB;AAAE,SAAOC,wBAAA,wBAAyB,+BAAA,gBAAzB,CAAT;;A;AAEzBC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,qBAAT;;A;AAEtBC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAwB;AAAE,SAAO,+BAAA,uBAAT;;A;AAExBC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAwB;AAAE,SAAO,+BAAA,uBAAT;;A;AAExBC,+EAAA;;;A;AAAAA,gFAAA,GAAA,UAA8B;AAAE,SAAO,+BAAA,6BAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_TouchWrappingImplementation.dart"],
+"names":["TouchWrappingImplementation","_wrap","ptr","tmp$0","clientX","clientY","identifier","pageX","pageY","screenX","screenY","target","LevelDom","webkitForce","webkitRadiusX","webkitRadiusY","webkitRotationAngle"]
+}

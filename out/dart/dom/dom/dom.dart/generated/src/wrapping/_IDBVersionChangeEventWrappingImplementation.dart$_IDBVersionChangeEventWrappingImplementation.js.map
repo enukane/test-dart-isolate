@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_IDBVersionChangeEventWrappingImplementation.dart",
+"lineCount":94,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,sG;AAAA,sF;AAAA,6G;AAAA,+F;AAAA,wF;AAAA,uF;AAAA,+F;AACEC,8DAAA,GAAA,UAAyD;AAAR,2DAAQ;;A;AAAzDA,8DAAA,GAAA;;;A;AAAAA,uGAAA,GAAA;MAAAC,6DAAA;;;;;;A;AAEAC,4GAAA,GAAA,UAA6D;AAC3D,SAAO,yGADoD;;A;AAA7DC,2G;;;;;;;;AAAAC,kHAAA;SAAAF,4GAAA;;A;AAAA,+GAAAA;;;A;AAIAG,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAqB;AAAE,SAAON,iDAAA,8CAAoC,IAApC,CAAT;;A;AACrBO,8FAAA,GAAA,SAAkDC,KAAlD,CAA6D;;;A;AAA7DC,6F;;;;;;;;AAAA,iGAAAF;;;A;AAEAG,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAsB;AAAE,SAAO,uBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_IDBVersionChangeEventWrappingImplementation.dart"],
+"names":["_IDBVersionChangeEventWrappingImplementation","","tmp$0","create__IDBVersionChangeEventWrappingImplementation","create__IDBVersionChangeEventWrappingImplementation$named","native__IDBVersionChangeEventWrappingImplementation_create__IDBVersionChangeEventWrappingImplementation","version","_get__IDBVersionChangeEvent_version","_this","_get__IDBVersionChangeEvent_version$$named_","typeName"]
+}

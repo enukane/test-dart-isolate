@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_MediaStreamListWrappingImplementation.dart",
+"lineCount":124,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iH;AAAA,0F;AAAA,yF;AAAA,kF;AAAA,iF;AAAA,2E;AACEC,wDAAA,GAAA,UAAmD;AAAR,6CAAQ;;A;AAAnDA,wDAAA,GAAA;;;A;AAAAA,2FAAA,GAAA;MAAAC,uDAAA;;;;;;A;AAEAC,gGAAA,GAAA,UAAuD;AACrD,SAAO,6FAD8C;;A;AAAvDC,+F;;;;;;;;AAAAC,sGAAA;SAAAF,gGAAA;;A;AAAA,mGAAAA;;;A;AAIAG,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAiB;AAAE,SAAON,2CAAA,uCAA6B,IAA7B,CAAT;;A;AACjBO,iFAAA,GAAA,SAAwCC,KAAxC,CAAmD;;;A;AAAnDC,gF;;;;;;;;AAAA,oFAAAF;;;A;AAEAG,iEAAA,GAAA,SAAiBC,KAAjB,CAA4B;AAC1B,SAAOX,2CAAA,gBAAM,IAAN,EAAYW,KAAZ,CADmB;;A;AAA5BC,gE;;;;;;;;AAAA,oEAAAF;;;A;AAGAG,0DAAA,GAAA,SAAyBC,QAAzB,EAAmCH,KAAnC,CAA0C;;;A;AAA1CI,yD;;;;;;;;AAAA,6DAAAF;;;A;AAEAG,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAAsB;AAAE,SAAO,iBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_MediaStreamListWrappingImplementation.dart"],
+"names":["_MediaStreamListWrappingImplementation","","tmp$0","create__MediaStreamListWrappingImplementation","create__MediaStreamListWrappingImplementation$named","native__MediaStreamListWrappingImplementation_create__MediaStreamListWrappingImplementation","length","_get__MediaStreamList_length","_this","_get__MediaStreamList_length$$named_","item","index","item$named","_item","receiver","_item$$named_","typeName"]
+}

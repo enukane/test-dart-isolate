@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_DOMFileSystemWrappingImplementation.dart",
+"lineCount":55,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,4G;AAAA,yF;AAAA,8F;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;2EAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAA0B;AAAE,SAAOC,wBAAA,2BAA4B,+BAAA,cAA5B,CAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_DOMFileSystemWrappingImplementation.dart"],
+"names":["DOMFileSystemWrappingImplementation","_wrap","ptr","tmp$0","name","root","LevelDom"]
+}

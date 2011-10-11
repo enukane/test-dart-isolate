@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/regexp.dart",
+"lineCount":175,
+"mappings":"AAkCCA;;A;;;;;;;;;;;;;;;AAAA,+D;AAAA,uD;AAAA,wD;AACEC,+BAAA,GAAA,SAAoBC,MAApB,EAAmCC,GAAnC;;;A;AAAAF,+BAAA,GAAA;;AACI,uBAAeC,MADnB;AAC2B,mBAAWC,GADtC;;A;AAAAF,yCAAA,GAAA,SAAoBC,MAApB,EAAmCC,GAAnC;MAAAC,8BAAA;;;;;;A;AAGaD,sCAAA;;;A;AAAAA,uCAAA;;;A;AACCE,0CAAA;;;A;AAAAA,2CAAA;;;A;AAEdC,2CAAA,GAAA,SAAkBC,KAAlB,CAA6B;AAC3B,SAAO,IAAA,yBAAWA,KAAX,CADoB;;A;AAMZ,iEAACA,KAAD,CAAY;AACzB,qBAAA,uBAAY,IAAA,yBAAWA,KAAX,CAAZ,CADyB;;A;;;;;;;;;AAF7BC,0CAAA,GAAA,SAAqBA,MAArB,CAAwC;;;AACxB,wBAAU,wEADc;AAEtCA,QAAA,2BAAe,0EAAf,CAFsC;AAKtC,SAAO,mBAL+B;;;A;AAAxCC,yC;;;;;;;;AAAA,6CAAAD;;;A;AAQAD,yCAAA,GAAA,SAAaG,EAAb,CAAqB;;;A;AAArBC,wC;;;;;;;;AAAA,4CAAAJ;;;A;AAEAK,yCAAA,GAAA,UAAY;;;A;AAAZC,wC;;;;;;;;AAAA,4CAAAD;;;A;AAEAE,uCAAA,GAAA,UAAU;;;A;AAAVC,sC;;;;;;;;AAAA,0CAAAD;;;A;AAEAE,8CAAA,GAAA,UAAa;;;A;AAAbC,6C;;;;;;;;AAAA,iDAAAD;;;A;AAEAE,gCAAA,GAAA,SAAYhB,MAAZ,EAA2BC,GAA3B,CAAuC;AACrC,SAAO,0CAAkBD,MAAlB,EAA0BC,GAA1B,CAD8B;;A;AAAvCgB,+B;;;;;;;;AAAAC,+CAAA;SAAAF,gCAAA;;A;AAAA,mCAAAA;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/regexp.dart"],
+"names":["JSSyntaxMatch","","regexp","str","tmp$0","pattern","[]","group","groups","groups$named","nb","group$named","start","start$named","end","end$named","groupCount","groupCount$named","_new","_new$$named_","native_JSSyntaxMatch__new"]
+}

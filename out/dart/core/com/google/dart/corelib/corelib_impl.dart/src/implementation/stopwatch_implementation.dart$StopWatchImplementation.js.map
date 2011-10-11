@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/src/implementation/stopwatch_implementation.dart",
+"lineCount":174,
+"mappings":"AAQCA;;A;;;;;;;;;;;;;;;AAAA,mF;AAAA,qE;AAAA,kE;AAQEC,yCAAA,GAAA,UAAwD;;;A;AAAxDA,yCAAA,GAAA;;AAA4B,kCAA5B;AAA2C,iCAA3C;;A;AAAAA,6DAAA,GAAA;MAAAC,wCAAA;;;;;;A;AAHIC,qDAAA;;;A;AAAAA,sDAAA;;;A;AAAAA,sDAAA;;;A;AACAC,oDAAA;;;A;AAAAA,qDAAA;;;A;AAAAA,qDAAA;;;A;AAIJC,mDAAA,GAAA,UAAa;;AACX,MAAI,sBAAA,QAAJ,EAAqB;AAEnB,iCAASC,UAAA,aAAT,SAFmB;;AAArB,QAGO;AACL,QAAI,qBAAA,QAAJ,EAAoB;AAClB,YADkB;;AAKpB,iCAAS,aAAAA,UAAA,aAAA,EAAe,aAAA,qBAAA,EAAQ,sBAAR,CAAf,CAAT,SANK;;AAJI;A;AAAbC,kD;;;;;;;;AAAA,sDAAAF;;;A;AAcAG,kDAAA,GAAA,UAAY;;AACV,MAAI,sBAAA,QAAJ,EAAqB;AACnB,UADmB;;AAGrB,8BAAQF,UAAA,aAAR,SAJU;;A;AAAZG,iD;;;;;;;;AAAA,qDAAAD;;;A;AAOAE,qDAAA,GAAA,UAAc;AACZ,MAAI,sBAAA,QAAJ,EAAqB;AACnB,YADmB;;AAGrB,SAAQ,qBAAA,QAAD,CAAoB,aAAAJ,UAAA,aAAA,EAAc,sBAAd,CAApB,CAA6C,aAAA,qBAAA,EAAQ,sBAAR,CAJxC;;A;AAAdK,oD;;;;;;;;AAAA,wDAAAD;;;A;AAOAE,yDAAA,GAAA,UAAkB;AAChB,SAAO,eAAC,aAAA,qBAAA,UAAD,EAAyB,uBAAzB,CADS;;A;AAAlBC,wD;;;;;;;;AAAA,4DAAAD;;;A;AAIAE,yDAAA,GAAA,UAAkB;AAChB,SAAO,eAAC,aAAA,qBAAA,OAAD,EAAsB,uBAAtB,CADS;;A;AAAlBC,wD;;;;;;;;AAAA,4DAAAD;;;A;AAIAE,uDAAA,GAAA,UAAgB;AACd,SAAOV,UAAA,mBADO;;A;AAAhBW,sD;;;;;;;;AAAA,0DAAAD;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/src/implementation/stopwatch_implementation.dart"],
+"names":["StopWatchImplementation","","tmp$0","_start","_stop","start","Clock","start$named","stop","stop$named","elapsed","elapsed$named","elapsedInUs","elapsedInUs$named","elapsedInMs","elapsedInMs$named","frequency","frequency$named"]
+}

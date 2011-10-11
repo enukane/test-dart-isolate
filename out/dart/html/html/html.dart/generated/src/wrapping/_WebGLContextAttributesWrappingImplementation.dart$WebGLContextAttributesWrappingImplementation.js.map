@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_WebGLContextAttributesWrappingImplementation.dart",
+"lineCount":117,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mJ;AAAA,6H;AAAA,qH;AAAA,kG;AAAA,uG;AACEC,2FAAA,GAAA,SAAmDC,GAAnD,CAA2E;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA3ED,2FAAA,GAAA;2EAAsEC,GAAtE;;A;AAAAD,uIAAA,GAAA,SAAmDC,GAAnD;MAAAC,wEAAA;;;;;;A;AAEAC,kFAAA;;;A;AAAAA,mFAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,eAAT;;A;AAEjBA,mFAAA,GAAA,SAAeC,KAAf,CAA2B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;A;AAE3BC,sFAAA;;;A;AAAAA,uFAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,mBAAT;;A;AAErBA,uFAAA,GAAA,SAAmBD,KAAnB,CAA+B;;AAAE,iCAAA,0BAAiBA,KAAjB,SAAF;;A;AAE/BE,kFAAA;;;A;AAAAA,mFAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,eAAT;;A;AAEjBA,mFAAA,GAAA,SAAeF,KAAf,CAA2B;;AAAE,iCAAA,sBAAaA,KAAb,SAAF;;A;AAE3BG,+FAAA;;;A;AAAAA,gGAAA,GAAA,UAA8B;AAAE,SAAO,+BAAA,4BAAT;;A;AAE9BA,gGAAA,GAAA,SAA4BH,KAA5B,CAAwC;;AAAE,iCAAA,mCAA0BA,KAA1B,SAAF;;A;AAExCI,kGAAA;;;A;AAAAA,mGAAA,GAAA,UAAiC;AAAE,SAAO,+BAAA,+BAAT;;A;AAEjCA,mGAAA,GAAA,SAA+BJ,KAA/B,CAA2C;;AAAE,iCAAA,sCAA6BA,KAA7B,SAAF;;A;AAE3CK,oFAAA;;;A;AAAAA,qFAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,iBAAT;;A;AAEnBA,qFAAA,GAAA,SAAiBL,KAAjB,CAA6B;;AAAE,iCAAA,wBAAeA,KAAf,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_WebGLContextAttributesWrappingImplementation.dart"],
+"names":["WebGLContextAttributesWrappingImplementation","_wrap","ptr","tmp$0","alpha","value","antialias","depth","premultipliedAlpha","preserveDrawingBuffer","stencil"]
+}

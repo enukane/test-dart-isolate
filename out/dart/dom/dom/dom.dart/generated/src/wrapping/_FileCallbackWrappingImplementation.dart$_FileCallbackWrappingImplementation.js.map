@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_FileCallbackWrappingImplementation.dart",
+"lineCount":100,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2G;AAAA,oF;AAAA,sF;AAAA,+E;AAAA,8E;AAAA,wE;AACEC,qDAAA,GAAA,UAAgD;AAAR,6CAAQ;;A;AAAhDA,qDAAA,GAAA;;;A;AAAAA,qFAAA,GAAA;MAAAC,oDAAA;;;;;;A;AAEAC,0FAAA,GAAA,UAAoD;AAClD,SAAO,uFAD2C;;A;AAApDC,yF;;;;;;;;AAAAC,gGAAA;SAAAF,0FAAA;;A;AAAA,6FAAAA;;;A;AAIAG,qEAAA,GAAA,SAAiBC,IAAjB,CAA4B;AAC1B,SAAOP,wCAAA,uBAAa,IAAb,EAAmBO,IAAnB,CADmB;;A;AAA5BC,oE;;;;;;;;AAAA,wEAAAF;;;A;AAGAG,8DAAA,GAAA,SAAyBC,QAAzB,EAAmCH,IAAnC,CAAyC;;;A;AAAzCI,6D;;;;;;;;AAAA,iEAAAF;;;A;AAEAG,iEAAA;;;A;AAAAA,kEAAA,GAAA,UAAsB;AAAE,SAAO,cAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_FileCallbackWrappingImplementation.dart"],
+"names":["_FileCallbackWrappingImplementation","","tmp$0","create__FileCallbackWrappingImplementation","create__FileCallbackWrappingImplementation$named","native__FileCallbackWrappingImplementation_create__FileCallbackWrappingImplementation","handleEvent","file","handleEvent$named","_handleEvent","receiver","_handleEvent$$named_","typeName"]
+}

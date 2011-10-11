@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/interface/Uint32Array.dart",
+"lineCount":25,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;AAEmBC,wCAAA;;;A;AAAAA,yCAAA;;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/interface/Uint32Array.dart"],
+"names":["Uint32Array","BYTES_PER_ELEMENT"]
+}

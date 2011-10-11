@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib.dart/src/promise.dart",
+"lineCount":100,
+"mappings":"AA6FCA;;A;;;;;;;;;;;;;;;AAAA,+C;AAAA,mD;AAAA,gD;AAAA,qC;AAEEC,8BAAA,GAAA,SAAcC,IAAd,CAC0B;AAApB,gDAAcA,IAAd,CAAoB;;A;AAD1BD,8BAAA,GAAA;gDACoBC,IADpB;;A;AAAAD,kCAAA,GAAA,SAAcC,IAAd;MAAAC,sBAAA;;;;;;A;AAGAC,iCAAA,GAAA,SAAiBC,OAAjB;AACM,6DAA4BA,OAA5B,EAAqC,gGAArC,CADN;;A;AAAAD,iCAAA,GAAA;6DACkCC,OADlC,EAC2C,gGAD3C;;A;AAAAD,qCAAA,GAAA,SAAiBC,OAAjB;MAAAF,sBAAA;;;;;;A;AAMuB,oFAACD,IAAD,CAAgB;AACnC,qBAAA,4BAAiBA,IAAjB,CADmC;;A;;;;;;;;;AAHvCI,+CAAA,GAAA,SAA6BD,OAA7B,EAA8CE,OAA9C,CAE8B;;AAAxB,iDAAe,mBAAf,CAAwB;AAC5BF,SAAA,wBAAA,wBAAqB,mGAArB,CAD4B;;A;AAF9BC,+CAAA,GAAA;;iDAEqB,mBAFrB;;A;AAAAA,mDAAA,GAAA,SAA6BD,OAA7B,EAA8CE,OAA9C;MAAAJ,sBAAA;;;;;;A;AAYAK,+BAAA,GAAA,SAAeN,IAAf,CAC2B;AAArB,iDAAeA,IAAf,CAAqB;;A;AAD3BM,+BAAA,GAAA;iDACqBN,IADrB;;A;AAAAM,mCAAA,GAAA,SAAeN,IAAf;MAAAC,sBAAA;;;;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib.dart/src/promise.dart"],
+"names":["Proxy","forPort","port","tmp$0","forIsolate","isolate","_forIsolateWithPromise","promise","forReply"]
+}

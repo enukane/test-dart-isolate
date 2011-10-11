@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_FileWriterSyncWrappingImplementation.dart",
+"lineCount":106,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mI;AAAA,6G;AAAA,6G;AAAA,0F;AAAA,+F;AACEC,mFAAA,GAAA,SAA2CC,GAA3C,CAAmE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAnED,mFAAA,GAAA;2EAA8DC,GAA9D;;A;AAAAD,uHAAA,GAAA,SAA2CC,GAA3C;MAAAC,gEAAA;;;;;;A;AAEAC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,6EAAA;;;A;AAAAA,8EAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEnBC,0EAAA,GAAA,SAAUD,QAAV,CAAwB;AACtB,iCAAA,wBAAUA,QAAV,CADsB;AAEtB,QAFsB;;A;AAAxBE,yE;;;;;;;;AAAA,6EAAAD;;;A;AAKAE,8EAAA,GAAA,SAAcC,IAAd,CAAwB;AACtB,iCAAA,4BAAcA,IAAd,CADsB;AAEtB,QAFsB;;A;AAAxBC,6E;;;;;;;;AAAA,iFAAAF;;;A;AAKAG,2EAAA,GAAA,SAAWC,IAAX,CAAsB;AACpB,iCAAA,yBAAWC,wBAAA,eAAgBD,IAAhB,CAAX,CADoB;AAEpB,QAFoB;;A;AAAtBE,0E;;;;;;;;AAAA,8EAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_FileWriterSyncWrappingImplementation.dart"],
+"names":["FileWriterSyncWrappingImplementation","_wrap","ptr","tmp$0","length","position","seek","seek$named","truncate","size","truncate$named","write","data","LevelDom","write$named"]
+}

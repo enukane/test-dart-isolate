@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_DOMFileSystemWrappingImplementation.dart",
+"lineCount":116,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6G;AAAA,sF;AAAA,uF;AAAA,gF;AAAA,+E;AAAA,yE;AACEC,sDAAA,GAAA,UAAiD;AAAR,6CAAQ;;A;AAAjDA,sDAAA,GAAA;;;A;AAAAA,uFAAA,GAAA;MAAAC,qDAAA;;;;;;A;AAEAC,4FAAA,GAAA,UAAqD;AACnD,SAAO,yFAD4C;;A;AAArDC,2F;;;;;;;;AAAAC,kGAAA;SAAAF,4FAAA;;A;AAAA,+FAAAA;;;A;AAIAG,8DAAA;;;A;AAAAA,+DAAA,GAAA,UAAkB;AAAE,SAAON,yCAAA,mCAAyB,IAAzB,CAAT;;A;AAClBO,2EAAA,GAAA,SAAuCC,KAAvC,CAAkD;;;A;AAAlDC,0E;;;;;;;;AAAA,8EAAAF;;;A;AAEAG,8DAAA;;;A;AAAAA,+DAAA,GAAA,UAA0B;AAAE,SAAOV,yCAAA,mCAAyB,IAAzB,CAAT;;A;AAC1BW,2EAAA,GAAA,SAA+CH,KAA/C,CAA0D;;;A;AAA1DI,0E;;;;;;;;AAAA,8EAAAD;;;A;AAEAE,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAsB;AAAE,SAAO,eAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_DOMFileSystemWrappingImplementation.dart"],
+"names":["_DOMFileSystemWrappingImplementation","","tmp$0","create__DOMFileSystemWrappingImplementation","create__DOMFileSystemWrappingImplementation$named","native__DOMFileSystemWrappingImplementation_create__DOMFileSystemWrappingImplementation","name","_get__DOMFileSystem_name","_this","_get__DOMFileSystem_name$$named_","root","_get__DOMFileSystem_root","_get__DOMFileSystem_root$$named_","typeName"]
+}

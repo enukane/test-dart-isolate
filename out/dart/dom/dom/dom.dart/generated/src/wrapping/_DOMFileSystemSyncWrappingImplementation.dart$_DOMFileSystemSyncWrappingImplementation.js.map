@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_DOMFileSystemSyncWrappingImplementation.dart",
+"lineCount":116,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qH;AAAA,8F;AAAA,2F;AAAA,oF;AAAA,mF;AAAA,6E;AACEC,0DAAA,GAAA,UAAqD;AAAR,6CAAQ;;A;AAArDA,0DAAA,GAAA;;;A;AAAAA,+FAAA,GAAA;MAAAC,yDAAA;;;;;;A;AAEAC,oGAAA,GAAA,UAAyD;AACvD,SAAO,iGADgD;;A;AAAzDC,mG;;;;;;;;AAAAC,0GAAA;SAAAF,oGAAA;;A;AAAA,uGAAAA;;;A;AAIAG,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAkB;AAAE,SAAON,6CAAA,uCAA6B,IAA7B,CAAT;;A;AAClBO,mFAAA,GAAA,SAA2CC,KAA3C,CAAsD;;;A;AAAtDC,kF;;;;;;;;AAAA,sFAAAF;;;A;AAEAG,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAA8B;AAAE,SAAOV,6CAAA,uCAA6B,IAA7B,CAAT;;A;AAC9BW,mFAAA,GAAA,SAAuDH,KAAvD,CAAkE;;;A;AAAlEI,kF;;;;;;;;AAAA,sFAAAD;;;A;AAEAE,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAsB;AAAE,SAAO,mBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_DOMFileSystemSyncWrappingImplementation.dart"],
+"names":["_DOMFileSystemSyncWrappingImplementation","","tmp$0","create__DOMFileSystemSyncWrappingImplementation","create__DOMFileSystemSyncWrappingImplementation$named","native__DOMFileSystemSyncWrappingImplementation_create__DOMFileSystemSyncWrappingImplementation","name","_get__DOMFileSystemSync_name","_this","_get__DOMFileSystemSync_name$$named_","root","_get__DOMFileSystemSync_root","_get__DOMFileSystemSync_root$$named_","typeName"]
+}

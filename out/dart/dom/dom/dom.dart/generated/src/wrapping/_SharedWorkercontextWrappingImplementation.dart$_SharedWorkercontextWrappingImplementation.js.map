@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_SharedWorkercontextWrappingImplementation.dart",
+"lineCount":140,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yH;AAAA,kG;AAAA,sG;AAAA,4F;AAAA,gG;AAAA,mH;AAAA,6F;AAAA,sF;AAAA,qF;AAAA,qG;AACEC,4DAAA,GAAA,UAAuD;AAAR,mEAAQ;;A;AAAvDA,4DAAA,GAAA;;;A;AAAAA,mGAAA,GAAA;MAAAC,2DAAA;;;;;;A;AAEAC,wGAAA,GAAA,UAA2D;AACzD,SAAO,qGADkD;;A;AAA3DC,uG;;;;;;;;AAAAC,8GAAA;SAAAF,wGAAA;;A;AAAA,2GAAAA;;;A;AAIAG,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAAkB;AAAE,SAAON,+CAAA,yCAA+B,IAA/B,CAAT;;A;AAClBO,uFAAA,GAAA,SAA6CC,KAA7C,CAAwD;;;A;AAAxDC,sF;;;;;;;;AAAA,0FAAAF;;;A;AAEAG,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAA8B;AAAE,SAAOV,+CAAA,8CAAoC,IAApC,CAAT;;A;AAG9BU,0EAAA,GAAA,SAAmBC,KAAnB,CAAwC;AAAEX,iDAAA,8CAAoC,IAApC,EAA0CW,KAA1C,CAAF;;A;AAFxCC,4FAAA,GAAA,SAAyDJ,KAAzD,CAAoE;;;A;AAApEK,2F;;;;;;;;AAAA,+FAAAD;;;A;AAGAE,4FAAA,GAAA,SAAgDN,KAAhD,EAA2DG,KAA3D,CAAgF;;;A;AAAhFI,2F;;;;;;;;AAAA,+FAAAD;;;A;AAEAE,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAsB;AAAE,SAAO,qBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_SharedWorkercontextWrappingImplementation.dart"],
+"names":["_SharedWorkercontextWrappingImplementation","","tmp$0","create__SharedWorkercontextWrappingImplementation","create__SharedWorkercontextWrappingImplementation$named","native__SharedWorkercontextWrappingImplementation_create__SharedWorkercontextWrappingImplementation","name","_get__SharedWorkercontext_name","_this","_get__SharedWorkercontext_name$$named_","onconnect","value","_get__SharedWorkercontext_onconnect","_get__SharedWorkercontext_onconnect$$named_","_set__SharedWorkercontext_onconnect","_set__SharedWorkercontext_onconnect$$named_","typeName"]
+}

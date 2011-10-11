@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_XMLHttpRequestProgressEventWrappingImplementation.dart",
+"lineCount":120,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yI;AAAA,kH;AAAA,oG;AAAA,4F;AAAA,2H;AAAA,mH;AAAA,qG;AAAA,8F;AAAA,6F;AAAA,6G;AACEC,oEAAA,GAAA,UAA+D;AAAR,mEAAQ;;A;AAA/DA,oEAAA,GAAA;;;A;AAAAA,mHAAA,GAAA;MAAAC,mEAAA;;;;;;A;AAEAC,wHAAA,GAAA,UAAmE;AACjE,SAAO,qHAD0D;;A;AAAnEC,uH;;;;;;;;AAAAC,8HAAA;SAAAF,wHAAA;;A;AAAA,2HAAAA;;;A;AAIAG,gFAAA;;;A;AAAAA,iFAAA,GAAA,UAAmB;AAAE,SAAON,uDAAA,qDAA2C,IAA3C,CAAT;;A;AACnBO,2GAAA,GAAA,SAAsDC,KAAtD,CAAiE;;;A;AAAjEC,0G;;;;;;;;AAAA,8GAAAF;;;A;AAEAG,iFAAA;;;A;AAAAA,kFAAA,GAAA,UAAoB;AAAE,SAAOV,uDAAA,sDAA4C,IAA5C,CAAT;;A;AACpBW,4GAAA,GAAA,SAAuDH,KAAvD,CAAkE;;;A;AAAlEI,2G;;;;;;;;AAAA,+GAAAD;;;A;AAEAE,gFAAA;;;A;AAAAA,iFAAA,GAAA,UAAsB;AAAE,SAAO,6BAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_XMLHttpRequestProgressEventWrappingImplementation.dart"],
+"names":["_XMLHttpRequestProgressEventWrappingImplementation","","tmp$0","create__XMLHttpRequestProgressEventWrappingImplementation","create__XMLHttpRequestProgressEventWrappingImplementation$named","native__XMLHttpRequestProgressEventWrappingImplementation_create__XMLHttpRequestProgressEventWrappingImplementation","position","_get__XMLHttpRequestProgressEvent_position","_this","_get__XMLHttpRequestProgressEvent_position$$named_","totalSize","_get__XMLHttpRequestProgressEvent_totalSize","_get__XMLHttpRequestProgressEvent_totalSize$$named_","typeName"]
+}

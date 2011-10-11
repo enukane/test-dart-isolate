@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_WebKitLoseContextWrappingImplementation.dart",
+"lineCount":134,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qH;AAAA,8F;AAAA,2F;AAAA,oF;AAAA,mF;AAAA,6E;AACEC,0DAAA,GAAA,UAAqD;AAAR,6CAAQ;;A;AAArDA,0DAAA,GAAA;;;A;AAAAA,+FAAA,GAAA;MAAAC,yDAAA;;;;;;A;AAEAC,oGAAA,GAAA,UAAyD;AACvD,SAAO,iGADgD;;A;AAAzDC,mG;;;;;;;;AAAAC,0GAAA;SAAAF,oGAAA;;A;AAAA,uGAAAA;;;A;AAIAG,0EAAA,GAAA,UAAmB;AACjBN,+CAAA,uBAAa,IAAb,CADiB;AAEjB,QAFiB;;A;AAAnBO,yE;;;;;;;;AAAA,6EAAAD;;;A;AAIAE,mEAAA,GAAA,SAAyBC,QAAzB,CAAmC;;;A;AAAnCC,kE;;;;;;;;AAAA,sEAAAF;;;A;AAEAG,6EAAA,GAAA,UAAsB;AACpBX,+CAAA,0BAAgB,IAAhB,CADoB;AAEpB,QAFoB;;A;AAAtBY,4E;;;;;;;;AAAA,gFAAAD;;;A;AAIAE,sEAAA,GAAA,SAA4BJ,QAA5B,CAAsC;;;A;AAAtCK,qE;;;;;;;;AAAA,yEAAAD;;;A;AAEAE,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAsB;AAAE,SAAO,mBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_WebKitLoseContextWrappingImplementation.dart"],
+"names":["_WebKitLoseContextWrappingImplementation","","tmp$0","create__WebKitLoseContextWrappingImplementation","create__WebKitLoseContextWrappingImplementation$named","native__WebKitLoseContextWrappingImplementation_create__WebKitLoseContextWrappingImplementation","loseContext","loseContext$named","_loseContext","receiver","_loseContext$$named_","restoreContext","restoreContext$named","_restoreContext","_restoreContext$$named_","typeName"]
+}

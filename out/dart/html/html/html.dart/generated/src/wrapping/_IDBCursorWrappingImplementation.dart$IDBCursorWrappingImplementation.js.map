@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_IDBCursorWrappingImplementation.dart",
+"lineCount":130,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yH;AAAA,mG;AAAA,wG;AAAA,qF;AAAA,0F;AACEC,8EAAA,GAAA,SAAsCC,GAAtC,CAA8D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA9DD,8EAAA,GAAA;2EAAyDC,GAAzD;;A;AAAAD,6GAAA,GAAA,SAAsCC,GAAtC;MAAAC,2DAAA;;;;;;A;AAEAC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,mBAAT;;A;AAEpBC,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAAiB;AAAE,SAAOC,wBAAA,mBAAoB,+BAAA,aAApB,CAAT;;A;AAEjBC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAwB;AAAE,SAAOD,wBAAA,mBAAoB,+BAAA,oBAApB,CAAT;;A;AAExBE,sEAAA;;;A;AAAAA,uEAAA,GAAA,UAAoB;AAAE,SAAOF,wBAAA,mBAAoB,+BAAA,gBAApB,CAAT;;A;AAEpBG,iFAAA,GAAA,SAAuBJ,GAAvB,CAA2C;AACzC,MAAIA,GAAA,QAAJ,EAAkB;AAChB,mCAAA,mCADgB;AAEhB,UAFgB;;AAAlB,QAGO;AACL,mCAAA,oCAAsBC,wBAAA,eAAgBD,GAAhB,CAAtB,CADK;AAEL,UAFK;;AAJkC;A;AAA3CK,gF;;;;;;;;;;;;AAAA,oFAAAD;;;A;AAUAE,uEAAA,GAAA,UAAoB;AAClB,SAAOL,wBAAA,uBAAwB,+BAAA,yBAAxB,CADW;;A;AAApBM,sE;;;;;;;;AAAA,0EAAAD;;;A;AAIAE,uEAAA,GAAA,SAAkBC,KAAlB,CAAgC;AAC9B,SAAOR,wBAAA,uBAAwB,+BAAA,0BAAYQ,KAAZ,CAAxB,CADuB;;A;AAAhCC,sE;;;;;;;;AAAA,0EAAAF;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_IDBCursorWrappingImplementation.dart"],
+"names":["IDBCursorWrappingImplementation","_wrap","ptr","tmp$0","direction","key","LevelDom","primaryKey","source","continueFunction","continueFunction$named","delete","delete$named","update","value","update$named"]
+}

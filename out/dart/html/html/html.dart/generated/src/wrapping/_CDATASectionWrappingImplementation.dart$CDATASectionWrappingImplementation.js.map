@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CDATASectionWrappingImplementation.dart",
+"lineCount":47,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+H;AAAA,yG;AAAA,iG;AAAA,0G;AAAA,iG;AAAA,wG;AAAA,uH;AAAA,gI;AAAA,uH;AAAA,8H;AAAA,2G;AAAA,wF;AAAA,yG;AACEC,iFAAA,GAAA,SAAyCC,GAAzC,CAAiE;AAAjB,uFAAYA,GAAZ,CAAiB;;A;AAAjED,iFAAA,GAAA;uFAA4DC,GAA5D;;A;AAAAD,mHAAA,GAAA,SAAyCC,GAAzC;MAAAC,8DAAA;;;;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CDATASectionWrappingImplementation.dart"],
+"names":["CDATASectionWrappingImplementation","_wrap","ptr","tmp$0"]
+}

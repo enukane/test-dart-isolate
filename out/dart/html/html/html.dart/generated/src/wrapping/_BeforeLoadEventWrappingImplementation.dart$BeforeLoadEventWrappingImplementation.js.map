@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_BeforeLoadEventWrappingImplementation.dart",
+"lineCount":66,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qI;AAAA,+G;AAAA,qG;AAAA,2H;AAAA,8G;AAAA,2F;AAAA,6G;AACEC,oFAAA,GAAA,SAA4CC,GAA5C,CAAoE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAApED,oFAAA,GAAA;wFAA+DC,GAA/D;;A;AAAAD,yHAAA,GAAA,SAA4CC,GAA5C;MAAAC,iEAAA;;;;;;A;AAEAC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,aAAT;;A;AAEjBC,0FAAA,GAAA,SAAyBC,IAAzB,EAAsCC,SAAtC,EAAsDC,UAAtD,EAAuEJ,GAAvE,CAAmF;AACjF,iCAAA,uCAAyBE,IAAzB,EAA+BC,SAA/B,EAA0CC,UAA1C,EAAsDJ,GAAtD,CADiF;AAEjF,QAFiF;;A;AAAnFK,yF;;;;;;;;AAAA,6FAAAJ;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_BeforeLoadEventWrappingImplementation.dart"],
+"names":["BeforeLoadEventWrappingImplementation","_wrap","ptr","tmp$0","url","initBeforeLoadEvent","type","canBubble","cancelable","initBeforeLoadEvent$named"]
+}

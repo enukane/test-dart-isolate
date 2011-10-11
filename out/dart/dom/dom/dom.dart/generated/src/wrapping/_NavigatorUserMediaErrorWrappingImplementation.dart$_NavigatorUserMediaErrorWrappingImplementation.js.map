@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_NavigatorUserMediaErrorWrappingImplementation.dart",
+"lineCount":92,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,0G;AAAA,iG;AAAA,0F;AAAA,yF;AAAA,mF;AACEC,gEAAA,GAAA,UAA2D;AAAR,6CAAQ;;A;AAA3DA,gEAAA,GAAA;;;A;AAAAA,2GAAA,GAAA;MAAAC,+DAAA;;;;;;A;AAEAC,gHAAA,GAAA,UAA+D;AAC7D,SAAO,6GADsD;;A;AAA/DC,+G;;;;;;;;AAAAC,sHAAA;SAAAF,gHAAA;;A;AAAA,mHAAAA;;;A;AAIAG,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAe;AAAE,SAAON,mDAAA,6CAAmC,IAAnC,CAAT;;A;AACfO,+FAAA,GAAA,SAA8CC,KAA9C,CAAyD;;;A;AAAzDC,8F;;;;;;;;AAAA,kGAAAF;;;A;AAEAG,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAsB;AAAE,SAAO,yBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_NavigatorUserMediaErrorWrappingImplementation.dart"],
+"names":["_NavigatorUserMediaErrorWrappingImplementation","","tmp$0","create__NavigatorUserMediaErrorWrappingImplementation","create__NavigatorUserMediaErrorWrappingImplementation$named","native__NavigatorUserMediaErrorWrappingImplementation_create__NavigatorUserMediaErrorWrappingImplementation","code","_get__NavigatorUserMediaError_code","_this","_get__NavigatorUserMediaError_code$$named_","typeName"]
+}

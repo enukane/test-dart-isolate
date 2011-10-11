@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_AudioElementWrappingImplementation.dart",
+"lineCount":47,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+H;AAAA,yG;AAAA,yG;AAAA,oG;AAAA,iG;AAAA,wG;AAAA,+H;AAAA,0H;AAAA,uH;AAAA,8H;AAAA,2G;AAAA,wF;AAAA,iH;AACEC,iFAAA,GAAA,SAAyCC,GAAzC,CAAiE;AAAjB,+FAAYA,GAAZ,CAAiB;;A;AAAjED,iFAAA,GAAA;+FAA4DC,GAA5D;;A;AAAAD,mHAAA,GAAA,SAAyCC,GAAzC;MAAAC,8DAAA;;;;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_AudioElementWrappingImplementation.dart"],
+"names":["AudioElementWrappingImplementation","_wrap","ptr","tmp$0"]
+}

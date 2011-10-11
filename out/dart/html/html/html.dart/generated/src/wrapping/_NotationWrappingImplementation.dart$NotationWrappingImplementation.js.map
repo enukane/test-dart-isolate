@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_NotationWrappingImplementation.dart",
+"lineCount":59,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,uH;AAAA,iG;AAAA,6F;AAAA,oG;AAAA,mH;AAAA,0H;AAAA,uG;AAAA,oF;AAAA,qG;AACEC,6EAAA,GAAA,SAAqCC,GAArC,CAA6D;AAAjB,uFAAYA,GAAZ,CAAiB;;A;AAA7DD,6EAAA,GAAA;uFAAwDC,GAAxD;;A;AAAAD,2GAAA,GAAA,SAAqCC,GAArC;MAAAC,0DAAA;;;;;;A;AAEAC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEtBC,uEAAA;;;A;AAAAA,wEAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_NotationWrappingImplementation.dart"],
+"names":["NotationWrappingImplementation","_wrap","ptr","tmp$0","publicId","systemId"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_EntityWrappingImplementation.dart",
+"lineCount":143,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+F;AAAA,wE;AAAA,sE;AAAA,6E;AAAA,6F;AAAA,gF;AAAA,yE;AAAA,wE;AAAA,+E;AACEC,+CAAA,GAAA,UAA0C;AAAR,0DAAQ;;A;AAA1CA,+CAAA,GAAA;;;A;AAAAA,yEAAA,GAAA;MAAAC,8CAAA;;;;;;A;AAEAC,8EAAA,GAAA,UAA8C;AAC5C,SAAO,2EADqC;;A;AAA9CC,6E;;;;;;;;AAAAC,oFAAA;SAAAF,8EAAA;;A;AAAA,iFAAAA;;;A;AAIAG,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAA0B;AAAE,SAAON,kCAAA,oCAA0B,IAA1B,CAAT;;A;AAC1BO,qEAAA,GAAA,SAAwCC,KAAxC,CAAmD;;;A;AAAnDC,oE;;;;;;;;AAAA,wEAAAF;;;A;AAEAG,2DAAA;;;A;AAAAA,4DAAA,GAAA,UAAsB;AAAE,SAAOV,kCAAA,gCAAsB,IAAtB,CAAT;;A;AACtBW,iEAAA,GAAA,SAAoCH,KAApC,CAA+C;;;A;AAA/CI,gE;;;;;;;;AAAA,oEAAAD;;;A;AAEAE,2DAAA;;;A;AAAAA,4DAAA,GAAA,UAAsB;AAAE,SAAOb,kCAAA,gCAAsB,IAAtB,CAAT;;A;AACtBc,iEAAA,GAAA,SAAoCN,KAApC,CAA+C;;;A;AAA/CO,gE;;;;;;;;AAAA,oEAAAD;;;A;AAEAE,2DAAA;;;A;AAAAA,4DAAA,GAAA,UAAsB;AAAE,SAAO,QAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_EntityWrappingImplementation.dart"],
+"names":["_EntityWrappingImplementation","","tmp$0","create__EntityWrappingImplementation","create__EntityWrappingImplementation$named","native__EntityWrappingImplementation_create__EntityWrappingImplementation","notationName","_get__Entity_notationName","_this","_get__Entity_notationName$$named_","publicId","_get__Entity_publicId","_get__Entity_publicId$$named_","systemId","_get__Entity_systemId","_get__Entity_systemId$$named_","typeName"]
+}

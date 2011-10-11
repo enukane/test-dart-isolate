@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CSSImportRuleWrappingImplementation.dart",
+"lineCount":65,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,qG;AAAA,2H;AAAA,4G;AAAA,yF;AAAA,6G;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;0FAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAsB;AAAE,SAAOC,wBAAA,sBAAuB,+BAAA,eAAvB,CAAT;;A;AAEtBC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAA+B;AAAE,SAAOD,wBAAA,0BAA2B,+BAAA,oBAA3B,CAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CSSImportRuleWrappingImplementation.dart"],
+"names":["CSSImportRuleWrappingImplementation","_wrap","ptr","tmp$0","href","media","LevelDom","styleSheet"]
+}

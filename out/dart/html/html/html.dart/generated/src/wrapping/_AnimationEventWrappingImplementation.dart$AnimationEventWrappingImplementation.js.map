@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_AnimationEventWrappingImplementation.dart",
+"lineCount":74,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mI;AAAA,6G;AAAA,oG;AAAA,0H;AAAA,6G;AAAA,0F;AAAA,4G;AACEC,mFAAA,GAAA,SAA2CC,GAA3C,CAAmE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAAnED,mFAAA,GAAA;wFAA8DC,GAA9D;;A;AAAAD,uHAAA,GAAA,SAA2CC,GAA3C;MAAAC,gEAAA;;;;;;A;AAEAC,kFAAA;;;A;AAAAA,mFAAA,GAAA,UAA2B;AAAE,SAAO,+BAAA,uBAAT;;A;AAE3BC,gFAAA;;;A;AAAAA,iFAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,qBAAT;;A;AAEtBC,8FAAA,GAAA,SAA8BC,OAA9B,EAA8CC,YAA9C,EAAiEC,aAAjE,EAAqFC,gBAArF,EAA8GC,cAA9G,CAAkI;AAChI,iCAAA,4CAA8BJ,OAA9B,EAAuCC,YAAvC,EAAqDC,aAArD,EAAoEC,gBAApE,EAAsFC,cAAtF,CADgI;AAEhI,QAFgI;;A;AAAlIC,6F;;;;;;;;AAAA,iGAAAN;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_AnimationEventWrappingImplementation.dart"],
+"names":["AnimationEventWrappingImplementation","_wrap","ptr","tmp$0","animationName","elapsedTime","initWebKitAnimationEvent","typeArg","canBubbleArg","cancelableArg","animationNameArg","elapsedTimeArg","initWebKitAnimationEvent$named"]
+}

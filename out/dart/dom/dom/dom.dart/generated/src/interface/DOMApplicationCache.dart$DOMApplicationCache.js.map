@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/interface/DOMApplicationCache.dart",
+"lineCount":65,
+"mappings":"AAsDCA;;A;;;;;;;;;;;;;;;AAEmBC,uCAAA;;;A;AAAAA,wCAAA;;;A;AAEAC,0CAAA;;;A;AAAAA,2CAAA;;;A;AAEAC,mCAAA;;;A;AAAAA,oCAAA;;;A;AAEAC,uCAAA;;;A;AAAAA,wCAAA;;;A;AAEAC,uCAAA;;;A;AAAAA,wCAAA;;;A;AAEAC,0CAAA;;;A;AAAAA,2CAAA;;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/interface/DOMApplicationCache.dart"],
+"names":["DOMApplicationCache","CHECKING","DOWNLOADING","IDLE","OBSOLETE","UNCACHED","UPDATEREADY"]
+}

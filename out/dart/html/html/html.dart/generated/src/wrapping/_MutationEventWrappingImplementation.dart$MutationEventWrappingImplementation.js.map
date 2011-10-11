@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_MutationEventWrappingImplementation.dart",
+"lineCount":98,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,mG;AAAA,yH;AAAA,4G;AAAA,yF;AAAA,2G;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;wFAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,oBAAT;;A;AAErBC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEtBC,4EAAA;;;A;AAAAA,6EAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEtBC,6EAAA;;;A;AAAAA,8EAAA,GAAA,UAAuB;AAAE,SAAO,+BAAA,mBAAT;;A;AAEvBC,+EAAA;;;A;AAAAA,gFAAA,GAAA,UAAuB;AAAE,SAAOC,wBAAA,iBAAkB,+BAAA,qBAAlB,CAAT;;A;AAEvBC,sFAAA,GAAA,SAAuBC,IAAvB,EAAoCC,SAApC,EAAoDC,UAApD,EAAqEL,WAArE,EAAuFD,SAAvF,EAAyGD,QAAzG,EAA0HD,QAA1H,EAA2ID,UAA3I,CAA2J;AACzJ,iCAAA,qCAAuBO,IAAvB,EAA6BC,SAA7B,EAAwCC,UAAxC,EAAoDJ,wBAAA,eAAgBD,WAAhB,CAApD,EAAkFD,SAAlF,EAA6FD,QAA7F,EAAuGD,QAAvG,EAAiHD,UAAjH,CADyJ;AAEzJ,QAFyJ;;A;AAA3JU,qF;;;;;;;;AAAA,yFAAAJ;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_MutationEventWrappingImplementation.dart"],
+"names":["MutationEventWrappingImplementation","_wrap","ptr","tmp$0","attrChange","attrName","newValue","prevValue","relatedNode","LevelDom","initMutationEvent","type","canBubble","cancelable","initMutationEvent$named"]
+}

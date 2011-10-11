@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_PositionErrorCallbackWrappingImplementation.dart",
+"lineCount":55,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iJ;AAAA,2H;AAAA,oH;AAAA,iG;AAAA,sG;AACEC,0FAAA,GAAA,SAAkDC,GAAlD,CAA0E;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA1ED,0FAAA,GAAA;2EAAqEC,GAArE;;A;AAAAD,qIAAA,GAAA,SAAkDC,GAAlD;MAAAC,uEAAA;;;;;;A;AAEAC,wFAAA,GAAA,SAAiBC,KAAjB,CAAsC;AACpC,SAAO,+BAAA,+BAAiBC,wBAAA,eAAgBD,KAAhB,CAAjB,CAD6B;;A;AAAtCE,uF;;;;;;;;AAAA,2FAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_PositionErrorCallbackWrappingImplementation.dart"],
+"names":["PositionErrorCallbackWrappingImplementation","_wrap","ptr","tmp$0","handleEvent","error","LevelDom","handleEvent$named"]
+}

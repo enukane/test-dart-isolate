@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_XMLHttpRequestProgressEventWrappingImplementation.dart",
+"lineCount":59,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6J;AAAA,uI;AAAA,yH;AAAA,iH;AAAA,+I;AAAA,uI;AAAA,0H;AAAA,uG;AAAA,iI;AACEC,gGAAA,GAAA,SAAwDC,GAAxD,CAAgF;AAAjB,gGAAYA,GAAZ,CAAiB;;A;AAAhFD,gGAAA,GAAA;gGAA2EC,GAA3E;;A;AAAAD,iJAAA,GAAA,SAAwDC,GAAxD;MAAAC,6EAAA;;;;;;A;AAEAC,0FAAA;;;A;AAAAA,2FAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEnBC,2FAAA;;;A;AAAAA,4FAAA,GAAA,UAAoB;AAAE,SAAO,+BAAA,mBAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_XMLHttpRequestProgressEventWrappingImplementation.dart"],
+"names":["XMLHttpRequestProgressEventWrappingImplementation","_wrap","ptr","tmp$0","position","totalSize"]
+}

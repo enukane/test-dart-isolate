@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib.dart/src/isolate.dart",
+"lineCount":166,
+"mappings":"AAiHCA;;A;;;;;;;;;;AAAA,mD;AAAA,kD;;;;;;;;;AAKEC,yBAAA,GAAA;AAAY,2CAAZ;;A;AAAAA,yBAAA,GAAA;;;A;AAAAA,6BAAA,GAAA;MAAAC,wBAAA;;;;;;A;AAAA,4D;AAKAC,8BAAA,GAAA;;;A;AAAAA,8BAAA,GAAA;;AAAkB,8BAAlB;;A;AAAAA,oCAAA,GAAA;MAAAD,wBAAA;;;;;;A;AAKAE,8BAAA,GAAA;;;A;AAAAA,8BAAA,GAAA;;AAAkB,+BAAlB;;A;AAAAA,oCAAA,GAAA;MAAAF,wBAAA;;;;;;A;AAmBAG,mCAAA,GAAA,UAA0B;AACxB,SAAOC,mBAAA,cAAqB,IAArB,EAA2B,wBAA3B,CADiB;;A;AAA1BC,kC;;;;;;;;AAAA,sCAAAF;;;A;AAOAG,oCAAA,GAAA,SAAUC,IAAV,CAA4B;;AAC1B,8BAAQA,IAAR,SAD0B;AAE1B,oBAF0B;;A;AAA5BC,mC;;;;;;;;AAAA,uCAAAF;;;A;AAaAC,iCAAA;;;A;AAAAA,kCAAA,GAAA,UAAuB;AACrB,SAAO,qBADc;;A;AASvBE,kCAAA,GAAA;;A;AAAAC,iC;;;;;;;;AAAA,qCAAAD;;;A;AAEWE,uCAAA;;;A;AAAAA,wCAAA;;;A;AACCC,oCAAA;;;A;AAAAA,qCAAA;;;A;AAAAA,qCAAA;;;A;AAWZC,wBAAA,GAAA,SAAqBC,CAArB,CAAiC;AAE/B,SAAOV,mBAAA,aAAoBU,CAApB,CAFwB;;A;AAAjCC,uB;;;;;;;;AAAA,2BAAAF;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib.dart/src/isolate.dart"],
+"names":["Isolate","","tmp$0","light","heavy","spawn","IsolateNatives","spawn$named","_run","port","_run$$named_","main","main$named","_isLight","_port","bind","f","bind$named"]
+}

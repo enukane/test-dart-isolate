@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CSSPrimitiveValueWrappingImplementation.dart",
+"lineCount":163,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yI;AAAA,mH;AAAA,0G;AAAA,gI;AAAA,gH;AAAA,6F;AAAA,kH;AACEC,sFAAA,GAAA,SAA8CC,GAA9C,CAAsE;AAAjB,2FAAYA,GAAZ,CAAiB;;A;AAAtED,sFAAA,GAAA;2FAAiEC,GAAjE;;A;AAAAD,6HAAA,GAAA,SAA8CC,GAA9C;MAAAC,mEAAA;;;;;;A;AAEAC,qFAAA;;;A;AAAAA,sFAAA,GAAA,UAAwB;AAAE,SAAO,+BAAA,uBAAT;;A;AAExBC,wFAAA,GAAA,UAA0B;AACxB,SAAOC,wBAAA,oBAAqB,+BAAA,kCAArB,CADiB;;A;AAA1BC,uF;;;;;;;;AAAA,2FAAAF;;;A;AAIAG,sFAAA,GAAA,SAAkBC,QAAlB,CAAgC;AAC9B,SAAO,+BAAA,iCAAmBA,QAAnB,CADuB;;A;AAAhCC,qF;;;;;;;;AAAA,yFAAAF;;;A;AAIAG,yFAAA,GAAA,UAA4B;AAC1B,SAAOL,wBAAA,qBAAsB,+BAAA,mCAAtB,CADmB;;A;AAA5BM,wF;;;;;;;;AAAA,4FAAAD;;;A;AAIAE,qFAAA,GAAA,UAAoB;AAClB,SAAOP,wBAAA,iBAAkB,+BAAA,+BAAlB,CADW;;A;AAApBQ,oF;;;;;;;;AAAA,wFAAAD;;;A;AAIAE,uFAAA,GAAA,UAAwB;AACtB,SAAO,+BAAA,iCADe;;A;AAAxBC,sF;;;;;;;;AAAA,0FAAAD;;;A;AAIAE,sFAAA,GAAA,SAAmBR,QAAnB,EAAiCS,UAAjC,CAAiD;AAC/C,iCAAA,iCAAmBT,QAAnB,EAA6BS,UAA7B,CAD+C;AAE/C,QAF+C;;A;AAAjDC,qF;;;;;;;;AAAA,yFAAAF;;;A;AAKAG,uFAAA,GAAA,SAAoBC,UAApB,EAAoCC,WAApC,CAAwD;AACtD,iCAAA,kCAAoBD,UAApB,EAAgCC,WAAhC,CADsD;AAEtD,QAFsD;;A;AAAxDC,sF;;;;;;;;AAAA,0FAAAH;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CSSPrimitiveValueWrappingImplementation.dart"],
+"names":["CSSPrimitiveValueWrappingImplementation","_wrap","ptr","tmp$0","primitiveType","getCounterValue","LevelDom","getCounterValue$named","getFloatValue","unitType","getFloatValue$named","getRGBColorValue","getRGBColorValue$named","getRectValue","getRectValue$named","getStringValue","getStringValue$named","setFloatValue","floatValue","setFloatValue$named","setStringValue","stringType","stringValue","setStringValue$named"]
+}

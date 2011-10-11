@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_LocalMediaStreamWrappingImplementation.dart",
+"lineCount":103,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,4F;AAAA,uF;AAAA,8G;AAAA,0F;AAAA,mF;AAAA,kF;AAAA,gG;AACEC,yDAAA,GAAA,UAAoD;AAAR,iEAAQ;;A;AAApDA,yDAAA,GAAA;;;A;AAAAA,6FAAA,GAAA;MAAAC,wDAAA;;;;;;A;AAEAC,kGAAA,GAAA,UAAwD;AACtD,SAAO,+FAD+C;;A;AAAxDC,iG;;;;;;;;AAAAC,wGAAA;SAAAF,kGAAA;;A;AAAA,qGAAAA;;;A;AAIAG,kEAAA,GAAA,UAAY;AACVN,8CAAA,gBAAM,IAAN,CADU;AAEV,QAFU;;A;AAAZO,iE;;;;;;;;AAAA,qEAAAD;;;A;AAIAE,2DAAA,GAAA,SAAkBC,QAAlB,CAA4B;;;A;AAA5BC,0D;;;;;;;;AAAA,8DAAAF;;;A;AAEAG,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAsB;AAAE,SAAO,kBAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_LocalMediaStreamWrappingImplementation.dart"],
+"names":["_LocalMediaStreamWrappingImplementation","","tmp$0","create__LocalMediaStreamWrappingImplementation","create__LocalMediaStreamWrappingImplementation$named","native__LocalMediaStreamWrappingImplementation_create__LocalMediaStreamWrappingImplementation","stop","stop$named","_stop","receiver","_stop$$named_","typeName"]
+}

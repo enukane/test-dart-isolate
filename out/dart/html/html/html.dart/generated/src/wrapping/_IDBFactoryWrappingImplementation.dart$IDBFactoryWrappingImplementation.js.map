@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_IDBFactoryWrappingImplementation.dart",
+"lineCount":71,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,2H;AAAA,qG;AAAA,yG;AAAA,sF;AAAA,2F;AACEC,+EAAA,GAAA,SAAuCC,GAAvC,CAA+D;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAA/DD,+EAAA,GAAA;2EAA0DC,GAA1D;;A;AAAAD,+GAAA,GAAA,SAAuCC,GAAvC;MAAAC,4DAAA;;;;;;A;AAEAC,kFAAA,GAAA,UAA8B;AAC5B,SAAOC,wBAAA,uBAAwB,+BAAA,mCAAxB,CADqB;;A;AAA9BC,iF;;;;;;;;AAAA,qFAAAF;;;A;AAIAG,sEAAA,GAAA,SAAgBC,MAAhB,CAA6B;AAC3B,SAAOH,wBAAA,uBAAwB,+BAAA,wBAAUG,MAAV,CAAxB,CADoB;;A;AAA7BC,qE;;;;;;;;AAAA,yEAAAF;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_IDBFactoryWrappingImplementation.dart"],
+"names":["IDBFactoryWrappingImplementation","_wrap","ptr","tmp$0","getDatabaseNames","LevelDom","getDatabaseNames$named","open","name","open$named"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_FileListWrappingImplementation.dart",
+"lineCount":124,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mG;AAAA,4E;AAAA,kF;AAAA,2E;AAAA,0E;AAAA,oE;AACEC,iDAAA,GAAA,UAA4C;AAAR,6CAAQ;;A;AAA5CA,iDAAA,GAAA;;;A;AAAAA,6EAAA,GAAA;MAAAC,gDAAA;;;;;;A;AAEAC,kFAAA,GAAA,UAAgD;AAC9C,SAAO,+EADuC;;A;AAAhDC,iF;;;;;;;;AAAAC,wFAAA;SAAAF,kFAAA;;A;AAAA,qFAAAA;;;A;AAIAG,2DAAA;;;A;AAAAA,4DAAA,GAAA,UAAiB;AAAE,SAAON,oCAAA,gCAAsB,IAAtB,CAAT;;A;AACjBO,mEAAA,GAAA,SAAiCC,KAAjC,CAA4C;;;A;AAA5CC,kE;;;;;;;;AAAA,sEAAAF;;;A;AAEAG,0DAAA,GAAA,SAAUC,KAAV,CAAqB;AACnB,SAAOX,oCAAA,gBAAM,IAAN,EAAYW,KAAZ,CADY;;A;AAArBC,yD;;;;;;;;AAAA,6DAAAF;;;A;AAGAG,mDAAA,GAAA,SAAkBC,QAAlB,EAA4BH,KAA5B,CAAmC;;;A;AAAnCI,kD;;;;;;;;AAAA,sDAAAF;;;A;AAEAG,6DAAA;;;A;AAAAA,8DAAA,GAAA,UAAsB;AAAE,SAAO,UAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_FileListWrappingImplementation.dart"],
+"names":["_FileListWrappingImplementation","","tmp$0","create__FileListWrappingImplementation","create__FileListWrappingImplementation$named","native__FileListWrappingImplementation_create__FileListWrappingImplementation","length","_get__FileList_length","_this","_get__FileList_length$$named_","item","index","item$named","_item","receiver","_item$$named_","typeName"]
+}

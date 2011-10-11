@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CSSFontFaceRuleWrappingImplementation.dart",
+"lineCount":49,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qI;AAAA,+G;AAAA,uG;AAAA,6H;AAAA,8G;AAAA,2F;AAAA,+G;AACEC,oFAAA,GAAA,SAA4CC,GAA5C,CAAoE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAApED,oFAAA,GAAA;0FAA+DC,GAA/D;;A;AAAAD,yHAAA,GAAA,SAA4CC,GAA5C;MAAAC,iEAAA;;;;;;A;AAEAC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAAgC;AAAE,SAAOC,wBAAA,gCAAiC,+BAAA,eAAjC,CAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CSSFontFaceRuleWrappingImplementation.dart"],
+"names":["CSSFontFaceRuleWrappingImplementation","_wrap","ptr","tmp$0","style","LevelDom"]
+}

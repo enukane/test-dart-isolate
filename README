@@ -1,0 +1,4 @@
+* WTF is this *
+test code for Dart to use Isolate. The purpose is to understand
+how Dart handles multitasking when converting to js; which is
+not a laungage for concurrency

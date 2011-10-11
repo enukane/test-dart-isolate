@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_DetailsElementWrappingImplementation.dart",
+"lineCount":58,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mI;AAAA,6G;AAAA,sG;AAAA,mG;AAAA,0G;AAAA,4H;AAAA,yH;AAAA,gI;AAAA,6G;AAAA,0F;AAAA,8G;AACEC,mFAAA,GAAA,SAA2CC,GAA3C,CAAmE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAnED,mFAAA,GAAA;0FAA8DC,GAA9D;;A;AAAAD,uHAAA,GAAA,SAA2CC,GAA3C;MAAAC,gEAAA;;;;;;A;AAEAC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,cAAT;;A;AAEhBA,0EAAA,GAAA,SAAcC,KAAd,CAA0B;;AAAE,iCAAA,qBAAYA,KAAZ,SAAF;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_DetailsElementWrappingImplementation.dart"],
+"names":["DetailsElementWrappingImplementation","_wrap","ptr","tmp$0","open","value"]
+}

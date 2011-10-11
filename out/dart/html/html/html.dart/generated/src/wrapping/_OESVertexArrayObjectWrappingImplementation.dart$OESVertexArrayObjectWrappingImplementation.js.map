@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_OESVertexArrayObjectWrappingImplementation.dart",
+"lineCount":105,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+I;AAAA,yH;AAAA,mH;AAAA,gG;AAAA,qG;AACEC,yFAAA,GAAA,SAAiDC,GAAjD,CAAyE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAzED,yFAAA,GAAA;2EAAoEC,GAApE;;A;AAAAD,mIAAA,GAAA,SAAiDC,GAAjD;MAAAC,sEAAA;;;;;;A;AAEAC,8FAAA,GAAA,SAAwBC,WAAxB,CAA+D;AAC7D,iCAAA,sCAAwBC,wBAAA,eAAgBD,WAAhB,CAAxB,CAD6D;AAE7D,QAF6D;;A;AAA/DE,6F;;;;;;;;AAAA,iGAAAH;;;A;AAKAI,gGAAA,GAAA,UAAiD;AAC/C,SAAOF,wBAAA,sCAAuC,+BAAA,uCAAvC,CADwC;;A;AAAjDG,+F;;;;;;;;AAAA,mGAAAD;;;A;AAIAE,gGAAA,GAAA,SAA0BL,WAA1B,CAAiE;AAC/D,iCAAA,wCAA0BC,wBAAA,eAAgBD,WAAhB,CAA1B,CAD+D;AAE/D,QAF+D;;A;AAAjEM,+F;;;;;;;;AAAA,mGAAAD;;;A;AAKAE,4FAAA,GAAA,SAAsBP,WAAtB,CAA6D;AAC3D,SAAO,+BAAA,oCAAsBC,wBAAA,eAAgBD,WAAhB,CAAtB,CADoD;;A;AAA7DQ,2F;;;;;;;;AAAA,+FAAAD;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_OESVertexArrayObjectWrappingImplementation.dart"],
+"names":["OESVertexArrayObjectWrappingImplementation","_wrap","ptr","tmp$0","bindVertexArrayOES","arrayObject","LevelDom","bindVertexArrayOES$named","createVertexArrayOES","createVertexArrayOES$named","deleteVertexArrayOES","deleteVertexArrayOES$named","isVertexArrayOES","isVertexArrayOES$named"]
+}

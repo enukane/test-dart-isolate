@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_DeviceOrientationEventWrappingImplementation.dart",
+"lineCount":82,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mJ;AAAA,6H;AAAA,4G;AAAA,kI;AAAA,qH;AAAA,kG;AAAA,oH;AACEC,2FAAA,GAAA,SAAmDC,GAAnD,CAA2E;AAAjB,wFAAYA,GAAZ,CAAiB;;A;AAA3ED,2FAAA,GAAA;wFAAsEC,GAAtE;;A;AAAAD,uIAAA,GAAA,SAAmDC,GAAnD;MAAAC,wEAAA;;;;;;A;AAEAC,kFAAA;;;A;AAAAA,mFAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;A;AAEhBC,iFAAA;;;A;AAAAA,kFAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;A;AAEfC,kFAAA;;;A;AAAAA,mFAAA,GAAA,UAAgB;AAAE,SAAO,+BAAA,eAAT;;A;AAEhBC,wGAAA,GAAA,SAAgCC,IAAhC,EAA6CC,OAA7C,EAA2DC,UAA3D,EAA4EN,KAA5E,EAAuFC,IAAvF,EAAiGC,KAAjG,CAA4G;AAC1G,iCAAA,8CAAgCE,IAAhC,EAAsCC,OAAtC,EAA+CC,UAA/C,EAA2DN,KAA3D,EAAkEC,IAAlE,EAAwEC,KAAxE,CAD0G;AAE1G,QAF0G;;A;AAA5GK,uG;;;;;;;;AAAA,2GAAAJ;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_DeviceOrientationEventWrappingImplementation.dart"],
+"names":["DeviceOrientationEventWrappingImplementation","_wrap","ptr","tmp$0","alpha","beta","gamma","initDeviceOrientationEvent","type","bubbles","cancelable","initDeviceOrientationEvent$named"]
+}

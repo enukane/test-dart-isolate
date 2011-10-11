@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_EntityWrappingImplementation.dart",
+"lineCount":67,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,mH;AAAA,6F;AAAA,2F;AAAA,kG;AAAA,iH;AAAA,wH;AAAA,qG;AAAA,kF;AAAA,mG;AACEC,2EAAA,GAAA,SAAmCC,GAAnC,CAA2D;AAAjB,uFAAYA,GAAZ,CAAiB;;A;AAA3DD,2EAAA,GAAA;uFAAsDC,GAAtD;;A;AAAAD,uGAAA,GAAA,SAAmCC,GAAnC;MAAAC,wDAAA;;;;;;A;AAEAC,yEAAA;;;A;AAAAA,0EAAA,GAAA,UAA0B;AAAE,SAAO,+BAAA,sBAAT;;A;AAE1BC,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEtBC,qEAAA;;;A;AAAAA,sEAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_EntityWrappingImplementation.dart"],
+"names":["EntityWrappingImplementation","_wrap","ptr","tmp$0","notationName","publicId","systemId"]
+}

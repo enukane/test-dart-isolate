@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_EntityReferenceWrappingImplementation.dart",
+"lineCount":43,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qI;AAAA,+G;AAAA,oG;AAAA,2G;AAAA,0H;AAAA,iI;AAAA,8G;AAAA,2F;AAAA,4G;AACEC,oFAAA,GAAA,SAA4CC,GAA5C,CAAoE;AAAjB,uFAAYA,GAAZ,CAAiB;;A;AAApED,oFAAA,GAAA;uFAA+DC,GAA/D;;A;AAAAD,yHAAA,GAAA,SAA4CC,GAA5C;MAAAC,iEAAA;;;;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_EntityReferenceWrappingImplementation.dart"],
+"names":["EntityReferenceWrappingImplementation","_wrap","ptr","tmp$0"]
+}

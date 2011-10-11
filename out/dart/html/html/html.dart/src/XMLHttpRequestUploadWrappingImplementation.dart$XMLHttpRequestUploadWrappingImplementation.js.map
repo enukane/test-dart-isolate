@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/XMLHttpRequestUploadWrappingImplementation.dart",
+"lineCount":53,
+"mappings":"AAgBCA;;A;;;;;;;;;;;;;;;;AAAA,+I;AAAA,yH;AAAA,gH;AAAA,sI;AAAA,mH;AAAA,gG;AAAA,wH;AACEC,yFAAA,GAAA,SAAiDC,GAAjD,CAAyE;AAAjB,8FAAYA,GAAZ,CAAiB;;A;AAAzED,yFAAA,GAAA;8FAAoEC,GAApE;;A;AAAAD,mIAAA,GAAA,SAAiDC,GAAjD;MAAAC,sEAAA;;;;;;A;AAEAC,6EAAA;;;A;AAAAA,8EAAA,GAAA,UAAoC;;AAClC,MAAI,8BAAA,QAAJ,EAAkB;AAChB,yCAAM,gIAAmD,+BAAnD,CAAN,SADgB;;AAGlB,SAAO,8BAJ2B;;;",
+"sources":["dart://html/html/html.dart/src/XMLHttpRequestUploadWrappingImplementation.dart"],
+"names":["XMLHttpRequestUploadWrappingImplementation","_wrap","ptr","tmp$0","on"]
+}

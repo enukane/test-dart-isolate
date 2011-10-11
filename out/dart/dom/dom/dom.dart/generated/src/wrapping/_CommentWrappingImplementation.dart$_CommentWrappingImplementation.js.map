@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_CommentWrappingImplementation.dart",
+"lineCount":73,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iG;AAAA,0E;AAAA,gF;AAAA,uE;AAAA,8E;AAAA,uG;AAAA,8F;AAAA,iF;AAAA,0E;AAAA,yE;AAAA,yF;AACEC,gDAAA,GAAA,UAA2C;AAAR,mEAAQ;;A;AAA3CA,gDAAA,GAAA;;;A;AAAAA,2EAAA,GAAA;MAAAC,+CAAA;;;;;;A;AAEAC,gFAAA,GAAA,UAA+C;AAC7C,SAAO,6EADsC;;A;AAA/CC,+E;;;;;;;;AAAAC,sFAAA;SAAAF,gFAAA;;A;AAAA,mFAAAA;;;A;AAIAG,4DAAA;;;A;AAAAA,6DAAA,GAAA,UAAsB;AAAE,SAAO,SAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_CommentWrappingImplementation.dart"],
+"names":["_CommentWrappingImplementation","","tmp$0","create__CommentWrappingImplementation","create__CommentWrappingImplementation$named","native__CommentWrappingImplementation_create__CommentWrappingImplementation","typeName"]
+}

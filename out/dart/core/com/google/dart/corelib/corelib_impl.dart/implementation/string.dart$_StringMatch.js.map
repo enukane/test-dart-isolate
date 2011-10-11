@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/string.dart",
+"lineCount":160,
+"mappings":"AAoMCA;;A;;;;;;;;;;;;;;;AAAA,6D;AAAA,sD;AAAA,uD;AACEC,8BAAA,GAAA,SAAmBC,MAAnB,EACmBC,GADnB,EAEmBC,OAFnB;;;A;AAAAH,8BAAA,GAAA;;AAAmB,wBAAAC,MAAnB;AACmB,mBAAAC,GADnB;AAEmB,uBAAAC,OAFnB;;A;AAAAH,uCAAA,GAAA,SAAmBC,MAAnB,EACmBC,GADnB,EAEmBC,OAFnB;MAAAC,6BAAA;;;;;;A;AAIAC,wCAAA,GAAA,UAAY;SAAG,sBAAH;;A;AAAZC,uC;;;;;;;;AAAA,2CAAAD;;;A;AACAE,sCAAA,GAAA,UAAU;SAAG,aAAA,sBAAA,EAAS,qBAAA,gBAAT,CAAH;;A;AAAVC,qC;;;;;;;;AAAA,yCAAAD;;;A;AACAE,0CAAA,GAAA,SAAkBC,CAAlB,CAAyB;SAAG,kBAAMA,CAAN,CAAH;;A;AACzBC,6CAAA,GAAA,UAAiB;;;A;AAAjBC,4C;;;;;;;;AAAA,gDAAAD;;;A;AAEAE,wCAAA,GAAA,SAAaA,KAAb,CAAwB;AACtB,MAAI,YAAAA,KAAA,IAAJ,EAAgB;AACd,yBAAM,gEAA6BA,KAA7B,CAAN,CADc;;AAGhB,SAAO,qBAJe;;A;AAAxBC,uC;;;;;;;;AAAA,2CAAAD;;;A;AAOAE,yCAAA,GAAA,SAAqBA,MAArB,CAAwC;AACtC,MAAcC,SAAS,wEADe;;aAExBD,MAFwB;;;AAEhB;AACpBC,cAAA,uBAAW,kBAAMN,CAAN,CAAX,CADoB;;AAFgB;;AAKtC,SAAOM,MAL+B;;A;AAAxCC,wC;;;;;;;;AAAA,4CAAAF;;;A;AAQUd,0CAAA;;;A;AAAAA,2CAAA;;;A;AACGC,qCAAA;;;A;AAAAA,sCAAA;;;A;AACAC,yCAAA;;;A;AAAAA,0CAAA;;;;",
+"sources":["dart://core/com/google/dart/corelib/corelib_impl.dart/implementation/string.dart"],
+"names":["_StringMatch","","_start","str","pattern","tmp$0","start","start$named","end","end$named","[]","g","groupCount","groupCount$named","group","group$named","groups","result","groups$named"]
+}

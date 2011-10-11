@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_SpanElementWrappingImplementation.dart",
+"lineCount":45,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,6H;AAAA,uG;AAAA,mG;AAAA,gG;AAAA,uG;AAAA,yH;AAAA,sH;AAAA,6H;AAAA,0G;AAAA,uF;AAAA,2G;AACEC,gFAAA,GAAA,SAAwCC,GAAxC,CAAgE;AAAjB,0FAAYA,GAAZ,CAAiB;;A;AAAhED,gFAAA,GAAA;0FAA2DC,GAA3D;;A;AAAAD,iHAAA,GAAA,SAAwCC,GAAxC;MAAAC,6DAAA;;;;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_SpanElementWrappingImplementation.dart"],
+"names":["SpanElementWrappingImplementation","_wrap","ptr","tmp$0"]
+}

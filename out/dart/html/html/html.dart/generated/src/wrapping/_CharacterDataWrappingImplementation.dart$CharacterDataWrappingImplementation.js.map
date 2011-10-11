@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_CharacterDataWrappingImplementation.dart",
+"lineCount":148,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,iI;AAAA,2G;AAAA,kG;AAAA,yG;AAAA,wH;AAAA,+H;AAAA,4G;AAAA,yF;AAAA,0G;AACEC,kFAAA,GAAA,SAA0CC,GAA1C,CAAkE;AAAjB,uFAAYA,GAAZ,CAAiB;;A;AAAlED,kFAAA,GAAA;uFAA6DC,GAA7D;;A;AAAAD,qHAAA,GAAA,SAA0CC,GAA1C;MAAAC,+DAAA;;;;;;A;AAEAC,wEAAA;;;A;AAAAA,yEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;A;AAElBA,yEAAA,GAAA,SAAcC,KAAd,CAA4B;;AAAE,iCAAA,qBAAYA,KAAZ,SAAF;;A;AAE5BC,0EAAA;;;A;AAAAA,2EAAA,GAAA,UAAiB;AAAE,SAAO,+BAAA,gBAAT;;A;AAEjBC,+EAAA,GAAA,SAAgBH,IAAhB,CAA6B;AAC3B,iCAAA,8BAAgBA,IAAhB,CAD2B;AAE3B,QAF2B;;A;AAA7BI,8E;;;;;;;;AAAA,kFAAAD;;;A;AAKAE,+EAAA,GAAA,SAAgBC,MAAhB,EAA4BJ,QAA5B,CAAwC;AACtC,iCAAA,8BAAgBI,MAAhB,EAAwBJ,QAAxB,CADsC;AAEtC,QAFsC;;A;AAAxCK,8E;;;;;;;;AAAA,kFAAAF;;;A;AAKAG,+EAAA,GAAA,SAAgBF,MAAhB,EAA4BN,IAA5B,CAAyC;AACvC,iCAAA,8BAAgBM,MAAhB,EAAwBN,IAAxB,CADuC;AAEvC,QAFuC;;A;AAAzCS,8E;;;;;;;;AAAA,kFAAAD;;;A;AAKAE,gFAAA,GAAA,SAAiBJ,MAAjB,EAA6BJ,QAA7B,EAAyCF,IAAzC,CAAsD;AACpD,iCAAA,+BAAiBM,MAAjB,EAAyBJ,QAAzB,EAAiCF,IAAjC,CADoD;AAEpD,QAFoD;;A;AAAtDW,+E;;;;;;;;AAAA,mFAAAD;;;A;AAKAE,kFAAA,GAAA,SAAqBN,MAArB,EAAiCJ,QAAjC,CAA6C;AAC3C,SAAO,+BAAA,iCAAmBI,MAAnB,EAA2BJ,QAA3B,CADoC;;A;AAA7CW,iF;;;;;;;;AAAA,qFAAAD;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_CharacterDataWrappingImplementation.dart"],
+"names":["CharacterDataWrappingImplementation","_wrap","ptr","tmp$0","data","value","length","appendData","appendData$named","deleteData","offset","deleteData$named","insertData","insertData$named","replaceData","replaceData$named","substringData","substringData$named"]
+}

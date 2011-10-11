@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/src/WorkerWrappingImplementation.dart",
+"lineCount":50,
+"mappings":"AAKCA;;A;;;;;;;;;;;;;;;;AAAA,+G;AAAA,iG;AAAA,yG;AAAA,2F;AAAA,uH;AAAA,yG;AAAA,gF;AAAA,yG;AAEEC,yEAAA,GAAA,SAAiCC,IAAjC;AAAyC,+FAAYA,IAAZ,CAAzC;;A;AAAAD,yEAAA,GAAA;+FAAqDC,IAArD;;A;AAAAD,mGAAA,GAAA,SAAiCC,IAAjC;MAAAC,sDAAA;;;;;;A;AAEAC,kEAAA;;;A;AAAAA,mEAAA,GAAA,UAAgC;SAAG,8BAAK,SAAL,CAAH;;;",
+"sources":["dart://html/html/html.dart/src/WorkerWrappingImplementation.dart"],
+"names":["WorkerEventsImplementation","_wrap","_ptr","tmp$0","message"]
+}

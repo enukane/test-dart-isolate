@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_SQLStatementErrorCallbackWrappingImplementation.dart",
+"lineCount":100,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qI;AAAA,8G;AAAA,mG;AAAA,4F;AAAA,2F;AAAA,qF;AACEC,kEAAA,GAAA,UAA6D;AAAR,6CAAQ;;A;AAA7DA,kEAAA,GAAA;;;A;AAAAA,+GAAA,GAAA;MAAAC,iEAAA;;;;;;A;AAEAC,oHAAA,GAAA,UAAiE;AAC/D,SAAO,iHADwD;;A;AAAjEC,mH;;;;;;;;AAAAC,0HAAA;SAAAF,oHAAA;;A;AAAA,uHAAAA;;;A;AAIAG,kFAAA,GAAA,SAAiBC,WAAjB,EAA6CC,KAA7C,CAA6D;AAC3D,SAAOR,qDAAA,uBAAa,IAAb,EAAmBO,WAAnB,EAAgCC,KAAhC,CADoD;;A;AAA7DC,iF;;;;;;;;AAAA,qFAAAH;;;A;AAGAI,2EAAA,GAAA,SAAyBC,QAAzB,EAAmCJ,WAAnC,EAAgDC,KAAhD,CAAuD;;;A;AAAvDI,0E;;;;;;;;AAAA,8EAAAF;;;A;AAEAG,8EAAA;;;A;AAAAA,+EAAA,GAAA,UAAsB;AAAE,SAAO,2BAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_SQLStatementErrorCallbackWrappingImplementation.dart"],
+"names":["_SQLStatementErrorCallbackWrappingImplementation","","tmp$0","create__SQLStatementErrorCallbackWrappingImplementation","create__SQLStatementErrorCallbackWrappingImplementation$named","native__SQLStatementErrorCallbackWrappingImplementation_create__SQLStatementErrorCallbackWrappingImplementation","handleEvent","transaction","error","handleEvent$named","_handleEvent","receiver","_handleEvent$$named_","typeName"]
+}

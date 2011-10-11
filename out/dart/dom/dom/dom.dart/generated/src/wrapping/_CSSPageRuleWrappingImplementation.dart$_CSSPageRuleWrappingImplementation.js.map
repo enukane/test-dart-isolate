@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_CSSPageRuleWrappingImplementation.dart",
+"lineCount":138,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,yG;AAAA,kF;AAAA,8E;AAAA,qG;AAAA,qF;AAAA,8E;AAAA,6E;AAAA,uF;AACEC,oDAAA,GAAA,UAA+C;AAAR,6DAAQ;;A;AAA/CA,oDAAA,GAAA;;;A;AAAAA,mFAAA,GAAA;MAAAC,mDAAA;;;;;;A;AAEAC,wFAAA,GAAA,UAAmD;AACjD,SAAO,qFAD0C;;A;AAAnDC,uF;;;;;;;;AAAAC,8FAAA;SAAAF,wFAAA;;A;AAAA,2FAAAA;;;A;AAIAG,oEAAA;;;A;AAAAA,qEAAA,GAAA,UAA0B;AAAE,SAAON,uCAAA,yCAA+B,IAA/B,CAAT;;A;AAG1BM,qEAAA,GAAA,SAAsBC,KAAtB,CAAoC;AAAEP,yCAAA,yCAA+B,IAA/B,EAAqCO,KAArC,CAAF;;A;AAFpCC,+EAAA,GAAA,SAA6CC,KAA7C,CAAwD;;;A;AAAxDC,8E;;;;;;;;AAAA,kFAAAF;;;A;AAGAG,+EAAA,GAAA,SAA2CF,KAA3C,EAAsDF,KAAtD,CAAoE;;;A;AAApEK,8E;;;;;;;;AAAA,kFAAAD;;;A;AAEAE,6DAAA;;;A;AAAAA,8DAAA,GAAA,UAAgC;AAAE,SAAOb,uCAAA,kCAAwB,IAAxB,CAAT;;A;AAChCc,wEAAA,GAAA,SAAmDL,KAAnD,CAA8D;;;A;AAA9DM,uE;;;;;;;;AAAA,2EAAAD;;;A;AAEAE,gEAAA;;;A;AAAAA,iEAAA,GAAA,UAAsB;AAAE,SAAO,aAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_CSSPageRuleWrappingImplementation.dart"],
+"names":["_CSSPageRuleWrappingImplementation","","tmp$0","create__CSSPageRuleWrappingImplementation","create__CSSPageRuleWrappingImplementation$named","native__CSSPageRuleWrappingImplementation_create__CSSPageRuleWrappingImplementation","selectorText","value","_get__CSSPageRule_selectorText","_this","_get__CSSPageRule_selectorText$$named_","_set__CSSPageRule_selectorText","_set__CSSPageRule_selectorText$$named_","style","_get__CSSPageRule_style","_get__CSSPageRule_style$$named_","typeName"]
+}

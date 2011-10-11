@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://dom/dom/dom.dart/generated/src/wrapping/_NavigatorUserMediaSuccessCallbackWrappingImplementation.dart",
+"lineCount":100,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qJ;AAAA,8H;AAAA,2G;AAAA,oG;AAAA,mG;AAAA,6F;AACEC,0EAAA,GAAA,UAAqE;AAAR,6CAAQ;;A;AAArEA,0EAAA,GAAA;;;A;AAAAA,+HAAA,GAAA;MAAAC,yEAAA;;;;;;A;AAEAC,oIAAA,GAAA,UAAyE;AACvE,SAAO,iIADgE;;A;AAAzEC,mI;;;;;;;;AAAAC,0IAAA;SAAAF,oIAAA;;A;AAAA,uIAAAA;;;A;AAIAG,0FAAA,GAAA,SAAiBC,MAAjB,CAA0C;AACxC,SAAOP,6DAAA,uBAAa,IAAb,EAAmBO,MAAnB,CADiC;;A;AAA1CC,yF;;;;;;;;AAAA,6FAAAF;;;A;AAGAG,mFAAA,GAAA,SAAyBC,QAAzB,EAAmCH,MAAnC,CAA2C;;;A;AAA3CI,kF;;;;;;;;AAAA,sFAAAF;;;A;AAEAG,sFAAA;;;A;AAAAA,uFAAA,GAAA,UAAsB;AAAE,SAAO,mCAAT;;;",
+"sources":["dart://dom/dom/dom.dart/generated/src/wrapping/_NavigatorUserMediaSuccessCallbackWrappingImplementation.dart"],
+"names":["_NavigatorUserMediaSuccessCallbackWrappingImplementation","","tmp$0","create__NavigatorUserMediaSuccessCallbackWrappingImplementation","create__NavigatorUserMediaSuccessCallbackWrappingImplementation$named","native__NavigatorUserMediaSuccessCallbackWrappingImplementation_create__NavigatorUserMediaSuccessCallbackWrappingImplementation","handleEvent","stream","handleEvent$named","_handleEvent","receiver","_handleEvent$$named_","typeName"]
+}

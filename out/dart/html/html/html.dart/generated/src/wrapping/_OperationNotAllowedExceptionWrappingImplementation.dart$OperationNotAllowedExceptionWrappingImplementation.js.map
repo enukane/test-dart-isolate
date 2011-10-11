@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_OperationNotAllowedExceptionWrappingImplementation.dart",
+"lineCount":63,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+J;AAAA,yI;AAAA,2H;AAAA,wG;AAAA,6G;AACEC,iGAAA,GAAA,SAAyDC,GAAzD,CAAiF;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAAjFD,iGAAA,GAAA;2EAA4EC,GAA5E;;A;AAAAD,mJAAA,GAAA,SAAyDC,GAAzD;MAAAC,8EAAA;;;;;;A;AAEAC,uFAAA;;;A;AAAAA,wFAAA,GAAA,UAAe;AAAE,SAAO,+BAAA,cAAT;;A;AAEfC,0FAAA;;;A;AAAAA,2FAAA,GAAA,UAAqB;AAAE,SAAO,+BAAA,iBAAT;;A;AAErBC,uFAAA;;;A;AAAAA,wFAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_OperationNotAllowedExceptionWrappingImplementation.dart"],
+"names":["OperationNotAllowedExceptionWrappingImplementation","_wrap","ptr","tmp$0","code","message","name"]
+}

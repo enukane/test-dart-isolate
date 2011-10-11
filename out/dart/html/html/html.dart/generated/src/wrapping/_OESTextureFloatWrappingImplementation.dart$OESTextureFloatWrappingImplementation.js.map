@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_OESTextureFloatWrappingImplementation.dart",
+"lineCount":39,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,qI;AAAA,+G;AAAA,8G;AAAA,2F;AAAA,gG;AACEC,oFAAA,GAAA,SAA4CC,GAA5C,CAAoE;AAAjB,2EAAYA,GAAZ,CAAiB;;A;AAApED,oFAAA,GAAA;2EAA+DC,GAA/D;;A;AAAAD,yHAAA,GAAA,SAA4CC,GAA5C;MAAAC,iEAAA;;;;;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_OESTextureFloatWrappingImplementation.dart"],
+"names":["OESTextureFloatWrappingImplementation","_wrap","ptr","tmp$0"]
+}

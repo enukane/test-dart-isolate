@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"dart://html/html/html.dart/generated/src/wrapping/_FileWrappingImplementation.dart",
+"lineCount":73,
+"mappings":"AAOCA;;A;;;;;;;;;;;;;;;;AAAA,+G;AAAA,yF;AAAA,yF;AAAA,+G;AAAA,mG;AAAA,gF;AAAA,iG;AACEC,yEAAA,GAAA,SAAiCC,GAAjC,CAAyD;AAAjB,uFAAYA,GAAZ,CAAiB;;A;AAAzDD,yEAAA,GAAA;uFAAoDC,GAApD;;A;AAAAD,mGAAA,GAAA,SAAiCC,GAAjC;MAAAC,sDAAA;;;;;;A;AAEAC,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAAsB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEtBC,mEAAA;;;A;AAAAA,oEAAA,GAAA,UAAmB;AAAE,SAAO,+BAAA,kBAAT;;A;AAEnBC,2EAAA;;;A;AAAAA,4EAAA,GAAA,UAA4B;AAAE,SAAO,+BAAA,0BAAT;;A;AAE5BC,+DAAA;;;A;AAAAA,gEAAA,GAAA,UAAkB;AAAE,SAAO,+BAAA,cAAT;;;",
+"sources":["dart://html/html/html.dart/generated/src/wrapping/_FileWrappingImplementation.dart"],
+"names":["FileWrappingImplementation","_wrap","ptr","tmp$0","fileName","fileSize","lastModifiedDate","name"]
+}

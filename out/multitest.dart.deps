@@ -1,0 +1,10 @@
+multitest.dart
+Function dart://core/com/google/dart/corelib/corelib.dart 2128862925
+Isolate dart://core/com/google/dart/corelib/corelib.dart -47866528
+MyIsolate multitest.dart -282453636
+SendPort dart://core/com/google/dart/corelib/corelib.dart 1995453833
+String dart://core/com/google/dart/corelib/corelib.dart -1135880366
+createIsolate multitest.dart -248079156
+doIt multitest.dart 1618932507
+print dart://core/com/google/dart/corelib/corelib.dart 0
+
